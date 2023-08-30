@@ -25,5 +25,5 @@ for project in os.listdir("."):
             os.system("rename 's/%s-//' %s/*.po" % (project, project))
         if project in CINNAMON_PROJECTS:
             os.system("mv %s FOREIGN/cinnamon-translations/" % project)
-        elif project not in MINT_PROJECTS:
+        elif project not in MAUNA_PROJECTS:
             os.system("mv %s FOREIGN/" % project)

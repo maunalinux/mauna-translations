@@ -32,7 +32,7 @@ def clone_or_reset(repo_name, parent_path):
         os.system("git pull origin master")
     else:
         # clone repository from github
-        os.system("git clone git@github.com:linuxmint/%s.git" % repo_name)
+        os.system("git clone git@github.com:maunalinux/%s.git" % repo_name)
         os.chdir(repo_name)
 
 def copy_translations(repo_name):
