@@ -1,0 +1,534 @@
+mauna-translations (2023.08.15) mauna; urgency=medium
+
+  * Test
+
+ -- Amarok Linux <packages@amaroklinux.org>  Tue, 15 Aug 2023 17:15:45 -0300
+
+mint-translations (2023.07.07) victoria; urgency=medium
+
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 07 Jul 2023 18:14:54 +0200
+
+mint-translations (2023.06.08) victoria; urgency=medium
+
+  * Use git dch (local alias)
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 08 Jun 2023 12:26:44 +0100
+
+mint-translations (2022.12.16) vera; urgency=medium
+
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 16 Dec 2022 13:30:18 +0000
+
+mint-translations (2022.12.02) vera; urgency=medium
+
+  * Update codename
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 02 Dec 2022 17:52:19 +0000
+
+mint-translations (2022.07.24) vanessa; urgency=medium
+
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 24 Jul 2022 12:49:37 +0200
+
+mint-translations (2022.06.27) vanessa; urgency=medium
+
+  * update.py: Add distro name in changelogs
+  * update.py: Change version bump heuristic
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 27 Jun 2022 14:45:10 +0200
+
+mint-translations (2021.12.31) una; urgency=medium
+
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 31 Dec 2021 13:29:07 +0000
+
+mint-translations (2021.12.06) una; urgency=medium
+
+  * Add a script to help updating foreign projects
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 06 Dec 2021 16:23:25 +0000
+
+mint-translations (2021.06.25) uma; urgency=medium
+
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 25 Jun 2021 16:03:36 +0100
+
+mint-translations (2021.06.10) uma; urgency=medium
+
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 10 Jun 2021 12:37:50 +0100
+
+mint-translations (2021.01.02) ulyssa; urgency=medium
+
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 02 Jan 2021 17:50:35 +0000
+
+mint-translations (2020.12.13) ulyssa; urgency=medium
+
+  * sort.sh: Call clean.sh
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 13 Dec 2020 10:56:33 +0000
+
+mint-translations (2020.12.10) ulyssa; urgency=medium
+
+  * Make mintdrivers an independent project
+  * sort.sh: Remove POT templates
+  * sort.sh: Rewrite script
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 10 Dec 2020 13:06:40 +0000
+
+mint-translations (2020.06.24) ulyana; urgency=medium
+
+  * clean.sh: Remove POT templates
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 24 Jun 2020 11:29:12 +0100
+
+mint-translations (2020.06.17) ulyana; urgency=medium
+
+  * Add a clean.sh script in the framework to tackle unsupported characters
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 17 Jun 2020 14:00:53 +0100
+
+mint-translations (2020.05.12) ulyana; urgency=medium
+
+  * Turn live-installer into a foreign project
+  * sort: Add support for warpinator and mintubiquity
+  * Sort.sh: Forbid de_DE
+  * sort.sh: Add support for nvidia-prime-applet
+  * sort.sh: Remove obsolete projects mdm and cinnamon-bluetooth
+  * sort.sh: Warpinator wants simple PO names
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 12 May 2020 12:46:42 +0100
+
+mint-translations (2020.01.06) tricia; urgency=medium
+
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 06 Jan 2020 10:48:59 +0000
+
+mint-translations (2019.12.11) tricia; urgency=medium
+
+  * Forbid some locales (fr_FR, pt_PT)
+  * sort.sh: Installation guide is foreign
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 11 Dec 2019 15:02:07 +0000
+
+mint-translations (2019.11.26) tricia; urgency=medium
+
+  * Make mintreport an individual project
+  * Update sort.sh
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 26 Nov 2019 17:45:05 +0000
+
+mint-translations (2019.07.28) tina; urgency=medium
+
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 28 Jul 2019 15:49:04 +0200
+
+mint-translations (2019.07.10) tina; urgency=medium
+
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 10 Jul 2019 12:49:55 +0200
+
+mint-translations (2018.12.11) tessa; urgency=medium
+
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 11 Dec 2018 15:24:26 +0000
+
+mint-translations (2018.11.27) tessa; urgency=medium
+
+  * sort.sh: Add xapp
+  * Sort: Xapp goes into foreign
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 27 Nov 2018 20:07:09 +0000
+
+mint-translations (2018.08.14) tara; urgency=medium
+
+  * Update live-installer translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 14 Aug 2018 14:15:36 +0200
+
+mint-translations (2018.06.26) tara; urgency=medium
+
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 26 Jun 2018 14:42:55 +0200
+
+mint-translations (2018.05.22) tara; urgency=medium
+
+  * sort.sh: mintupdate is now independent
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 22 May 2018 13:16:01 +0100
+
+mint-translations (2018.01.06) sylvia; urgency=medium
+
+  * mocheck: Add support for RST checks
+  * RST: Don't check empty msgstr
+  * Remove mocheck (moved to mint-dev-tools)
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 06 Jan 2018 16:13:35 +0000
+
+mint-translations (2017.11.23) sylvia; urgency=medium
+
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 23 Nov 2017 12:57:42 +0000
+
+mint-translations (2017.11.12) sylvia; urgency=medium
+
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 12 Nov 2017 10:34:35 +0000
+
+mint-translations (2017.11.03) sylvia; urgency=medium
+
+  * Add support for slick-greeter
+  * Add support for cinnamon-settings-daemon
+  * Add support for cinnamon-session
+  * Replace nemo-emblems with nemo-extensions
+  * mocheck: Add columns for project and issue
+  * Mocheck: Fix Launchpad link for some pofiles
+  * mocheck: Remove editable columns, save/revert, datecheck.
+  * mocheck: Simplify code and threading
+  * mocheck: Mark plurals in treeview
+  * Mocheck: Detect arg mismatches for plural forms in Python
+  * mocheck: Don't interpret markups in MSGID/MSGSTR columns
+  * sort: Slick-greeter requires a rename
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 03 Nov 2017 21:33:46 +0000
+
+mint-translations (2017.06.28) sonya; urgency=medium
+
+  * l10n: Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 28 Jun 2017 11:30:17 +0200
+
+mint-translations (2017.05.23) sonya; urgency=medium
+
+  * l10n: Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 23 May 2017 15:00:11 +0100
+
+mint-translations (2017.05.06) sonya; urgency=medium
+
+  * Add support lightdm-settings
+  * Mocheck: Additional fixes
+  * l10n: Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 06 May 2017 15:57:43 +0100
+
+mint-translations (2016.12.12) serena; urgency=medium
+
+  * l10n: Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 12 Dec 2016 14:52:20 +0000
+
+mint-translations (2016.11.10) serena; urgency=medium
+
+  * Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 10 Nov 2016 10:23:06 +0000
+
+mint-translations (2016.06.25) sarah; urgency=medium
+
+  * Fixed Makefile
+  * Added pix to list of foreign projects
+  * Added pix to list of individual projects
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 25 Jun 2016 13:12:45 +0100
+
+mint-translations (2016.05.24) sarah; urgency=medium
+
+  * Replaced clean.sh with sort.sh to prepare translations for foreign projects
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 24 May 2016 14:58:38 +0100
+
+mint-translations (2016.04.21) sarah; urgency=medium
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 21 Apr 2016 16:48:58 +0100
+
+mint-translations (2015.11.28) rosa; urgency=medium
+
+  * Cleanup: Remove mint-slideshow and mintupdate-debian
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 28 Nov 2015 14:03:41 +0000
+
+mint-translations (2015.11.13) rosa; urgency=medium
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 13 Nov 2015 22:28:24 +0000
+
+mint-translations (2015.11.06) rosa; urgency=medium
+
+  [ darealshinji ]
+  * GPL v3
+
+  [ Clement Lefebvre ]
+  * mocheck: Also check plural translations
+  * mocheck: test all plurals
+  * Updated mocheck from cinnamon-translations
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 06 Nov 2015 14:53:32 +0000
+
+mint-translations (2015.06.26) rafaela; urgency=medium
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 26 Jun 2015 16:36:14 +0200
+
+mint-translations (2015.06.02) rafaela; urgency=medium
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 02 Jun 2015 13:55:38 +0200
+
+mint-translations (2015.02.25) betsy; urgency=medium
+
+  * Updated packaging (now works off LP .po export)
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 25 Feb 2015 11:51:38 +0100
+
+mint-translations (2015.02.23) rebecca; urgency=medium
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 23 Feb 2015 12:01:24 +0100
+
+mint-translations (2014.11.23) rebecca; urgency=medium
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 23 Nov 2014 15:03:59 +0100
+
+mint-translations (2014.11.11) rebecca; urgency=medium
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 11 Nov 2014 12:09:42 +0100
+
+mint-translations (2014.10.31) rebecca; urgency=medium
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 31 Oct 2014 17:52:09 +0100
+
+mint-translations (2014.05.25) qiana; urgency=medium
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 25 May 2014 13:32:26 +0100
+
+mint-translations (2014.05.08) qiana; urgency=medium
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 08 May 2014 12:04:25 +0100
+
+mint-translations (2014.05.03) qiana; urgency=medium
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 03 May 2014 22:46:35 +0100
+
+mint-translations (2013.11.26.1) debian; urgency=low
+
+  * live-installer translations updated
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 27 Feb 2014 12:07:08 +0000
+
+mint-translations (2013.11.26) petra; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 26 Nov 2013 12:19:14 +0000
+
+mint-translations (2013.11.07) petra; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 07 Nov 2013 12:22:13 +0000
+
+mint-translations (2013.10.07) petra; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 07 Oct 2013 13:25:56 +0100
+
+mint-translations (2013.05.04) olivia; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 04 May 2013 17:48:06 +0100
+
+mint-translations (2013.05.01) olivia; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 01 May 2013 18:32:25 +0100
+
+mint-translations (2013.04.11) olivia; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 11 Apr 2013 19:00:29 +0100
+
+mint-translations (2012.10.18) nadia; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 18 Oct 2012 14:29:12 +0100
+
+mint-translations (2012.04.29) lisa; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 29 Apr 2012 11:08:33 +0000
+
+mint-translations (2011.11.24) lisa; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu,  24 Nov 2011 11:06:00 +0000
+
+mint-translations (2011.08.06) julia; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun,  06 Aug 2011 13:39:00 +0000
+
+mint-translations (2011.07.04) julia; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon,  04 Jul 2011 13:39:00 +0000
+
+mint-translations (2011.06.01) julia; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed,  01 Jun 2011 16:16:00 +0000
+
+mint-translations (2011.05.20) julia; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri,  20 May 2011 11:42:00 +0000
+
+mint-translations (2011.02.01) julia; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue,  01 Feb 2011 11:42:00 +0000
+
+mint-translations (2010.11.05) julia; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri,  05 Nov 2010 10:24:00 +0000
+
+mint-translations (2010.10.14) julia; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu,  14 Oct 2010 15:55:00 +0000
+
+mint-translations (2010.09.01) isadora; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed,  01 Aug 2010 13:48:00 +0000
+
+mint-translations (2010.06.12) isadora; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat,  12 Jun 2010 10:53:00 +0000
+
+mint-translations (2010.05.14) isadora; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri,  14 May 2010 10:01:00 +0000
+
+mint-translations (2010.05.13) isadora; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu,  13 May 2010 11:16:00 +0000
+
+mint-translations (2010.05.08) isadora; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat,  08 May 2010 11:49:00 +0000
+
+mint-translations (2010.05.06) isadora; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed,  06 May 2010 12:07:00 +0000
+
+mint-translations (2010.05.05) isadora; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed,  05 May 2010 17:54:00 +0000
+
+mint-translations (2010.02.02) helena; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue,  02 Feb 2010 10:13:00 +0000
+
+mint-translations (2009.12.21) helena; urgency=low
+
+  * Updated translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon,  21 Dec 2009 11:49:00 +0000
+
+mint-translations (2009.11.26) helena; urgency=low
+
+  * Updated translation for Mint 8 stable release
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu,  26 Nov 2009 10:09:00 +0000
+
+mint-translations (2009.11.03) helena; urgency=low
+
+  * Initial release
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue,  3 Nov 2009 12:16:00 +0000
+

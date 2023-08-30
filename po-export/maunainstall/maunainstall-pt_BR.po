@@ -1,0 +1,875 @@
+# Brazilian Portuguese translation for Mauna Linux
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the Mauna Linux package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: maunalinux\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2023-05-16 16:08+0100\n"
+"PO-Revision-Date: 2023-05-16 21:11+0000\n"
+"Last-Translator: Alberlan Lopes <alberlan@gmail.com>\n"
+"Language-Team: Brazilian Portuguese <pt_BR@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Launchpad-Export-Date: 2023-07-07 12:53+0000\n"
+"X-Generator: Launchpad (build 2ac9e3bf4ab511504f8fc651371e24a6a047ba12)\n"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:98
+#: usr/lib/mauna/maunainstall/maunainstall.py:100
+msgid "Multimedia Codecs"
+msgstr "Codecs Multimídia"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:99
+msgid "Multimedia Codecs for KDE"
+msgstr "Codecs Multimídia para KDE"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:475
+msgid "Add"
+msgstr "Adicionar"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:481
+#: usr/lib/mauna/maunainstall/maunainstall.py:3020
+msgid "Remove"
+msgstr "Remover"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:500
+msgid "Unavailable"
+msgstr "Não disponível"
+
+#. TRANSLATORS: showing specific number of reviews in the list view and the header of the package details.
+#: usr/lib/mauna/maunainstall/maunainstall.py:732
+#: usr/lib/mauna/maunainstall/maunainstall.py:2876
+#, python-format
+msgid "%d Review"
+msgid_plural "%d Reviews"
+msgstr[0] "%d Análise"
+msgstr[1] "%d Análises"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:793
+msgid "This package is a Flatpak"
+msgstr "Este pacote é um Flatpak"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:886
+msgid "All"
+msgstr "Tudo"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1038
+msgid ""
+"Cannot process this file while there are active operations.\n"
+"Please try again after they finish."
+msgstr ""
+"Não é possível processar este arquivo enquanto houver operações ativas.\n"
+"Por favor, tente novamente depois que eles terminarem."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1059
+msgid "The Flatpak repo you are trying to add already exists."
+msgstr "O repositório Flatpak que você está tentando adicionar já existe."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1067
+msgid "An error occurred attempting to add the Flatpak repo."
+msgstr "Ocorreu um erro ao tentar adicionar o repositório Flatpak."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1075
+msgid "Flatpak support is not currently available. Try installing flatpak."
+msgstr ""
+"O suporte ao flatpak não está disponível no momento. Tente instalar o "
+"flatpak."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1094
+msgid ""
+"Flatpak support is not currently available. Try installing flatpak and "
+"gir1.2-flatpak-1.0."
+msgstr ""
+"O suporte ao flatpak não está disponível no momento. Tente instalar o "
+"flatpak e o gir1.2-flatpak-1.0."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1134
+#: usr/lib/mauna/maunainstall/maunainstall.py:1135
+#: usr/lib/mauna/maunainstall/maunainstall.py:1945 generate_desktop_files:24
+#: generate_desktop_files:35
+msgid "Software Manager"
+msgstr "Gerenciador de Aplicativos"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1185
+msgid "Show installed applications"
+msgstr "Mostrar aplicativos instalados"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1194
+msgid "Search in packages summary (slower search)"
+msgstr "Pesquisar no resumo dos pacotes (pesquisa lenta)"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1200
+msgid "Search in packages description (even slower search)"
+msgstr "Pesquisar na descrição dos pacotes (pesquisa ainda mais lenta)"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1210
+msgid "Refresh the list of packages"
+msgstr "Atualizar a lista de pacotes"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1220
+#: usr/lib/mauna/maunainstall/maunainstall.py:1943
+msgid "About"
+msgstr "Sobre"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1445
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:4
+msgid "Top Rated"
+msgstr "Melhores avaliados"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1490
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:2
+msgid "Featured"
+msgstr "Destaque"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1550
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:3
+msgid "Categories"
+msgstr "Categories"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1604
+#, python-format
+msgid "%d task running"
+msgid_plural "%d tasks running"
+msgstr[0] "%d tarefa em execução"
+msgstr[1] "%d tarefas em execuções"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1747
+msgid "No screenshots available"
+msgstr "Nenhuma captura de tela disponível"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2033
+msgid ""
+"There are currently active operations.\n"
+"Are you sure you want to quit?"
+msgstr ""
+"Existem atualmente operações ativas\n"
+"Você tem certeza que quer sair?"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2091
+msgid "Installed Applications"
+msgstr "Aplicativos instalados"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2094
+msgid "Currently working on the following packages"
+msgstr "Atualmente trabalhando nos seguintes pacotes"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2099
+msgid "All Applications"
+msgstr "Todas as aplicações"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2107
+msgid "Internet"
+msgstr "Internet"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2109
+msgid "Web"
+msgstr "Web"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2114
+msgid "Email"
+msgstr "Correio eletrônico"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2118
+msgid "Chat"
+msgstr "Bate-papo"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2121
+msgid "File sharing"
+msgstr "Compartilhamento de arquivos"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2127
+msgid "Sound and video"
+msgstr "Multimídia"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2129
+msgid "Sound"
+msgstr "Áudio"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2131
+msgid "Video"
+msgstr "Vídeo"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2136
+msgid "Graphics"
+msgstr "Gráficos"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2140
+msgid "3D"
+msgstr "3D"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2142
+msgid "Drawing"
+msgstr "Desenho"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2144
+msgid "Photography"
+msgstr "Fotografia"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2146
+msgid "Publishing"
+msgstr "Editoração"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2148
+msgid "Scanning"
+msgstr "Digitalização"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2150
+msgid "Viewers"
+msgstr "Visualização"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2155
+msgid "Office"
+msgstr "Escritório"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2161
+msgid "Games"
+msgstr "Jogos"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2165
+msgid "Board games"
+msgstr "Jogos de tabuleiro"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2167
+msgid "First-person"
+msgstr "Primeira pessoa"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2169
+msgid "Real-time strategy"
+msgstr "Estratégia em tempo real"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2171
+msgid "Turn-based strategy"
+msgstr "Estratégia em turnos"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2173
+msgid "Emulators"
+msgstr "Emuladores"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2175
+msgid "Simulation and racing"
+msgstr "Simulação e corrida"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2180
+msgid "Accessories"
+msgstr "Acessórios"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2186
+msgid "System tools"
+msgstr "Ferramentas do sistema"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2193
+msgid "Fonts"
+msgstr "Fontes"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2199
+msgid "Science and Education"
+msgstr "Ciência e Educação"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2200
+msgid "Science"
+msgstr "Ciência"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2202
+msgid "Maths"
+msgstr "Matemática"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2204
+msgid "Education"
+msgstr "Educação"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2206
+msgid "Electronics"
+msgstr "Eletrônica"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2212
+msgid "Programming"
+msgstr "Desenvolvimento"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2214
+msgid "Java"
+msgstr "Java"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2216
+msgid "PHP"
+msgstr "PHP"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2218
+msgid "Python"
+msgstr "Python"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2220
+msgid "Essentials"
+msgstr "Essenciais"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2644
+msgid "All operations complete"
+msgstr "Todas as operações completadas"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2648
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:5
+msgid "No matching packages found"
+msgstr "Nenhum pacote correspondente encontrado"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2651
+msgid ""
+"No packages to show.\n"
+"This may indicate a problem - try refreshing the cache."
+msgstr ""
+"Nenhum pacote para mostrar.\n"
+"Isto pode indicar um problema - tente atualizar o cache."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2780
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:9
+msgid "System Package"
+msgstr "Pacote do sistema"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2780
+msgid "Your system's package manager"
+msgstr "O gerenciador de pacotes do seu sistema"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2792
+#, python-format
+msgid "Flatpak (%s)"
+msgstr "Flatpak (%s)"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2833
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:15
+msgid "Homepage"
+msgstr "Página inicial"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2842
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:16
+msgid "Documentation"
+msgstr "Documentação"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2944
+#, python-format
+msgid "Click <a href='%s'>here</a> to add your own review."
+msgstr "Clique <a href='%s'>aqui</a> para adicionar sua avaliação."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2991
+msgid ""
+"Unable to communicate with servers. Check your Internet connection and try "
+"again."
+msgstr ""
+"Não é possível se comunicar com os servidores. Verifique sua conexão com a "
+"Internet e tente novamente."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3024
+msgid "Installed"
+msgstr "Instalado"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3026
+msgid "Removing"
+msgstr "Removendo"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3028
+msgid "Install"
+msgstr "Instalar"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3036
+msgid "Not installed"
+msgstr "Não instalado"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3038
+msgid "Installing"
+msgstr "Instalando"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3042
+msgid "Cannot remove"
+msgstr "Não é possível remover"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3043
+msgid "Removing this package could cause irreparable damage to your system."
+msgstr "Remover este pacote pode causar danos irreparáveis ao seu sistema."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3045
+msgid "Cannot install"
+msgstr "Não é possível instalar"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3046
+msgid ""
+"Installing this package could cause irreparable damage to your system."
+msgstr "Instalar este pacote pode causar danos irreparáveis ao seu sistema."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3054
+msgid "Not available"
+msgstr "Não disponível"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3058
+msgid "Please use apt-get to install this package."
+msgstr ""
+"Por favor, use o comando \"apt-get\" ou \"apt install\" para instalar este "
+"pacote."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3060
+msgid "Use apt-get to remove this package."
+msgstr "Use apt-get para remover este pacote."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3064
+msgid "Try again"
+msgstr "Tentar novamente"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3067
+msgid "Something went wrong. Click to try again."
+msgstr "Algo deu errado. Clique para tentar novamente."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3091
+#, python-format
+msgid "%(localSize)s of disk space freed"
+msgstr "%(localSize)s de espaço em disco liberado"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3094
+#, python-format
+msgid "%(localSize)s of disk space required"
+msgstr "%(localSize)s de espaço em disco requerido"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3098
+#, python-format
+msgid "%(downloadSize)s to download, %(localSize)s of disk space freed"
+msgstr ""
+"%(downloadSize)s para baixar, %(localSize)s de espaço em disco liberado"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3101
+#, python-format
+msgid "%(downloadSize)s to download, %(localSize)s of disk space required"
+msgstr ""
+"%(downloadSize)s para baixar, %(localSize)s de espaço em disco requerido"
+
+#: generate_desktop_files:24 generate_desktop_files:35
+msgid "Install new applications"
+msgstr "Instalar novos aplicativos"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:1
+msgid "Generating cache, one moment"
+msgstr "Gerando cache, um momento"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:6
+msgid "Refresh"
+msgstr "Atualizar"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:7
+msgid "Launch"
+msgstr "Iniciar"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:8
+msgid "Please be patient. This can take some time..."
+msgstr "Por favor, aguarde. Isso pode demorar um pouco..."
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:10
+msgid "Name:"
+msgstr "Nome:"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:11
+msgid "Version:"
+msgstr "Versão:"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:12
+msgid "Size:"
+msgstr "Tamanho:"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:13
+msgid "Branch:"
+msgstr "Ramo:"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:14
+msgid "Remote:"
+msgstr "Remoto:"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:17
+msgid "Details"
+msgstr "Detalhes"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:18
+msgid "Reviews"
+msgstr "Avaliações"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:19
+msgid "Optional components"
+msgstr "Componentes opcionais"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:20
+msgid "Searching software repositories, one moment"
+msgstr "Buscando repositórios de aplicativos, um momento"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:21
+msgid "Limit search to current listing"
+msgstr "Limitar a pesquisa à listagem atual"
+
+#~ msgid "Close"
+#~ msgstr "Fechar"
+
+#~ msgid "Finished"
+#~ msgstr "Concluído"
+
+#~ msgid "Upgrade"
+#~ msgstr "Atualizar"
+
+#~ msgid "Show"
+#~ msgstr "Exibir"
+
+#~ msgid "Search"
+#~ msgstr "Procurar"
+
+#~ msgid "Description"
+#~ msgstr "Descrição"
+
+#~ msgid "Application"
+#~ msgstr "Aplicativo"
+
+#~ msgid "MB"
+#~ msgstr "MB"
+
+#~ msgid "KB"
+#~ msgstr "KB"
+
+#~ msgid "Icon"
+#~ msgstr "Ícone"
+
+#~ msgid "GB"
+#~ msgstr "GB"
+
+#~ msgid "B"
+#~ msgstr "B"
+
+#~ msgid "Size"
+#~ msgstr "Tamanho"
+
+#~ msgid "License:"
+#~ msgstr "Licença:"
+
+#~ msgid "Installed version"
+#~ msgstr "Versão instalada"
+
+#~ msgid "Package"
+#~ msgstr "Pacote"
+
+#~ msgid "Repository"
+#~ msgstr "Repositório"
+
+#~ msgid "More info"
+#~ msgstr "Mais informações"
+
+#~ msgid "Added"
+#~ msgstr "Adicionado"
+
+#~ msgid "Reviewer"
+#~ msgstr "Revisor"
+
+#~ msgid "Rating"
+#~ msgstr "Avaliação"
+
+#~ msgid "Quit"
+#~ msgstr "Sair"
+
+#~ msgid "_File"
+#~ msgstr "_Arquivo"
+
+#, python-format
+#~ msgid "%d screenshots loaded"
+#~ msgstr "%d screenshots carregados"
+
+#, python-format
+#~ msgid "%d categories loaded"
+#~ msgstr "%d categorias carregadas"
+
+#~ msgid "All applications"
+#~ msgstr "Todos os aplicativos"
+
+#, python-format
+#~ msgid "Upgrade %s?"
+#~ msgstr "Atualizar %s?"
+
+#, python-format
+#~ msgid "Install %s?"
+#~ msgstr "Instalar %s?"
+
+#~ msgid "The following packages will be installed:"
+#~ msgstr "Os seguintes pacotes serão instalados:"
+
+#~ msgid "Available version"
+#~ msgstr "Versão disponível"
+
+#~ msgid "Portal URL"
+#~ msgstr "URL do Portal"
+
+#~ msgid "Quick search:"
+#~ msgstr "Procura rápida:"
+
+#~ msgid "_Edit"
+#~ msgstr "_Editar"
+
+#, python-format
+#~ msgid "%d applications loaded"
+#~ msgstr "%d aplicativos carregados"
+
+#~ msgid "Application removed successfully"
+#~ msgstr "Aplicativo removido com sucesso"
+
+#, python-format
+#~ msgid "Remove %s?"
+#~ msgstr "Remover %s?"
+
+#~ msgid "The following packages will be removed:"
+#~ msgstr "Os seguintes pacotes serão removidos:"
+
+#~ msgid "Restoring your APT sources"
+#~ msgstr "Restaurando as fontes do APT"
+
+#~ msgid "Cancel installation"
+#~ msgstr "Cancelar instalação"
+
+#~ msgid "Cancel change"
+#~ msgstr "Cancelar alteração"
+
+#~ msgid "Real time strategy"
+#~ msgstr "Estratégia em tempo real"
+
+#~ msgid "Text editors"
+#~ msgstr "Editores de texto"
+
+#~ msgid "Simulation & racing"
+#~ msgstr "Simulação e Corrida"
+
+#~ msgid "Burning tools"
+#~ msgstr "Ferramentas de Gravação"
+
+#~ msgid "Tools"
+#~ msgstr "Ferramentas"
+
+#~ msgid "Web browsers"
+#~ msgstr "Navegadores"
+
+#~ msgid "Finance"
+#~ msgstr "Finanças"
+
+#~ msgid "2D"
+#~ msgstr "2D"
+
+#~ msgid "Spreadsheets"
+#~ msgstr "Planilhas"
+
+#~ msgid "Databases"
+#~ msgstr "Bancos de Dados"
+
+#~ msgid "Internet Relay Chat"
+#~ msgstr "Bate-papo via Internet (IRC)"
+
+#~ msgid "Mind mapping"
+#~ msgstr "Mapeamento Mental"
+
+#, python-format
+#~ msgid "Could not find package: %s"
+#~ msgstr "Não foi possível encontrar o pacote: %s"
+
+#~ msgid "Firewall"
+#~ msgstr "Firewall"
+
+#~ msgid "Drivers"
+#~ msgstr "Drivers"
+
+#~ msgid "Package management"
+#~ msgstr "Gerenciamento de Pacotes"
+
+#~ msgid "FTP"
+#~ msgstr "FTP"
+
+#~ msgid "Office suites"
+#~ msgstr "Aplicativos para escritório"
+
+#~ msgid "Graph and flowcharts"
+#~ msgstr "Gráficos e fluxogramas"
+
+#~ msgid "Upstream"
+#~ msgstr "Colaboração (upstream)"
+
+#~ msgid "The following packages will be upgraded:"
+#~ msgstr "Os pacotes a seguir serão atualizados :"
+
+#~ msgid "Website"
+#~ msgstr "Página da Web"
+
+#~ msgid "Score"
+#~ msgstr "Pontuação"
+
+#~ msgid "Installation is complete"
+#~ msgstr "Instalação concluída"
+
+#~ msgid "Using the following repositories:"
+#~ msgstr "Usando os seguintes repositórios:"
+
+#~ msgid "Default repositories"
+#~ msgstr "Repositórios padrão"
+
+#~ msgid "Go to the Mauna Linux Software Portal"
+#~ msgstr "Ir ao Portal de Aplicativos do Mauna Linux"
+
+#~ msgid "Find Software"
+#~ msgstr "Procurar Aplicativo"
+
+#~ msgid "Go to the GetDeb Portal"
+#~ msgstr "Ir ao Portal GetDeb"
+
+#~ msgid "Your APT sources were corrupted."
+#~ msgstr "Suas fontes de APT estão corrompidas"
+
+#~ msgid "Go to the Mauna Linux repository"
+#~ msgstr "Ir ao repositório do Mauna Linux"
+
+#~ msgid "Go to the Ubuntu repository"
+#~ msgstr "Ir ao repositório do Ubuntu"
+
+#~ msgid "These popular applications can be installed on your system:"
+#~ msgstr "Estes aplicativos famosos podem ser instalados em seu sistema:"
+
+#~ msgid "Featured applications"
+#~ msgstr "Aplicativos em destaque"
+
+#~ msgid "Cancel removal"
+#~ msgstr "Cancelar remoção"
+
+#~ msgid "Description:"
+#~ msgstr "Descrição:"
+
+#~ msgid ""
+#~ "The mauna file for this application was not successfully downloaded. Click on "
+#~ "refresh to fix the problem."
+#~ msgstr ""
+#~ "Houve um erro ao baixar o arquivo de instalação para este aplicativo. Clique "
+#~ "em atualizar para corrigir o problema."
+
+#~ msgid "The changes are complete"
+#~ msgstr "As alterações foram feitas"
+
+#~ msgid "Show:"
+#~ msgstr "Exibir:"
+
+#~ msgid "Category"
+#~ msgstr "Categorias"
+
+#~ msgid "Installed software"
+#~ msgstr "Aplicativos instalados"
+
+#, python-format
+#~ msgid ""
+#~ "%(applications)d applications listed, %(install)d to install, %(remove)d to "
+#~ "remove"
+#~ msgstr ""
+#~ "%(applications)d aplicações catalogadas, %(install)d a instalar, %(remove)d "
+#~ "a remover"
+
+#~ msgid "Your changes"
+#~ msgstr "Minhas alterações"
+
+#~ msgid "All software"
+#~ msgstr "Todos os aplicativos"
+
+#~ msgid "Available software"
+#~ msgstr "Aplicativos disponíveis"
+
+#~ msgid "Average rating"
+#~ msgstr "Pontuação média"
+
+#~ msgid "Views"
+#~ msgstr "Visitas"
+
+#~ msgid "Review"
+#~ msgstr "Resenhar"
+
+#~ msgid "Please refresh maunaInstall by clicking on the Refresh button"
+#~ msgstr "Por favor, atualize o maunaInstall. Basta clicar no botão Atualizar."
+
+#, python-format
+#~ msgid "Downloading data for %s"
+#~ msgstr "A descarregar dados de %s"
+
+#~ msgid ""
+#~ "The data used by maunaInstall is corrupted or out of date. Click on refresh "
+#~ "to fix the problem :"
+#~ msgstr ""
+#~ "Os dados utilizados pelo maunaInstall estão corrompidos ou desatualizados. "
+#~ "Clique em atualizar para corrigir este problema:"
+
+#~ msgid "Software manager"
+#~ msgstr "Gerenciador de aplicativos"
+
+#~ msgid "Cancel all changes"
+#~ msgstr "Desfazer todas as alterações"
+
+#, python-format
+#~ msgid "%d reviews loaded"
+#~ msgstr "%d resenhas carregadas"
+
+#~ msgid "First person shooters"
+#~ msgstr "Atiradores em primeira pessoa"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Multimídia"
+
+#~ msgid "Video players"
+#~ msgstr "Tocadores de Vídeo"
+
+#~ msgid "Audio players"
+#~ msgstr "Tocadores de Áudio"
+
+#~ msgid "Scanning tools"
+#~ msgstr "Ferramentas para scanner"
+
+#~ msgid "Image viewers"
+#~ msgstr "Visualizadores de imagens"
+
+#~ msgid "Photo"
+#~ msgstr "Fotografia"
+
+#~ msgid "Collection managers"
+#~ msgstr "Geranciadores de coleções"
+
+#~ msgid "Document viewers"
+#~ msgstr "Visualizadores de documento"
+
+#~ msgid "Word processors"
+#~ msgstr "Processadores de Texto"
+
+#~ msgid "Instant messengers"
+#~ msgstr "Mensagens Instantâneas"
+
+#~ msgid "P2P and torrent"
+#~ msgstr "Compartilhamento de arquivos"
+
+#~ msgid "Desktop components"
+#~ msgstr "Componentes da área de trabalho"
+
+#~ msgid "System Tools"
+#~ msgstr "Ferramentas do Sistema"
+
+#~ msgid "No results"
+#~ msgstr "Nenhum resultado"
+
+#~ msgid "Please wait, this can take some time"
+#~ msgstr "Por favor, aguarde. Isto pode levar algum tempo."
+
+#~ msgid "Backing up your APT sources"
+#~ msgstr "Fazendo cópia de segurança das fontes do APT"
+
+#~ msgid "Search for a .deb package"
+#~ msgstr "Procurar por pacotes .deb"
+
+#~ msgid "Search for a .mauna application"
+#~ msgstr "Procurar por aplicativos .mauna"
+
+#~ msgid ""
+#~ "Your APT sources were not correctly restored after you last ran maunaInstall. "
+#~ "They now have been restored."
+#~ msgstr ""
+#~ "Suas fontes do APT foram restauradas. Isso não havia sido feito corretamente "
+#~ "na última execução do maunaInstall."
+
+#~ msgid "_Help"
+#~ msgstr "Aj_uda"
+
+#~ msgid "Status"
+#~ msgstr "Situação"

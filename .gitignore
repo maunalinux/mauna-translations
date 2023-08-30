@@ -1,0 +1,6 @@
+debian/mauna-translations/
+debian/.debhelper/
+debian/files
+debian/mauna-translations.debhelper.log
+debian/mauna-translations.substvars
+
