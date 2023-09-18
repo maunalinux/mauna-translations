@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mauna\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-29 14:37+0000\n"
+"PO-Revision-Date: 2023-09-18 19:33-0300\n"
+"Last-Translator: raousoft <Unknown>\n"
+"Language-Team: \n"
+"Language: ar_EG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2023-07-07 12:53+0000\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: usr/bin/cinnamon-remove-application:33 usr/bin/mauna-remove-application:33
+msgid ""
+"This menu item is not associated to any package. Do you want to remove it "
+"from the menu anyway?"
+msgstr ""
+"عنصر القائمة هذا غير مرتبط بأي حزمة. هل تريد إزالته من القائمة بأي حال؟"
+
+#: usr/bin/cinnamon-remove-application:74 usr/bin/mauna-remove-application:74
+msgid "The following packages will be removed:"
+msgstr "سيتم إزالة الحزم التالية:"
+
+#: usr/bin/cinnamon-remove-application:81 usr/bin/mauna-remove-application:81
+msgid "Packages to be removed"
+msgstr "الحزم المراد إزالتها"
+
+#: usr/bin/cinnamon-remove-application:143 usr/bin/mauna-remove-application:143
+#, python-format
+msgid "Cannot remove package %s as it is required by other packages."
+msgstr "لا يمكن إزالة الحزمة %s لأنها مطلوبة من قبل الحزم الأخرى."
+
+#: usr/bin/cinnamon-remove-application:149 usr/bin/mauna-remove-application:149
+#, python-format
+msgid "Package %s is a dependency of the following packages:"
+msgstr "الحزمة %s هي تبعية للحزم التالية:"
+
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:39
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:110
+msgid "Install"
+msgstr "تثبيت"
+
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:40
+msgid "Reinstall"
+msgstr "إعادة التثبيت"
+
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:41
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:120
+msgid "Remove"
+msgstr "إزالة"
+
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:42
+msgid "Purge"
+msgstr "تفريغ"
+
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:43
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:140
+msgid "Upgrade"
+msgstr "ترقية"
+
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:44
+msgid "Downgrade"
+msgstr "تخفيض"
+
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:45
+msgid "Skip upgrade"
+msgstr "تخطي الترقية"
+
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:61
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:145
+msgid "Please take a look at the list of changes below."
+msgstr "برجاء إلقاء نظرة على قائمة  التغييرات أدناه."
+
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:68
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:155
+msgid "Additional software will be installed"
+msgstr "سيتم تثبيت برامج إضافية"
+
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:70
+msgid "Additional software will be re-installed"
+msgstr "ستتم إعادة-تثبيت البرامجَ إضافية"
+
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:72
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:157
+msgid "Additional software will be removed"
+msgstr "ستتم إزالة البرامج الإضافية"
+
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:74
+msgid "Additional software will be purged"
+msgstr "سيتم تفريغ البرامج الإضافية"
+
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:76
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:159
+msgid "Additional software will be upgraded"
+msgstr "سيتم ترقية البرامج الإضافية"
+
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:78
+msgid "Additional software will be downgraded"
+msgstr "سيتم خفض مستوى البرامج الإضافية"
+
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:80
+msgid "Updates will be skipped"
+msgstr "سيتم تخطي التحديثات"
+
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:88
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:168
+msgid "Additional changes are required"
+msgstr "يتطلب ذلك برمجيات إضافية"
+
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:93
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:174
+#, python-format
+msgid "%s will be downloaded in total."
+msgstr "سيتم تنزيل %s في المُجمل."
+
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:97
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:178
+#, python-format
+msgid "%s of disk space will be freed."
+msgstr "سيتم تحرير %s من مساحة القرص."
+
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:101
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:182
+#, python-format
+msgid "%s more disk space will be used."
+msgstr "سيتم استخدام %s من مساحة القرص."
+
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:106
+msgid "Flatpaks"
+msgstr "Flatpaks"
+
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:251
+msgid "Flatpak"
+msgstr "Flatpak"
+
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:332
+msgid "An error occurred"
+msgstr "حدث خطأ"
+
+#~ msgid "Please enter your password"
+#~ msgstr "يرجى إدخال كلمة المرور الخاصة بك"
