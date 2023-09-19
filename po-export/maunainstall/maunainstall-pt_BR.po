@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: maunalinux\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2023-05-16 16:08+0100\n"
-"PO-Revision-Date: 2023-05-16 21:11+0000\n"
+"PO-Revision-Date: 2023-09-19 18:31-0300\n"
 "Last-Translator: Alberlan Lopes <alberlan@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <pt_BR@li.org>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Launchpad-Export-Date: 2023-07-07 12:53+0000\n"
-"X-Generator: Launchpad (build 2ac9e3bf4ab511504f8fc651371e24a6a047ba12)\n"
+"X-Generator: Poedit 3.3.2\n"
 
 #: usr/lib/mauna/maunainstall/maunainstall.py:98
 #: usr/lib/mauna/maunainstall/maunainstall.py:100
@@ -76,16 +77,15 @@ msgstr "Ocorreu um erro ao tentar adicionar o repositório Flatpak."
 #: usr/lib/mauna/maunainstall/maunainstall.py:1075
 msgid "Flatpak support is not currently available. Try installing flatpak."
 msgstr ""
-"O suporte ao flatpak não está disponível no momento. Tente instalar o "
-"flatpak."
+"O suporte ao flatpak não está disponível no momento. Tente instalar o flatpak."
 
 #: usr/lib/mauna/maunainstall/maunainstall.py:1094
 msgid ""
-"Flatpak support is not currently available. Try installing flatpak and "
-"gir1.2-flatpak-1.0."
+"Flatpak support is not currently available. Try installing flatpak and gir1.2-"
+"flatpak-1.0."
 msgstr ""
-"O suporte ao flatpak não está disponível no momento. Tente instalar o "
-"flatpak e o gir1.2-flatpak-1.0."
+"O suporte ao flatpak não está disponível no momento. Tente instalar o flatpak e "
+"o gir1.2-flatpak-1.0."
 
 #: usr/lib/mauna/maunainstall/maunainstall.py:1134
 #: usr/lib/mauna/maunainstall/maunainstall.py:1135
@@ -128,7 +128,7 @@ msgstr "Destaque"
 #: usr/lib/mauna/maunainstall/maunainstall.py:1550
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:3
 msgid "Categories"
-msgstr "Categories"
+msgstr "Categorias"
 
 #: usr/lib/mauna/maunainstall/maunainstall.py:1604
 #, python-format
@@ -159,7 +159,7 @@ msgstr "Atualmente trabalhando nos seguintes pacotes"
 
 #: usr/lib/mauna/maunainstall/maunainstall.py:2099
 msgid "All Applications"
-msgstr "Todas as aplicações"
+msgstr "Todas os Aplicativos"
 
 #: usr/lib/mauna/maunainstall/maunainstall.py:2107
 msgid "Internet"
@@ -353,8 +353,7 @@ msgstr "Clique <a href='%s'>aqui</a> para adicionar sua avaliação."
 
 #: usr/lib/mauna/maunainstall/maunainstall.py:2991
 msgid ""
-"Unable to communicate with servers. Check your Internet connection and try "
-"again."
+"Unable to communicate with servers. Check your Internet connection and try again."
 msgstr ""
 "Não é possível se comunicar com os servidores. Verifique sua conexão com a "
 "Internet e tente novamente."
@@ -392,8 +391,7 @@ msgid "Cannot install"
 msgstr "Não é possível instalar"
 
 #: usr/lib/mauna/maunainstall/maunainstall.py:3046
-msgid ""
-"Installing this package could cause irreparable damage to your system."
+msgid "Installing this package could cause irreparable damage to your system."
 msgstr "Instalar este pacote pode causar danos irreparáveis ao seu sistema."
 
 #: usr/lib/mauna/maunainstall/maunainstall.py:3054
@@ -431,14 +429,12 @@ msgstr "%(localSize)s de espaço em disco requerido"
 #: usr/lib/mauna/maunainstall/maunainstall.py:3098
 #, python-format
 msgid "%(downloadSize)s to download, %(localSize)s of disk space freed"
-msgstr ""
-"%(downloadSize)s para baixar, %(localSize)s de espaço em disco liberado"
+msgstr "%(downloadSize)s para baixar, %(localSize)s de espaço em disco liberado"
 
 #: usr/lib/mauna/maunainstall/maunainstall.py:3101
 #, python-format
 msgid "%(downloadSize)s to download, %(localSize)s of disk space required"
-msgstr ""
-"%(downloadSize)s para baixar, %(localSize)s de espaço em disco requerido"
+msgstr "%(downloadSize)s para baixar, %(localSize)s de espaço em disco requerido"
 
 #: generate_desktop_files:24 generate_desktop_files:35
 msgid "Install new applications"
@@ -759,8 +755,8 @@ msgstr "Limitar a pesquisa à listagem atual"
 #~ "%(applications)d applications listed, %(install)d to install, %(remove)d to "
 #~ "remove"
 #~ msgstr ""
-#~ "%(applications)d aplicações catalogadas, %(install)d a instalar, %(remove)d "
-#~ "a remover"
+#~ "%(applications)d aplicações catalogadas, %(install)d a instalar, %(remove)d a "
+#~ "remover"
 
 #~ msgid "Your changes"
 #~ msgstr "Minhas alterações"
