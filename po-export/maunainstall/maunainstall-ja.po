@@ -1,0 +1,873 @@
+# Japanese translation for maunalinux
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the maunalinux package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mauna\n"
+"POT-Creation-Date: 2023-05-16 16:08+0100\n"
+"PO-Revision-Date: 2023-10-08 20:20-0300\n"
+"Last-Translator: vega m57 <Unknown>\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Launchpad-Export-Date: 2023-07-07 12:53+0000\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:98
+#: usr/lib/mauna/maunainstall/maunainstall.py:100
+msgid "Multimedia Codecs"
+msgstr "マルチメディアコーデック"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:99
+msgid "Multimedia Codecs for KDE"
+msgstr "KDE 向けマルチメディアコーデック"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:475
+msgid "Add"
+msgstr "追加"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:481
+#: usr/lib/mauna/maunainstall/maunainstall.py:3020
+msgid "Remove"
+msgstr "削除"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:500
+msgid "Unavailable"
+msgstr "利用不可"
+
+#. TRANSLATORS: showing specific number of reviews in the list view and the header of the package details.
+#: usr/lib/mauna/maunainstall/maunainstall.py:732
+#: usr/lib/mauna/maunainstall/maunainstall.py:2876
+#, python-format
+msgid "%d Review"
+msgid_plural "%d Reviews"
+msgstr[0] "%d レビュー"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:793
+msgid "This package is a Flatpak"
+msgstr "このパッケージはフラットパックです"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:886
+msgid "All"
+msgstr "全て"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1038
+msgid ""
+"Cannot process this file while there are active operations.\n"
+"Please try again after they finish."
+msgstr ""
+"実行中の作業がある間は、ファイルを処理できません。\n"
+"作業の完了後にもう一度試してください。"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1059
+msgid "The Flatpak repo you are trying to add already exists."
+msgstr "追加しようとしている Flatpak リポジトリは既に存在します。"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1067
+msgid "An error occurred attempting to add the Flatpak repo."
+msgstr "Flatpak リポジトリの追加中にエラーが発生しました。"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1075
+msgid "Flatpak support is not currently available. Try installing flatpak."
+msgstr ""
+"現在は Flatpak のサポートを利用できません。flatpak をインストールしてみてくださ"
+"い。"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1094
+msgid ""
+"Flatpak support is not currently available. Try installing flatpak and gir1.2-"
+"flatpak-1.0."
+msgstr ""
+"現在は Flatpak のサポートを利用できません。flatpak と gir1.2-flatpak-1.0 をインス"
+"トールしてみてください。"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1134
+#: usr/lib/mauna/maunainstall/maunainstall.py:1135
+#: usr/lib/mauna/maunainstall/maunainstall.py:1945 generate_desktop_files:24
+#: generate_desktop_files:35
+msgid "Software Manager"
+msgstr "ソフトウェアマネージャー"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1185
+msgid "Show installed applications"
+msgstr "インストール済みのアプリを表示"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1194
+msgid "Search in packages summary (slower search)"
+msgstr "パッケージの概要から検索 (少々時間が掛かります)"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1200
+msgid "Search in packages description (even slower search)"
+msgstr "パッケージの説明から検索 (多少時間が掛かります)"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1210
+msgid "Refresh the list of packages"
+msgstr "パッケージの一覧を再読み込み"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1220
+#: usr/lib/mauna/maunainstall/maunainstall.py:1943
+msgid "About"
+msgstr "このアプリケーションについて"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1445
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:4
+msgid "Top Rated"
+msgstr "トップレート"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1490
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:2
+msgid "Featured"
+msgstr "特徴"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1550
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:3
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1604
+#, python-format
+msgid "%d task running"
+msgid_plural "%d tasks running"
+msgstr[0] "%d 個のタスクが実行中です"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1747
+msgid "No screenshots available"
+msgstr "利用可能なスクリーンショットはありません"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2033
+msgid ""
+"There are currently active operations.\n"
+"Are you sure you want to quit?"
+msgstr ""
+"現在実行中の作業があります。\n"
+"終了してもよろしいですか？"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2091
+msgid "Installed Applications"
+msgstr "インストール済みのアプリ"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2094
+msgid "Currently working on the following packages"
+msgstr "現在、これらのパッケージを処理しています"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2099
+msgid "All Applications"
+msgstr "全てのアプリケーション"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2107
+msgid "Internet"
+msgstr "インターネット"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2109
+msgid "Web"
+msgstr "ウェブ"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2114
+msgid "Email"
+msgstr "電子メール"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2118
+msgid "Chat"
+msgstr "チャット"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2121
+msgid "File sharing"
+msgstr "ファイル共有"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2127
+msgid "Sound and video"
+msgstr "音楽と動画"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2129
+msgid "Sound"
+msgstr "音楽"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2131
+msgid "Video"
+msgstr "動画"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2136
+msgid "Graphics"
+msgstr "グラフィックス"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2140
+msgid "3D"
+msgstr "3D"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2142
+msgid "Drawing"
+msgstr "描画"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2144
+msgid "Photography"
+msgstr "写真"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2146
+msgid "Publishing"
+msgstr "出版"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2148
+msgid "Scanning"
+msgstr "スキャナー"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2150
+msgid "Viewers"
+msgstr "ビューアー"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2155
+msgid "Office"
+msgstr "オフィス"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2161
+msgid "Games"
+msgstr "ゲーム"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2165
+msgid "Board games"
+msgstr "ボードゲーム"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2167
+msgid "First-person"
+msgstr "一人称視点"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2169
+msgid "Real-time strategy"
+msgstr "リアルタイムストラテジー"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2171
+msgid "Turn-based strategy"
+msgstr "ターン制ストラテジー"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2173
+msgid "Emulators"
+msgstr "エミュレーター"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2175
+msgid "Simulation and racing"
+msgstr "シミュレーションとレーシング"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2180
+msgid "Accessories"
+msgstr "アクセサリ"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2186
+msgid "System tools"
+msgstr "システムツール"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2193
+msgid "Fonts"
+msgstr "フォント"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2199
+msgid "Science and Education"
+msgstr "科学と教育"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2200
+msgid "Science"
+msgstr "科学"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2202
+msgid "Maths"
+msgstr "数学"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2204
+msgid "Education"
+msgstr "教育"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2206
+msgid "Electronics"
+msgstr "電子工学"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2212
+msgid "Programming"
+msgstr "プログラミング"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2214
+msgid "Java"
+msgstr "Java"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2216
+msgid "PHP"
+msgstr "PHP"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2218
+msgid "Python"
+msgstr "Python"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2220
+msgid "Essentials"
+msgstr "基本"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2644
+msgid "All operations complete"
+msgstr "全ての作業が終了しました"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2648
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:5
+msgid "No matching packages found"
+msgstr "一致するパッケージがありません"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2651
+msgid ""
+"No packages to show.\n"
+"This may indicate a problem - try refreshing the cache."
+msgstr ""
+"表示できるパッケージがありません。\n"
+"問題が発生している可能性があります。キャッシュを再読み込みしてみてください。"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2780
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:9
+msgid "System Package"
+msgstr "システムパッケージ"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2780
+msgid "Your system's package manager"
+msgstr "システムのパッケージマネージャー"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2792
+#, python-format
+msgid "Flatpak (%s)"
+msgstr "Flatpak (%s)"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2833
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:15
+msgid "Homepage"
+msgstr "ホームページ"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2842
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:16
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2944
+#, python-format
+msgid "Click <a href='%s'>here</a> to add your own review."
+msgstr "<a href='%s'>ここ</a>をクリックするとレビューを追加できます。"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2991
+msgid ""
+"Unable to communicate with servers. Check your Internet connection and try again."
+msgstr ""
+"サーバーと通信できません。 インターネット接続を確認して、もう一度試してください。"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3024
+msgid "Installed"
+msgstr "インストール済み"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3026
+msgid "Removing"
+msgstr "削除しています"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3028
+msgid "Install"
+msgstr "インストール"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3036
+msgid "Not installed"
+msgstr "未インストール"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3038
+msgid "Installing"
+msgstr "インストールしています"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3042
+msgid "Cannot remove"
+msgstr "削除不可"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3043
+msgid "Removing this package could cause irreparable damage to your system."
+msgstr ""
+"このパッケージを削除すると、システムに修復不可能な問題が発生する可能性がありま"
+"す。"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3045
+msgid "Cannot install"
+msgstr "インストール不可"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3046
+msgid "Installing this package could cause irreparable damage to your system."
+msgstr ""
+"このパッケージをインストールすると、システムに修復不可能な問題が発生する可能性が"
+"あります。"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3054
+msgid "Not available"
+msgstr "利用不可"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3058
+msgid "Please use apt-get to install this package."
+msgstr "このパッケージは apt-get 経由でインストールしてください。"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3060
+msgid "Use apt-get to remove this package."
+msgstr "このパッケージを削除するには、apt-get を使用します。"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3064
+msgid "Try again"
+msgstr "もう一度やり直してください"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3067
+msgid "Something went wrong. Click to try again."
+msgstr "何か問題が発生しました。 クリックしてもう一度試してください。"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3091
+#, python-format
+msgid "%(localSize)s of disk space freed"
+msgstr "%(localSize)s のディスク領域が解放されます"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3094
+#, python-format
+msgid "%(localSize)s of disk space required"
+msgstr "%(localSize)s のディスク領域が使用されます"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3098
+#, python-format
+msgid "%(downloadSize)s to download, %(localSize)s of disk space freed"
+msgstr ""
+"%(downloadSize)s をダウンロードし、%(localSize)s のディスク領域が解放されます"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3101
+#, python-format
+msgid "%(downloadSize)s to download, %(localSize)s of disk space required"
+msgstr ""
+"%(downloadSize)s をダウンロードし、%(localSize)s のディスク領域が使用されます"
+
+#: generate_desktop_files:24 generate_desktop_files:35
+msgid "Install new applications"
+msgstr "新しいアプリケーションをインストールします"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:1
+msgid "Generating cache, one moment"
+msgstr "キャッシュを生成しています。しばらくお待ちください"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:6
+msgid "Refresh"
+msgstr "再読み込み"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:7
+msgid "Launch"
+msgstr "起動"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:8
+msgid "Please be patient. This can take some time..."
+msgstr "お待ちください。少し時間がかかります..."
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:10
+msgid "Name:"
+msgstr "名前："
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:11
+msgid "Version:"
+msgstr "バージョン："
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:12
+msgid "Size:"
+msgstr "サイズ："
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:13
+msgid "Branch:"
+msgstr "支店："
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:14
+msgid "Remote:"
+msgstr "リモート:"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:17
+msgid "Details"
+msgstr "詳細"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:18
+msgid "Reviews"
+msgstr "レビュー"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:19
+msgid "Optional components"
+msgstr "オプションのコンポーネント"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:20
+msgid "Searching software repositories, one moment"
+msgstr "ソフトウェアリポジトリを検索しています、お待ちください"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:21
+msgid "Limit search to current listing"
+msgstr "現在表示中の一覧のみに、検索範囲を限定します"
+
+#~ msgid "Description:"
+#~ msgstr "説明:"
+
+#~ msgid "Close"
+#~ msgstr "閉じる"
+
+#~ msgid "Finished"
+#~ msgstr "完了"
+
+#~ msgid "Your APT sources were corrupted."
+#~ msgstr "APT ソースファイルが壊れています。"
+
+#~ msgid "Size"
+#~ msgstr "サイズ"
+
+#~ msgid "License:"
+#~ msgstr "ライセンス:"
+
+#~ msgid "Website"
+#~ msgstr "ウェブサイト"
+
+#~ msgid "Using the following repositories:"
+#~ msgstr "以下のリポジトリを使用しています:"
+
+#~ msgid "The following packages will be installed:"
+#~ msgstr "以下のパッケージがインストールされます:"
+
+#~ msgid "Find Software"
+#~ msgstr "ソフトウェアを検索"
+
+#~ msgid "Search"
+#~ msgstr "検索"
+
+#~ msgid "Upgrade"
+#~ msgstr "アップグレード"
+
+#~ msgid "Default repositories"
+#~ msgstr "デフォルトのリポジトリ"
+
+#~ msgid "MB"
+#~ msgstr "MB"
+
+#~ msgid "Show"
+#~ msgstr "表示"
+
+#~ msgid "Cancel change"
+#~ msgstr "変更を中止"
+
+#~ msgid "Icon"
+#~ msgstr "アイコン"
+
+#~ msgid "Description"
+#~ msgstr "説明"
+
+#~ msgid "These popular applications can be installed on your system:"
+#~ msgstr ""
+#~ "これらの一般的なアプリケーションをシステムにインストールすることができます:"
+
+#~ msgid "Application"
+#~ msgstr "アプリケーション"
+
+#~ msgid "KB"
+#~ msgstr "KB"
+
+#~ msgid "Cancel removal"
+#~ msgstr "削除を中止"
+
+#~ msgid "Cancel installation"
+#~ msgstr "インストールを中止"
+
+#~ msgid "Portal URL"
+#~ msgstr "ポータル URL"
+
+#~ msgid "Available version"
+#~ msgstr "利用可能なバージョン"
+
+#~ msgid "Installed version"
+#~ msgstr "インストール済みのバージョン"
+
+#~ msgid "Package"
+#~ msgstr "パッケージ"
+
+#~ msgid "Repository"
+#~ msgstr "リポジトリ"
+
+#~ msgid "GB"
+#~ msgstr "GB"
+
+#~ msgid "The changes are complete"
+#~ msgstr "変更が完了しました"
+
+#~ msgid "Show:"
+#~ msgstr "表示:"
+
+#~ msgid "Quick search:"
+#~ msgstr "クイックサーチ:"
+
+#~ msgid "Category"
+#~ msgstr "カテゴリ"
+
+#~ msgid "Installed software"
+#~ msgstr "インストール済みのソフトウェア"
+
+#~ msgid "All software"
+#~ msgstr "全てのソフトウェア"
+
+#~ msgid "Available software"
+#~ msgstr "利用可能なソフトウェア"
+
+#~ msgid "Views"
+#~ msgstr "ビュー"
+
+#~ msgid "Added"
+#~ msgstr "追加済み"
+
+#~ msgid "Score"
+#~ msgstr "スコア"
+
+#~ msgid "Reviewer"
+#~ msgstr "レビューワー"
+
+#~ msgid "Review"
+#~ msgstr "レビュー"
+
+#~ msgid "Average rating"
+#~ msgstr "平均評価"
+
+#~ msgid "Rating"
+#~ msgstr "評価"
+
+#~ msgid "Status"
+#~ msgstr "ステータス"
+
+#~ msgid "Software manager"
+#~ msgstr "ソフトウェアマネージャ"
+
+#, python-format
+#~ msgid "%d categories loaded"
+#~ msgstr "%d のカテゴリをロード済み"
+
+#, python-format
+#~ msgid "Downloading data for %s"
+#~ msgstr "%s のデータをダウンロード中"
+
+#~ msgid "Quit"
+#~ msgstr "終了"
+
+#~ msgid "Cancel all changes"
+#~ msgstr "全ての変更をキャンセル"
+
+#, python-format
+#~ msgid "%d screenshots loaded"
+#~ msgstr "%d のスクリーンショットをロード済み"
+
+#, python-format
+#~ msgid "%d reviews loaded"
+#~ msgstr "%d のレビューをロード済み"
+
+#, python-format
+#~ msgid "%d applications loaded"
+#~ msgstr "%d のアプリケーションをロード済み"
+
+#~ msgid "Text editors"
+#~ msgstr "テキストエディタ"
+
+#~ msgid "Sound & Video"
+#~ msgstr "サウンドとビデオ"
+
+#~ msgid "Simulation & racing"
+#~ msgstr "シミュレーションとレース"
+
+#~ msgid "Video players"
+#~ msgstr "ビデオプレーヤー"
+
+#~ msgid "Audio players"
+#~ msgstr "オーディオプレーヤー"
+
+#~ msgid "Burning tools"
+#~ msgstr "書き込みツール"
+
+#~ msgid "Office suites"
+#~ msgstr "オフィススイート"
+
+#~ msgid "Scanning tools"
+#~ msgstr "スキャンツール"
+
+#~ msgid "Tools"
+#~ msgstr "ツール"
+
+#~ msgid "Image viewers"
+#~ msgstr "画像ビューア"
+
+#~ msgid "Photo"
+#~ msgstr "写真"
+
+#~ msgid "Collection managers"
+#~ msgstr "コレクションの管理"
+
+#~ msgid "Finance"
+#~ msgstr "ファイナンス"
+
+#~ msgid "Document viewers"
+#~ msgstr "ドキュメントビューア"
+
+#~ msgid "2D"
+#~ msgstr "2D"
+
+#~ msgid "Spreadsheets"
+#~ msgstr "スプレッドシート"
+
+#~ msgid "Word processors"
+#~ msgstr "ワードプロセッサー"
+
+#~ msgid "Graph and flowcharts"
+#~ msgstr "グラフとフローチャート"
+
+#~ msgid "Databases"
+#~ msgstr "データベース"
+
+#~ msgid "Internet Relay Chat"
+#~ msgstr "インターネットリレーチャット"
+
+#~ msgid "Instant messengers"
+#~ msgstr "インスタントメッセンジャー"
+
+#~ msgid "Firewall"
+#~ msgstr "ファイアウォール"
+
+#~ msgid "Drivers"
+#~ msgstr "ドライバ"
+
+#~ msgid "Upstream"
+#~ msgstr "アップストリーム"
+
+#~ msgid "Package management"
+#~ msgstr "パッケージ管理"
+
+#~ msgid "Desktop components"
+#~ msgstr "デスクトップコンポーネント"
+
+#~ msgid "FTP"
+#~ msgstr "FTP"
+
+#~ msgid "System Tools"
+#~ msgstr "システムツール"
+
+#~ msgid "Application removed successfully"
+#~ msgstr "アプリケーションの削除を完了しました"
+
+#~ msgid "The following packages will be removed:"
+#~ msgstr "以下のパッケージが削除されます:"
+
+#, python-format
+#~ msgid "Could not find package: %s"
+#~ msgstr "パッケージを見つけることができませんでした: %s"
+
+#~ msgid "No results"
+#~ msgstr "該当なし"
+
+#~ msgid "First person shooters"
+#~ msgstr "ファーストパーソン・シューティング"
+
+#~ msgid "Real time strategy"
+#~ msgstr "リアルタイム・ストラテジー"
+
+#~ msgid "B"
+#~ msgstr "B"
+
+#~ msgid "Featured applications"
+#~ msgstr "注目のアプリケーション"
+
+#~ msgid "All applications"
+#~ msgstr "すべてのアプリケーション"
+
+#~ msgid "Mind mapping"
+#~ msgstr "マインドマップ"
+
+#, python-format
+#~ msgid ""
+#~ "%(applications)d applications listed, %(install)d to install, %(remove)d to "
+#~ "remove"
+#~ msgstr ""
+#~ "%(applications)d 個のアプリケーション, %(install)d 個をインストール, "
+#~ "%(remove)d 個を削除"
+
+#~ msgid "More info"
+#~ msgstr "詳細情報"
+
+#~ msgid "Your changes"
+#~ msgstr "変更"
+
+#~ msgid "Backing up your APT sources"
+#~ msgstr "APT ソースをバックアップしています"
+
+#~ msgid "Restoring your APT sources"
+#~ msgstr "APT ソースを再構築しています"
+
+#~ msgid "Go to the Mauna Linux Software Portal"
+#~ msgstr "マウナ・リナックス のソフトウェアポータルへ"
+
+#~ msgid ""
+#~ "Your APT sources were not correctly restored after you last ran maunaInstall. "
+#~ "They now have been restored."
+#~ msgstr ""
+#~ "前回の maunaInstall 実行時に APT ソースファイルが正しく復元されませんでした"
+#~ "が、今回は復元に成功しました。"
+
+#~ msgid "Go to the Mauna Linux repository"
+#~ msgstr "マウナ・リナックス のリポジトリへ"
+
+#~ msgid "Go to the Ubuntu repository"
+#~ msgstr "Ubuntu のリポジトリへ"
+
+#~ msgid "Go to the GetDeb Portal"
+#~ msgstr "GetDeb のソフトウェアポータルへ"
+
+#~ msgid "Search for a .mint application"
+#~ msgstr ".mint アプリケーションを検索"
+
+#~ msgid "Search for a .deb package"
+#~ msgstr ".deb パッケージを検索"
+
+#~ msgid "_File"
+#~ msgstr "ファイル (_F)"
+
+#~ msgid "_Edit"
+#~ msgstr "編集 (_E)"
+
+#~ msgid "_Help"
+#~ msgstr "ヘルプ (_H)"
+
+#~ msgid "Please wait, this can take some time"
+#~ msgstr "しばらくお待ち下さい、この処理には時間が掛かることがあります"
+
+#~ msgid "Installation is complete"
+#~ msgstr "インストールが完了しました"
+
+#, python-format
+#~ msgid "Install %s?"
+#~ msgstr "%s をインストールしますか?"
+
+#, python-format
+#~ msgid "Upgrade %s?"
+#~ msgstr "%s をアップグレードしますか?"
+
+#~ msgid "The following packages will be upgraded:"
+#~ msgstr "以下のパッケージがアップグレードされます:"
+
+#, python-format
+#~ msgid "Remove %s?"
+#~ msgstr "%s を削除しますか?"
+
+#~ msgid ""
+#~ "The mint file for this application was not successfully downloaded. Click on "
+#~ "refresh to fix the problem."
+#~ msgstr ""
+#~ "このアプリケーション用の mint ファイルが正常にダウンロードされませんでした。リ"
+#~ "フレッシュをクリックして、問題を修正します。"
+
+#~ msgid ""
+#~ "The data used by maunaInstall is corrupted or out of date. Click on refresh "
+#~ "to fix the problem :"
+#~ msgstr ""
+#~ "maunaInstall によって使用されたデータは、期限切れまたは破損しています。リフ"
+#~ "レッシュをクリックして、問題を修正します :"
+
+#~ msgid "Please refresh maunaInstall by clicking on the Refresh button"
+#~ msgstr "更新ボタンをクリックして、maunaInstall を更新して下さい"
+
+#~ msgid "Web browsers"
+#~ msgstr "Web ブラウザ"
+
+#~ msgid "P2P and torrent"
+#~ msgstr "P2P と Torrent"

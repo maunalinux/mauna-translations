@@ -1,0 +1,370 @@
+# Finnish translation for maunalinux
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the maunalinux package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mauna\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2022-11-28 10:57+0000\n"
+"PO-Revision-Date: 2023-10-12 19:16-0300\n"
+"Last-Translator: Kimmo Kujansuu <Unknown>\n"
+"Language-Team: Finnish <fi@li.org>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2023-07-07 12:52+0000\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: usr/lib/mauna/maunawelcome/maunawelcome.py:129
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:1
+msgid "Welcome"
+msgstr "Tervetuloa"
+
+#: usr/lib/mauna/maunawelcome/maunawelcome.py:134
+msgid "First Steps"
+msgstr "Vaiheet"
+
+#: usr/lib/mauna/maunawelcome/maunawelcome.py:139
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:5
+msgid "Documentation"
+msgstr "Ohjeet"
+
+#: usr/lib/mauna/maunawelcome/maunawelcome.py:143
+msgid "Help"
+msgstr "Tuki"
+
+#: usr/lib/mauna/maunawelcome/maunawelcome.py:147
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:2
+msgid "Contribute"
+msgstr "Osallistu"
+
+#: usr/lib/mauna/maunawelcome/maunawelcome.py:154
+msgid "Show this dialog at startup"
+msgstr "Näytä tämä ikkuna käynnistyksen yhteydessä"
+
+#: generate_desktop_files:24 generate_desktop_files:37
+msgid "Welcome Screen"
+msgstr "Aloitusnäkymä"
+
+#: generate_desktop_files:24 generate_desktop_files:37
+msgid "Introduction to Mauna Linux"
+msgstr "Johdatus Mauna Linuxiin"
+
+#: generate_desktop_files:49
+msgid "Install Multimedia Codecs"
+msgstr "Asenna multimediakoodekit"
+
+#: generate_desktop_files:49
+msgid "Add all the missing multimedia codecs"
+msgstr "Lisää kaikki puuttuvat multimediakoodekit"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:3
+msgid ""
+"Mauna Linux is a great project. It is open to anyone who wants to participate. "
+"There are many ways to help. Click the button below to see how you can get "
+"involved."
+msgstr ""
+"Mauna Linux on hieno projekti. Se on avoin kaikille jotka haluavat osallistua ja "
+"olemassa monia tapoja auttaa. Katso miten voit osallistua painamalla alla olevaa "
+"painiketta."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:4
+msgid "Launch"
+msgstr "Aloita"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:6
+msgid ""
+"The Mauna Linux documentation consists of a collection of guides, available in "
+"PDF, ePUB and HTML and available in many languages. Click the button below to "
+"see which guides are available."
+msgstr ""
+"Mauna Linux ohjeet sisältää kokoelman oppaita useilla kielillä (PDF, ePub ja "
+"HTML). Katso saatavilla olevat oppaat painamalla alla olevaa painiketta."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:7
+msgid "New Features"
+msgstr "Uudet ominaisuudet"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:8
+msgid ""
+"Click the button below to discover the new features introduced in this version "
+"of Mauna Linux."
+msgstr ""
+"Tutustu tämän Mauna Linux version uusiin ominaisuuksiin painamalla alla olevaa "
+"painiketta."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:9
+msgid "Release Notes"
+msgstr "Julkaisutiedot"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:10
+msgid ""
+"Click the button below to read about known bugs, limitations and workarounds for "
+"this version of Mauna Linux."
+msgstr ""
+"Lue tietoa tämän Mauna Linux version tunnetuista virheistä, rajoituksista, sekä "
+"kiertoteistä painamalla alla olevaa painiketta."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:11
+msgid "Desktop Colors"
+msgstr "Työpöydän värit"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:12
+msgid ""
+"First, make yourself at home. Choose your favorite color and whether you prefer "
+"a light or a dark desktop theme."
+msgstr ""
+"Voit valita värin ja työpöydän teeman vaaleasta tummaan. Ole kuin kotonasi."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:13
+msgid "Panel Layout"
+msgstr "Paneelin ulkoasu"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:14
+msgid "Choose your favorite layout."
+msgstr "Valitse sinulle sopivin paneelin toiminta."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:15
+msgid "Modern"
+msgstr "Nykyaikainen"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:16
+msgid "A large panel with grouped windows and a small system tray."
+msgstr ""
+"Hieman korkeampi paneeli, ikkunat ovat ryhmitettyjä ja Ilmoitusalueen kuvakkeet "
+"pieniä."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:17
+msgid "Traditional"
+msgstr "Perinteinen"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:18
+msgid "A small panel and a traditional window list."
+msgstr "Matalampi paneeli ja ohjelmien nimet esitetään perinteiseen tapaan."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:19
+msgid ""
+"Note: Cinnamon will restart after you choose a new layout. Any customization you "
+"made to the panel will be lost."
+msgstr ""
+"Huomaa: Cinnamon käynnistyy uudelleen, kun olet tehnyt valintasi. Kaikki "
+"aikaisemmin lisätyt muutokset menetetään."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:20
+msgid "System Snapshots"
+msgstr "Palautuspisteet"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:21
+msgid ""
+"Next, let's set automatic system snapshots. A minimum of two daily and two boot "
+"snapshots are recommended. If anything breaks, you can then restore your "
+"computer to its previous working state."
+msgstr ""
+"Seuraavaksi automaattiset järjestelmän palautuspisteet. Suositus on vähintään "
+"kahden päivän ja käynnistyskerran palautuspistettä. Voit palauttaa tietokoneen "
+"aikaisempaan toimivaan tilaan, jos jokin rikkoutuu."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:22
+msgid "Driver Manager"
+msgstr "Ajurit"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:23
+msgid ""
+"Check the Driver Manager to see if it recommends any additional drivers for your "
+"computer. Most hardware components are recognized by the Linux kernel and work "
+"automatically without the need to install drivers. Some however require "
+"proprietary drivers to be recognized or to work better."
+msgstr ""
+"Tarkista ajurien hallinta, suositteleeko se lisäohjaimia tietokoneellesi. Linux "
+"kernel tunnistaa laitteiston ja toimii automaattisesti ilman asentamista. Jotkut "
+"laitteet toimiakseen paremmin vaativat kuitenkin patentoituja laitevalmistajan "
+"ohjaimia."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:24
+msgid "Multimedia Codecs"
+msgstr "Multimediakoodekit"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:25
+msgid ""
+"Additional multimedia codecs are required to support some formats and to play "
+"popular audio, video and web content. Click the button below to install them."
+msgstr ""
+"Muita multimediakoodekkeja tarvitaan joidenkin formaattien tukemiseen ja "
+"suositun ääni-, video- ja verkkosisällön toistamiseen. Paina alla olevaa "
+"painiketta asentaaksesi ne."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:26
+msgid "Update Manager"
+msgstr "Päivitykset"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:27
+msgid ""
+"The little shield icon in your system tray is your Update Manager. It provides "
+"software updates, security updates and kernel updates to fix bugs, keep your "
+"computer safe and support newer hardware components."
+msgstr ""
+"Pieni kilpikuvake ilmoitusalueella on päivitysten hallinta. Tarjoaa päivityksiä "
+"ohjelmille, tietoturvaan ja kerneliin. Päivitykset korjaavat vikoja, pitävät "
+"tietokoneesi turvallisena ja tukevat paremmin uudempaa laitteistoa."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:28
+msgid "System Settings"
+msgstr "Järjestelmäasetukset"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:29
+msgid ""
+"Have a look at the system settings and configure your operating system the way "
+"you like. Don't hesitate to customize it and make it feel like home."
+msgstr ""
+"Vilkaise järjestelmäasetuksia ja voit säätää käyttöjärjestelmääsi. Älä epäröi "
+"tehdä muutoksia. Tee järjestelmästäsi sellainen kuin sinä haluat."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:30
+msgid "Software Manager"
+msgstr "Ohjelmisto"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:31
+msgid ""
+"There are about 60,000 applications available. Mauna Linux comes with the bare "
+"minimum to get you started. The Software Manager is there if you're looking for "
+"more."
+msgstr ""
+"Saatavilla on noin 60 000 sovellusta. Mauna Linux toimitetaan vain paketeilla, "
+"joilla pääset alkuun. Jos tarvitset lisää, ohjelmistohallinta on sinua varten."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:32
+msgid "Firewall"
+msgstr "Palomuuri"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:33
+msgid "Control and monitor network traffic by enabling the firewall."
+msgstr "Hallitse ja tarkkaile verkkoliikennettä ottamalla palomuuri käyttöön."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:34
+msgid "Web Forums"
+msgstr "Foorumit"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:35
+msgid ""
+"The Mauna Linux forums are the best place to find help. Join thousands of users, "
+"search topics and threads and find solutions to your problems."
+msgstr ""
+"Mauna Linux foorumit ovat paras paikka löytää apua. Liity tuhansien käyttäjien "
+"joukkoon, etsi aiheita ja löydä ratkaisuja ongelmiisi."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:36
+msgid "IRC Chat Room"
+msgstr "IRC Chat keskustelu"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:37
+msgid ""
+"You can also connect to the IRC chat room and chat with users who are currently "
+"online. Ask a question, maybe someone there knows the solution?"
+msgstr ""
+"Voit myös yhdistää IRC-huoneeseen ja keskustella paraikaa verkossa olevien "
+"käyttäjien kanssa. Esitä kysymyksesi: ehkä joku tietää vastauksen?"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:38
+msgid ""
+"Mauna Linux has a great community. Many users will welcome you with open arms "
+"and be delighted to help you. Make sure to be patient and respectful with them. "
+"Keep a happy and positive attitude and provide accurate information when someone "
+"helps you."
+msgstr ""
+"Mauna Linuxilla on mahtava yhteisö. Monet käyttäjät toivottavat sinut avosylin "
+"tervetulleeksi ja auttavat sinua mielellään. Muista olla kärsivällinen ja "
+"kunnioita muiden mielipedettä. Säilytä iloinen ja myönteinen asenne ja anna "
+"oikeaa tietoa, kun joku auttaa sinua."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:39
+msgid ""
+"If you have a bad experience with another user, try to solve it responsibly or "
+"contact the moderation team. Although we can't guarantee everyone will behave "
+"nicely, our project promotes help, respect, tolerance, ideas and constructive "
+"discussions."
+msgstr ""
+"Jos sinulla on huonoja kokemuksia toisesta käyttäjästä, yritä ratkaista se "
+"vastuullisesti tai ota yhteyttä valvojaan. Vaikka emme voi taata, että kaikki "
+"käyttäytyvät hyvin, projektimme edistää apua, kunnioitusta, suvaitsevaisuutta, "
+"ideoita ja rakentavaa keskustelua."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:40
+msgid "Welcome to Mauna Linux"
+msgstr "Tervetuloa Mauna Linuxin pariin"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:41
+msgid "Welcome to your new operating system!"
+msgstr "Tervetuloa uuteen käyttöjärjestelmääsi!"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:42
+msgid ""
+"This welcome screen will guide you through your first steps, show you how to "
+"find help and where to get more information about Mauna Linux."
+msgstr ""
+"Tämä aloitusnäkymä ohjaa sinua ensimmäisten vaiheiden läpi, sekä näyttää kuinka "
+"löydät apua sekä mistä saat lisätietoja Mauna Linuxistä."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:43
+msgid ""
+"On behalf of the development team and everyone involved in the project, we'd "
+"like to thank you for choosing Mauna Linux. We hope you'll enjoy using it as "
+"much as we enjoy working on it."
+msgstr ""
+"Kehitystiimin ja kaikkien projektiin osallistuneiden nimissä, haluamme kiittää "
+"sinua Mauna Linuxin valitsemisesta. Toivomme, että nautit sen käyttämisestä yhtä "
+"paljon, kuin me nautimme sen parissa työskentelystä."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:44
+msgid "Have a great time and don't hesitate to send us your feedback."
+msgstr "Pidä hauskaa ja äläkä epäröi lähettää meille palautetta."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:45
+msgid "Let's go!"
+msgstr "Aloitetaan!"
+
+#~ msgid "Connect to the chat room"
+#~ msgstr "Muodosta yhteys chat-huoneeseen"
+
+#~ msgid "Contribute to Mauna Linux"
+#~ msgstr "Avusta Mauna Linux"
+
+#~ msgid "Find help"
+#~ msgstr "Löydä apua"
+
+#~ msgid "Download the user guide (PDF)"
+#~ msgstr "Lataa käyttöohje (PDF)"
+
+#~ msgid "Read the release notes"
+#~ msgstr "Lue julkaisutiedot"
+
+#~ msgid "Get involved"
+#~ msgstr "Tule mukaan"
+
+#~ msgid "Make a donation"
+#~ msgstr "Tee lahjoitus"
+
+#~ msgid "Become a sponsor"
+#~ msgstr "Ryhdy sponsoriksi"
+
+#, python-format
+#~ msgid "Discover %s"
+#~ msgstr "Löydä %s"
+
+#~ msgid "Browse the list of new features"
+#~ msgstr "Selaile listaa uusista ominaisuuksista"
+
+#~ msgid ""
+#~ "Welcome and thank you for choosing Mauna Linux. We hope you'll enjoy using it "
+#~ "as much as we did making it. Please make yourself familiar with the new "
+#~ "features and the documentation and don't hesitate to send us your feedback."
+#~ msgstr ""
+#~ "Tervetuloa ja kiitos että valitsit Mauna Linuxin! Toivottavasti nautit sen "
+#~ "käytöstä yhtä paljon kuin me  nautimme sen kehittämisestä. Ole hyvä ja "
+#~ "tutustu uusiin ominaisuuksiin ja dokumentointiin. Älä epäröi lähettää meille "
+#~ "palautetta."
+
+#~ msgid "Visit the forums"
+#~ msgstr "Vieraile foorumilla"

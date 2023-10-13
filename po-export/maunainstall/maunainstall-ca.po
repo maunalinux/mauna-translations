@@ -1,0 +1,871 @@
+# Catalan translation for maunalinux
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the maunalinux package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mauna\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2023-05-16 16:08+0100\n"
+"PO-Revision-Date: 2023-10-09 11:07-0300\n"
+"Last-Translator: Isidro Pisa <isidro@utils.info>\n"
+"Language-Team: Catalan <ca@li.org>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Launchpad-Export-Date: 2023-07-07 12:52+0000\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:98
+#: usr/lib/mauna/maunainstall/maunainstall.py:100
+msgid "Multimedia Codecs"
+msgstr "Còdecs multimèdia"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:99
+msgid "Multimedia Codecs for KDE"
+msgstr "Còdecs multimèdia per a KDE"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:475
+msgid "Add"
+msgstr "Afegeix"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:481
+#: usr/lib/mauna/maunainstall/maunainstall.py:3020
+msgid "Remove"
+msgstr "Suprimeix"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:500
+msgid "Unavailable"
+msgstr "No disponible"
+
+#. TRANSLATORS: showing specific number of reviews in the list view and the header of the package details.
+#: usr/lib/mauna/maunainstall/maunainstall.py:732
+#: usr/lib/mauna/maunainstall/maunainstall.py:2876
+#, python-format
+msgid "%d Review"
+msgid_plural "%d Reviews"
+msgstr[0] "%d Revisió"
+msgstr[1] "%d Revisions"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:793
+msgid "This package is a Flatpak"
+msgstr "Aquest paquet és Flatpak"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:886
+msgid "All"
+msgstr "Tot"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1038
+msgid ""
+"Cannot process this file while there are active operations.\n"
+"Please try again after they finish."
+msgstr ""
+"No es pot processar aquest fitxer mentre hi hagi operacions actives.\n"
+"Torneu-ho a provar després que hagin acabat."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1059
+msgid "The Flatpak repo you are trying to add already exists."
+msgstr "Ja existeix el dipòsit de Flatpak que esteu intentant afegir."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1067
+msgid "An error occurred attempting to add the Flatpak repo."
+msgstr "S'ha produït un error en intentar afegir el dipòsit de Flatpak."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1075
+msgid "Flatpak support is not currently available. Try installing flatpak."
+msgstr "El suport Flatpak no està disponible. Intenteu instal·lar flatpak ."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1094
+msgid ""
+"Flatpak support is not currently available. Try installing flatpak and gir1.2-"
+"flatpak-1.0."
+msgstr ""
+"El suport Flatpak no està disponible. Intenteu instal·lar flatpak i gir1.2-"
+"flatpak-1.0."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1134
+#: usr/lib/mauna/maunainstall/maunainstall.py:1135
+#: usr/lib/mauna/maunainstall/maunainstall.py:1945 generate_desktop_files:24
+#: generate_desktop_files:35
+msgid "Software Manager"
+msgstr "Gestor de programari"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1185
+msgid "Show installed applications"
+msgstr "Mostra les aplicacions instal·lades"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1194
+msgid "Search in packages summary (slower search)"
+msgstr "Cerca al resum dels paquets (cerca més lenta)"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1200
+msgid "Search in packages description (even slower search)"
+msgstr "Cerca a la descripció dels paquets (cerca encara més lenta)"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1210
+msgid "Refresh the list of packages"
+msgstr "Actualitza la llista de paquets"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1220
+#: usr/lib/mauna/maunainstall/maunainstall.py:1943
+msgid "About"
+msgstr "Quant a"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1445
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:4
+msgid "Top Rated"
+msgstr "Més valorat"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1490
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:2
+msgid "Featured"
+msgstr "Destacat"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1550
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:3
+msgid "Categories"
+msgstr "Categories"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1604
+#, python-format
+msgid "%d task running"
+msgid_plural "%d tasks running"
+msgstr[0] "%d tasca en execució"
+msgstr[1] "%d tasques en execució"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1747
+msgid "No screenshots available"
+msgstr "No hi ha captures de pantalla"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2033
+msgid ""
+"There are currently active operations.\n"
+"Are you sure you want to quit?"
+msgstr ""
+"Actualment hi ha operacions actives.\n"
+"Esteu segur que voleu sortir?"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2091
+msgid "Installed Applications"
+msgstr "Aplicacions instal·lades"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2094
+msgid "Currently working on the following packages"
+msgstr "Actualment està treballant en els següents paquets"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2099
+msgid "All Applications"
+msgstr "Totes les aplicacions"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2107
+msgid "Internet"
+msgstr "Internet"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2109
+msgid "Web"
+msgstr "Web"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2114
+msgid "Email"
+msgstr "Correu electrònic"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2118
+msgid "Chat"
+msgstr "Xat"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2121
+msgid "File sharing"
+msgstr "Compartició de fitxers"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2127
+msgid "Sound and video"
+msgstr "So i vídeo"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2129
+msgid "Sound"
+msgstr "So"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2131
+msgid "Video"
+msgstr "Vídeo"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2136
+msgid "Graphics"
+msgstr "Gràfics"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2140
+msgid "3D"
+msgstr "3D"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2142
+msgid "Drawing"
+msgstr "Dibuix"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2144
+msgid "Photography"
+msgstr "Fotografia"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2146
+msgid "Publishing"
+msgstr "Publicació"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2148
+msgid "Scanning"
+msgstr "Escaneig"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2150
+msgid "Viewers"
+msgstr "Visualitzadors"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2155
+msgid "Office"
+msgstr "Ofimàtica"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2161
+msgid "Games"
+msgstr "Jocs"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2165
+msgid "Board games"
+msgstr "Jocs de tauler"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2167
+msgid "First-person"
+msgstr "Primera persona"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2169
+msgid "Real-time strategy"
+msgstr "Estratègia en temps real"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2171
+msgid "Turn-based strategy"
+msgstr "Estratègia per torns"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2173
+msgid "Emulators"
+msgstr "Emuladors"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2175
+msgid "Simulation and racing"
+msgstr "Simulació i curses"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2180
+msgid "Accessories"
+msgstr "Accessoris"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2186
+msgid "System tools"
+msgstr "Eines del sistema"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2193
+msgid "Fonts"
+msgstr "Lletres"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2199
+msgid "Science and Education"
+msgstr "Ciència i educació"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2200
+msgid "Science"
+msgstr "Ciència"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2202
+msgid "Maths"
+msgstr "Matemàtiques"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2204
+msgid "Education"
+msgstr "Educació"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2206
+msgid "Electronics"
+msgstr "Electrònica"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2212
+msgid "Programming"
+msgstr "Programació"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2214
+msgid "Java"
+msgstr "Java"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2216
+msgid "PHP"
+msgstr "PHP"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2218
+msgid "Python"
+msgstr "Python"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2220
+msgid "Essentials"
+msgstr "Essencials"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2644
+msgid "All operations complete"
+msgstr "S'han completat totes les operacions"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2648
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:5
+msgid "No matching packages found"
+msgstr "No s'ha trobat cap paquet que coincideixi"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2651
+msgid ""
+"No packages to show.\n"
+"This may indicate a problem - try refreshing the cache."
+msgstr ""
+"No hi ha cap paquet a mostrar.\n"
+"Això pot indicar un problema: proveu d'actualitzar la memòria cau."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2780
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:9
+msgid "System Package"
+msgstr "Paquet del sistema"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2780
+msgid "Your system's package manager"
+msgstr "El gestor de paquets del sistema"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2792
+#, python-format
+msgid "Flatpak (%s)"
+msgstr "Flatpak (%s)"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2833
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:15
+msgid "Homepage"
+msgstr "Pàgina d'inici"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2842
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:16
+msgid "Documentation"
+msgstr "Documentació"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2944
+#, python-format
+msgid "Click <a href='%s'>here</a> to add your own review."
+msgstr "Feu clic <a href='%s'>aquí</a> per afegir la vostra ressenya."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2991
+msgid ""
+"Unable to communicate with servers. Check your Internet connection and try again."
+msgstr ""
+"No es pot comunicar amb els servidors. Comproveu la vostra connexió a Internet i "
+"torneu-ho a provar."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3024
+msgid "Installed"
+msgstr "Instal·lat"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3026
+msgid "Removing"
+msgstr "Supressió"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3028
+msgid "Install"
+msgstr "Instal·la"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3036
+msgid "Not installed"
+msgstr "No instal·lat"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3038
+msgid "Installing"
+msgstr "Instal·lació"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3042
+msgid "Cannot remove"
+msgstr "No es pot eliminar"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3043
+msgid "Removing this package could cause irreparable damage to your system."
+msgstr ""
+"L'eliminació d'aquest paquet podria causar un dany irreparable al vostre sistema."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3045
+msgid "Cannot install"
+msgstr "No es pot instal·lar"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3046
+msgid "Installing this package could cause irreparable damage to your system."
+msgstr ""
+"La instal·lació d'aquest paquet podria causar un dany irreparable al vostre "
+"sistema."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3054
+msgid "Not available"
+msgstr "No disponible"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3058
+msgid "Please use apt-get to install this package."
+msgstr "Utilitzeu apt-get per instal·lar aquest paquet."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3060
+msgid "Use apt-get to remove this package."
+msgstr "Utilitzeu apt-get per eliminar aquest paquet."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3064
+msgid "Try again"
+msgstr "Torneu-ho a provar"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3067
+msgid "Something went wrong. Click to try again."
+msgstr "Quelcom ha fallat. Feu clic per tornar-ho a provar."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3091
+#, python-format
+msgid "%(localSize)s of disk space freed"
+msgstr "%(localSize)s d'espai al disc alliberat"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3094
+#, python-format
+msgid "%(localSize)s of disk space required"
+msgstr "%(localSize)s d'espai requerit"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3098
+#, python-format
+msgid "%(downloadSize)s to download, %(localSize)s of disk space freed"
+msgstr "%(downloadSize)s per a la baixada, %(localSize)s d'espai de disc alliberat"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3101
+#, python-format
+msgid "%(downloadSize)s to download, %(localSize)s of disk space required"
+msgstr "%(downloadSize)s per a la baixada, %(localSize)s d'espai de disc requerit"
+
+#: generate_desktop_files:24 generate_desktop_files:35
+msgid "Install new applications"
+msgstr "Instal·leu aplicacions noves"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:1
+msgid "Generating cache, one moment"
+msgstr "Generant memòria cau, un moment"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:6
+msgid "Refresh"
+msgstr "Actualitza"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:7
+msgid "Launch"
+msgstr "Executa"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:8
+msgid "Please be patient. This can take some time..."
+msgstr "Sigueu pacient, això pot trigar una estona..."
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:10
+msgid "Name:"
+msgstr "Nom:"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:11
+msgid "Version:"
+msgstr "Versió:"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:12
+msgid "Size:"
+msgstr "Mida:"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:13
+msgid "Branch:"
+msgstr "Branca:"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:14
+msgid "Remote:"
+msgstr "Remota:"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:17
+msgid "Details"
+msgstr "Detalls"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:18
+msgid "Reviews"
+msgstr "Ressenyes"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:19
+msgid "Optional components"
+msgstr "Components opcionals"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:20
+msgid "Searching software repositories, one moment"
+msgstr "Cercant repositoris de software, un moment"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:21
+msgid "Limit search to current listing"
+msgstr "Limita la cerca al llistat actual"
+
+#~ msgid "The following packages will be installed:"
+#~ msgstr "S'instal·laran els paquets següents:"
+
+#~ msgid "Restoring your APT sources"
+#~ msgstr "Les vostres fonts d'APT s'estàn restaurant"
+
+#~ msgid "Installation is complete"
+#~ msgstr "La instal·lació s'ha completat"
+
+#~ msgid "Please wait, this can take some time"
+#~ msgstr "Si us plau, espereu, això pot trigar un poc de temps"
+
+#~ msgid "Backing up your APT sources"
+#~ msgstr "S'està fent una còpia de seguretat de les vostres fonts d'APT"
+
+#~ msgid "Close"
+#~ msgstr "Tanca"
+
+#~ msgid "Upgrade"
+#~ msgstr "Actualitza"
+
+#~ msgid "Go to the Mauna Linux Software Portal"
+#~ msgstr "Vés al Portal de Programari de Mauna Linux"
+
+#~ msgid "Go to the GetDeb Portal"
+#~ msgstr "Vés al Portal GetDeb"
+
+#~ msgid "Search for a .mint application"
+#~ msgstr "Cerca una aplicació .mint"
+
+#~ msgid "Search"
+#~ msgstr "Cerca"
+
+#~ msgid "Search for a .deb package"
+#~ msgstr "Cerca un paquet .deb"
+
+#~ msgid ""
+#~ "Your APT sources were not correctly restored after you last ran maunainstall. "
+#~ "They now have been restored."
+#~ msgstr ""
+#~ "Les vostres fonts d'APT no es van restaurar correctament la darrera vegada "
+#~ "que es va executar maunainstall. S'han restaurat ara."
+
+#~ msgid "Go to the Mauna Linux repository"
+#~ msgstr "Vés al dipòsit de Mauna Linux"
+
+#~ msgid "Your APT sources were corrupted."
+#~ msgstr "Les vostres fonts d'APT s'han corromput"
+
+#~ msgid "These popular applications can be installed on your system:"
+#~ msgstr "Aquestes aplicacions populars poden ser instal·lades al vostre sistema:"
+
+#~ msgid "MB"
+#~ msgstr "MB"
+
+#~ msgid "Go to the Ubuntu repository"
+#~ msgstr "Vés al dipòsit d'Ubuntu"
+
+#~ msgid "Show"
+#~ msgstr "Mostra"
+
+#~ msgid "Icon"
+#~ msgstr "Icona"
+
+#~ msgid "Description"
+#~ msgstr "Descripció"
+
+#~ msgid "Application"
+#~ msgstr "Aplicació"
+
+#~ msgid "Package"
+#~ msgstr "Paquet"
+
+#~ msgid "Repository"
+#~ msgstr "Dipòsit"
+
+#~ msgid "GB"
+#~ msgstr "GB"
+
+#~ msgid "KB"
+#~ msgstr "KB"
+
+#~ msgid "B"
+#~ msgstr "B"
+
+#~ msgid "Size"
+#~ msgstr "Mida"
+
+#~ msgid "The changes are complete"
+#~ msgstr "Els canvis s'han completat"
+
+#~ msgid "Portal URL"
+#~ msgstr "Portal URL"
+
+#~ msgid "Description:"
+#~ msgstr "Descripció:"
+
+#~ msgid "Quick search:"
+#~ msgstr "Cerca ràpida:"
+
+#~ msgid "Website"
+#~ msgstr "Pàgina web"
+
+#~ msgid "More info"
+#~ msgstr "Més informació"
+
+#~ msgid "License:"
+#~ msgstr "Llicència:"
+
+#~ msgid "Available version"
+#~ msgstr "Versió disponible"
+
+#~ msgid "Installed version"
+#~ msgstr "Versió instal·lada"
+
+#~ msgid "Show:"
+#~ msgstr "Mostra:"
+
+#~ msgid "Category"
+#~ msgstr "Categoria"
+
+#~ msgid "Views"
+#~ msgstr "S'ha vist"
+
+#~ msgid "Added"
+#~ msgstr "S'ha afegit"
+
+#~ msgid "Installed software"
+#~ msgstr "Programari instal·lat"
+
+#~ msgid "Your changes"
+#~ msgstr "Els vostres canvis"
+
+#~ msgid "All software"
+#~ msgstr "Tot el programari"
+
+#~ msgid "Available software"
+#~ msgstr "Programari disponible"
+
+#~ msgid "Quit"
+#~ msgstr "Surt"
+
+#~ msgid "_File"
+#~ msgstr "_Fitxer"
+
+#~ msgid "Reviewer"
+#~ msgstr "Revisor"
+
+#~ msgid "Score"
+#~ msgstr "Puntuació"
+
+#~ msgid "Review"
+#~ msgstr "Ressenya"
+
+#~ msgid "Rating"
+#~ msgstr "Valoració"
+
+#~ msgid "_Edit"
+#~ msgstr "_Edita"
+
+#~ msgid "Cancel all changes"
+#~ msgstr "Cancel·la tots els canvis"
+
+#~ msgid "Status"
+#~ msgstr "Estat"
+
+#~ msgid "All applications"
+#~ msgstr "Totes les aplicacions"
+
+#~ msgid "The following packages will be removed:"
+#~ msgstr "S'eliminaran els paquets següents:"
+
+#~ msgid "Application removed successfully"
+#~ msgstr "Aplicació eliminada amb èxit"
+
+#~ msgid "Average rating"
+#~ msgstr "Valoració mitja"
+
+#, python-format
+#~ msgid "%d screenshots loaded"
+#~ msgstr "%d captures de pantalla carregades"
+
+#, python-format
+#~ msgid "%d reviews loaded"
+#~ msgstr "%d ressenyes carregades"
+
+#, python-format
+#~ msgid "%d categories loaded"
+#~ msgstr "%d categories carregades"
+
+#, python-format
+#~ msgid "%d applications loaded"
+#~ msgstr "%d aplicacions carregades"
+
+#, python-format
+#~ msgid "Remove %s?"
+#~ msgstr "Voleu eliminar %s?"
+
+#, python-format
+#~ msgid "Install %s?"
+#~ msgstr "Voleu instal·lar %s?"
+
+#, python-format
+#~ msgid "Upgrade %s?"
+#~ msgstr "Voleu actualitzar %s?"
+
+#, python-format
+#~ msgid "Downloading data for %s"
+#~ msgstr "S'estan baixant les dades per a %s"
+
+#~ msgid "First person shooters"
+#~ msgstr "Tiradors de primera persona"
+
+#~ msgid "Real time strategy"
+#~ msgstr "Estratègia en temps real"
+
+#~ msgid "Text editors"
+#~ msgstr "Editors de text"
+
+#~ msgid "Simulation & racing"
+#~ msgstr "Simulació i curses"
+
+#~ msgid "Video players"
+#~ msgstr "Reproductors de vídeo"
+
+#~ msgid "Audio players"
+#~ msgstr "Reproductors de so"
+
+#~ msgid "Burning tools"
+#~ msgstr "Eines de grabació"
+
+#~ msgid "Scanning tools"
+#~ msgstr "Eines d'escanejat"
+
+#~ msgid "Image viewers"
+#~ msgstr "Visualitzador d'imatges"
+
+#~ msgid "Web browsers"
+#~ msgstr "Navegadors d'internet"
+
+#~ msgid "Document viewers"
+#~ msgstr "Visualitzador de documents"
+
+#~ msgid "2D"
+#~ msgstr "2D"
+
+#~ msgid "Instant messengers"
+#~ msgstr "Missatgeria instantània"
+
+#~ msgid "P2P and torrent"
+#~ msgstr "P2P i torrent"
+
+#~ msgid "Package management"
+#~ msgstr "Gestió de paquets"
+
+#~ msgid "Desktop components"
+#~ msgstr "Components de l'escriptori"
+
+#, python-format
+#~ msgid "Could not find package: %s"
+#~ msgstr "No es pot trobar el paquet: %s"
+
+#~ msgid "Cancel installation"
+#~ msgstr "Cancel·la la instal·lació"
+
+#~ msgid "Cancel change"
+#~ msgstr "Cancel·la el canvi"
+
+#, python-format
+#~ msgid ""
+#~ "%(applications)d applications listed, %(install)d to install, %(remove)d to "
+#~ "remove"
+#~ msgstr ""
+#~ "%(applications)d aplicacions llistades, %(install)d per instal·lar, "
+#~ "%(remove)d per eliminar"
+
+#~ msgid "Photo"
+#~ msgstr "Fotografia"
+
+#~ msgid "Word processors"
+#~ msgstr "Processadors de textos"
+
+#~ msgid "Collection managers"
+#~ msgstr "Gestors de col·leccions"
+
+#~ msgid "Sound & Video"
+#~ msgstr "So i vídeo"
+
+#~ msgid "Office suites"
+#~ msgstr "Paquets ofimàtics"
+
+#~ msgid "Finance"
+#~ msgstr "Finances"
+
+#~ msgid "Tools"
+#~ msgstr "Eines"
+
+#~ msgid "Spreadsheets"
+#~ msgstr "Fulls de càlcul"
+
+#~ msgid "Graph and flowcharts"
+#~ msgstr "Gràfics i diagrames de flux"
+
+#~ msgid "Databases"
+#~ msgstr "Bases de dades"
+
+#~ msgid "Mind mapping"
+#~ msgstr "Mapes mentals"
+
+#~ msgid "System Tools"
+#~ msgstr "Eines del sistema"
+
+#~ msgid "Firewall"
+#~ msgstr "Tallafoc"
+
+#~ msgid "Drivers"
+#~ msgstr "Controladors"
+
+#~ msgid "No results"
+#~ msgstr "No hi ha cap resultat"
+
+#~ msgid "FTP"
+#~ msgstr "FTP"
+
+#~ msgid "Cancel removal"
+#~ msgstr "Cancel·la l'eliminació"
+
+#~ msgid "_Help"
+#~ msgstr "A_juda"
+
+#~ msgid "Upstream"
+#~ msgstr "Upstream"
+
+#~ msgid "The following packages will be upgraded:"
+#~ msgstr "S'actualitzaran els paquets següents:"
+
+#~ msgid ""
+#~ "The mint file for this application was not successfully downloaded. Click on "
+#~ "refresh to fix the problem."
+#~ msgstr ""
+#~ "El fitxer mint per a aquesta aplicació no s'ha baixat correctament. Feu clic "
+#~ "a refresca per a arreglar aquest problema."
+
+#~ msgid "Please refresh maunainstall by clicking on the Refresh button"
+#~ msgstr "Si us plau, refresqueu maunainstall fent clic al botó Refresca"
+
+#~ msgid ""
+#~ "The data used by maunainstall is corrupted or out of date. Click on refresh "
+#~ "to fix the problem :"
+#~ msgstr ""
+#~ "Les dades usades per maunainstall han caducat o s'han corromput. Feu clic a "
+#~ "refresca per a solucionar el problema :"
+
+#~ msgid "Using the following repositories:"
+#~ msgstr "S'estan usant els dipòsits següents:"
+
+#~ msgid "Featured applications"
+#~ msgstr "Aplicacions destacades"
+
+#~ msgid "Software manager"
+#~ msgstr "Gestor de programari"
+
+#~ msgid "Internet Relay Chat"
+#~ msgstr "Xat IRC (Internet Relay Chat)"
+
+#~ msgid "Default repositories"
+#~ msgstr "Dipòsits predeterminats"
+
+#~ msgid "Find Software"
+#~ msgstr "Troba programari"
+
+#~ msgid "Finished"
+#~ msgstr "S'ha acabat"

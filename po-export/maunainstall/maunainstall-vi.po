@@ -1,0 +1,870 @@
+# Vietnamese translation for maunalinux
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the maunalinux package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mauna\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2023-05-16 16:08+0100\n"
+"PO-Revision-Date: 2023-10-09 16:32-0300\n"
+"Last-Translator: MinhTran <Unknown>\n"
+"Language-Team: Vietnamese <vi@li.org>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Launchpad-Export-Date: 2023-07-07 12:53+0000\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:98
+#: usr/lib/mauna/maunainstall/maunainstall.py:100
+msgid "Multimedia Codecs"
+msgstr "Codec đa phương tiện"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:99
+msgid "Multimedia Codecs for KDE"
+msgstr "Codec đa phương tiện cho KDE"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:475
+msgid "Add"
+msgstr "Thêm vào"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:481
+#: usr/lib/mauna/maunainstall/maunainstall.py:3020
+msgid "Remove"
+msgstr "Gỡ bỏ"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:500
+msgid "Unavailable"
+msgstr "Không có sẵn"
+
+#. TRANSLATORS: showing specific number of reviews in the list view and the header of the package details.
+#: usr/lib/mauna/maunainstall/maunainstall.py:732
+#: usr/lib/mauna/maunainstall/maunainstall.py:2876
+#, python-format
+msgid "%d Review"
+msgid_plural "%d Reviews"
+msgstr[0] "%d Đánh giá"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:793
+msgid "This package is a Flatpak"
+msgstr "Gói này là Flatpak"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:886
+msgid "All"
+msgstr "Tất cả"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1038
+msgid ""
+"Cannot process this file while there are active operations.\n"
+"Please try again after they finish."
+msgstr ""
+"Không thể xử lý tệp này trong khi có các hoạt động khác đang hoạt động.\n"
+"Vui lòng thử lại sau khi các hoạt động ấy hoàn thành."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1059
+msgid "The Flatpak repo you are trying to add already exists."
+msgstr "Repo Flatpak mà bạn đang cố gắng thêm đã tồn tại."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1067
+msgid "An error occurred attempting to add the Flatpak repo."
+msgstr "Đã xảy ra lỗi khi đang thêm repo Flatpak."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1075
+msgid "Flatpak support is not currently available. Try installing flatpak."
+msgstr "Hỗ trợ Flatpak hiện không khả dụng. Hãy thử cài đặt flatpak."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1094
+msgid ""
+"Flatpak support is not currently available. Try installing flatpak and gir1.2-"
+"flatpak-1.0."
+msgstr ""
+"Hỗ trợ Flatpak hiện không khả dụng. Hãy thử cài đặt flatpak và gir1.2-"
+"flatpak-1.0."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1134
+#: usr/lib/mauna/maunainstall/maunainstall.py:1135
+#: usr/lib/mauna/maunainstall/maunainstall.py:1945 generate_desktop_files:24
+#: generate_desktop_files:35
+msgid "Software Manager"
+msgstr "Trình Quản lý Phần mềm"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1185
+msgid "Show installed applications"
+msgstr "Hiển thị các ứng dụng đã cài đặt"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1194
+msgid "Search in packages summary (slower search)"
+msgstr "Tìm trong phần tóm tắt các gói (lâu hơn)"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1200
+msgid "Search in packages description (even slower search)"
+msgstr "Tìm trong phần mô tả các gói (lâu hơn nhiều)"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1210
+msgid "Refresh the list of packages"
+msgstr "Làm mới danh sách các gói"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1220
+#: usr/lib/mauna/maunainstall/maunainstall.py:1943
+msgid "About"
+msgstr "Giới thiệu"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1445
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:4
+msgid "Top Rated"
+msgstr "được xếp hạng hàng đầu"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1490
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:2
+msgid "Featured"
+msgstr "Đặc sắc"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1550
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:3
+msgid "Categories"
+msgstr "Thể loại"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1604
+#, python-format
+msgid "%d task running"
+msgid_plural "%d tasks running"
+msgstr[0] "%d tác vụ đang chạy"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1747
+msgid "No screenshots available"
+msgstr "Không có ảnh chụp màn hình"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2033
+msgid ""
+"There are currently active operations.\n"
+"Are you sure you want to quit?"
+msgstr ""
+"Hiện đang có hoạt động tích cực.\n"
+"Bạn có chắc bạn muốn thoát khỏi?"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2091
+msgid "Installed Applications"
+msgstr "Ứng dụng đã cài đặt"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2094
+msgid "Currently working on the following packages"
+msgstr "Hiện đang làm việc trên các gói sau"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2099
+msgid "All Applications"
+msgstr "Tất cả các ứng dụng"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2107
+msgid "Internet"
+msgstr "Internet"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2109
+msgid "Web"
+msgstr "Web"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2114
+msgid "Email"
+msgstr "Điện thư"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2118
+msgid "Chat"
+msgstr "Tán gẫu"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2121
+msgid "File sharing"
+msgstr "Chia sẻ tập tin"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2127
+msgid "Sound and video"
+msgstr "Âm thanh và phim ảnh"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2129
+msgid "Sound"
+msgstr "Âm thanh"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2131
+msgid "Video"
+msgstr "Băng hình"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2136
+msgid "Graphics"
+msgstr "Đồ họa"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2140
+msgid "3D"
+msgstr "3D"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2142
+msgid "Drawing"
+msgstr "Vẽ"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2144
+msgid "Photography"
+msgstr "Nhiếp ảnh"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2146
+msgid "Publishing"
+msgstr "Xuất bản"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2148
+msgid "Scanning"
+msgstr "Quét ảnh"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2150
+msgid "Viewers"
+msgstr "Trình xem"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2155
+msgid "Office"
+msgstr "Văn phòng"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2161
+msgid "Games"
+msgstr "Trò chơi"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2165
+msgid "Board games"
+msgstr "Những trò cờ"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2167
+msgid "First-person"
+msgstr "Ngôi thứ nhất"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2169
+msgid "Real-time strategy"
+msgstr "Chiến thuật thời gian thực"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2171
+msgid "Turn-based strategy"
+msgstr "Chiến thuật theo lược"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2173
+msgid "Emulators"
+msgstr "Trình giả lập"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2175
+msgid "Simulation and racing"
+msgstr "Mô phỏng và đua xe"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2180
+msgid "Accessories"
+msgstr "Tiện ích bổ trợ"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2186
+msgid "System tools"
+msgstr "Công cụ hệ thống"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2193
+msgid "Fonts"
+msgstr "Phông chữ"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2199
+msgid "Science and Education"
+msgstr "Khoa học và Giáo dục"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2200
+msgid "Science"
+msgstr "Khoa học"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2202
+msgid "Maths"
+msgstr "Toán học"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2204
+msgid "Education"
+msgstr "Giáo dục"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2206
+msgid "Electronics"
+msgstr "Thiết bị điện tử"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2212
+msgid "Programming"
+msgstr "Lập trình"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2214
+msgid "Java"
+msgstr "Java"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2216
+msgid "PHP"
+msgstr "PHP"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2218
+msgid "Python"
+msgstr "Python"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2220
+msgid "Essentials"
+msgstr "Yếu tố cần thiết"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2644
+msgid "All operations complete"
+msgstr "Mọi thao tác hoàn tất"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2648
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:5
+msgid "No matching packages found"
+msgstr "Không tìm thấy gói phù hợp"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2651
+msgid ""
+"No packages to show.\n"
+"This may indicate a problem - try refreshing the cache."
+msgstr ""
+"Không có gói nào để hiển thị.\n"
+"Điều này có thể cho thấy có sự cố - hãy thử làm mới bộ đệm."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2780
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:9
+msgid "System Package"
+msgstr "Gói hệ thống"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2780
+msgid "Your system's package manager"
+msgstr "Trình quản lý gói hệ thống của bạn"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2792
+#, python-format
+msgid "Flatpak (%s)"
+msgstr "Flatpak (%s)"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2833
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:15
+msgid "Homepage"
+msgstr "Trang chủ"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2842
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:16
+msgid "Documentation"
+msgstr "Tài liệu"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2944
+#, python-format
+msgid "Click <a href='%s'>here</a> to add your own review."
+msgstr "Nhấp vào <a href='%s'>đây</a> để thêm đánh giá của riêng bạn."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2991
+msgid ""
+"Unable to communicate with servers. Check your Internet connection and try again."
+msgstr ""
+"Không thể giao tiếp với máy chủ. Hãy kiểm tra kết nối Internet của bạn và thử "
+"lại."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3024
+msgid "Installed"
+msgstr "Đã cài đặt"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3026
+msgid "Removing"
+msgstr "Đang xóa"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3028
+msgid "Install"
+msgstr "Cài đặt"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3036
+msgid "Not installed"
+msgstr "Chưa cài đặt"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3038
+msgid "Installing"
+msgstr "Đang cài đặt"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3042
+msgid "Cannot remove"
+msgstr "Không thể xóa"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3043
+msgid "Removing this package could cause irreparable damage to your system."
+msgstr ""
+"Việc xóa gói này có thể gây ra thiệt hại không thể khắc phục được cho hệ thống "
+"của bạn."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3045
+msgid "Cannot install"
+msgstr "Không thể cài đặt"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3046
+msgid "Installing this package could cause irreparable damage to your system."
+msgstr ""
+"Việc cài đặt gói này có thể gây ra những hư hỏng không thể khắc phục được cho hệ "
+"thống của bạn."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3054
+msgid "Not available"
+msgstr "Không có"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3058
+msgid "Please use apt-get to install this package."
+msgstr "Vui lòng dùng apt-get để cài đặt gói này."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3060
+msgid "Use apt-get to remove this package."
+msgstr "Sử dụng apt-get để xóa gói này."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3064
+msgid "Try again"
+msgstr "Thử lại"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3067
+msgid "Something went wrong. Click to try again."
+msgstr "Đã xảy ra lỗi. Nhấp để thử lại."
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3091
+#, python-format
+msgid "%(localSize)s of disk space freed"
+msgstr "%(localSize)s không gian đĩa được giải phóng"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3094
+#, python-format
+msgid "%(localSize)s of disk space required"
+msgstr "Yêu cầu %(localSize)s không gian đĩa"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3098
+#, python-format
+msgid "%(downloadSize)s to download, %(localSize)s of disk space freed"
+msgstr "Tải xuống %(downloadSize)s, giải phóng %(localSize)s không gian đĩa"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3101
+#, python-format
+msgid "%(downloadSize)s to download, %(localSize)s of disk space required"
+msgstr "Tải xuống %(downloadSize)s, yêu cầu %(localSize)s không gian đĩa"
+
+#: generate_desktop_files:24 generate_desktop_files:35
+msgid "Install new applications"
+msgstr "Cài đặt ứng dụng mới"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:1
+msgid "Generating cache, one moment"
+msgstr "Đang tạo bộ đệm, trong giây lát"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:6
+msgid "Refresh"
+msgstr "Làm cho khỏe lại"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:7
+msgid "Launch"
+msgstr "Phóng"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:8
+msgid "Please be patient. This can take some time..."
+msgstr "Làm ơn hãy kiên nhẫn. Điều này có thể mất một thời gian..."
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:10
+msgid "Name:"
+msgstr "Tên:"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:11
+msgid "Version:"
+msgstr "Phiên bản:"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:12
+msgid "Size:"
+msgstr "Kích cỡ:"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:13
+msgid "Branch:"
+msgstr "Chi nhánh:"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:14
+msgid "Remote:"
+msgstr "Xa:"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:17
+msgid "Details"
+msgstr "Chi tiết"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:18
+msgid "Reviews"
+msgstr "Nhận xét"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:19
+msgid "Optional components"
+msgstr "Các thành phần tùy chọn"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:20
+msgid "Searching software repositories, one moment"
+msgstr "Tìm kiếm kho phần mềm, một lát"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:21
+msgid "Limit search to current listing"
+msgstr "Giới hạn tìm kiếm trong danh sách hiện tại"
+
+#~ msgid "Using the following repositories:"
+#~ msgstr "Dùng các kho sau:"
+
+#, python-format
+#~ msgid "Install %s?"
+#~ msgstr "Cài đặt %s?"
+
+#~ msgid "The following packages will be installed:"
+#~ msgstr "Các gói sau sẽ được cài đặt:"
+
+#~ msgid "Restoring your APT sources"
+#~ msgstr "Đang phục hồi các nguồn APT của bạn"
+
+#~ msgid "Installation is complete"
+#~ msgstr "Cài đặt hoàn tất"
+
+#~ msgid "Backing up your APT sources"
+#~ msgstr "Đang sao lưu các nguồn APT của bạn"
+
+#~ msgid "Close"
+#~ msgstr "Đóng"
+
+#~ msgid "Finished"
+#~ msgstr "Hoàn tất"
+
+#, python-format
+#~ msgid "Upgrade %s?"
+#~ msgstr "Nâng cấp %s?"
+
+#~ msgid "Upgrade"
+#~ msgstr "Nâng cấp"
+
+#~ msgid "Default repositories"
+#~ msgstr "Các kho mặc dịnh"
+
+#~ msgid ""
+#~ "Your APT sources were not correctly restored after you last ran maunainstall. "
+#~ "They now have been restored."
+#~ msgstr ""
+#~ "Các nguồn APT của bạn chưa được phục hồi đúng đắn sau lần chạy maunainstall "
+#~ "trước đây. Hiện giờ chúng đã được phục hồi."
+
+#~ msgid "Go to the Mauna Linux repository"
+#~ msgstr "Đến kho Mauna Linux"
+
+#~ msgid "Your APT sources were corrupted."
+#~ msgstr "Các nguồn APT của bạn đã bị lỗi."
+
+#~ msgid "MB"
+#~ msgstr "MB"
+
+#~ msgid "Go to the Ubuntu repository"
+#~ msgstr "Đến kho Ubuntu"
+
+#~ msgid "Show"
+#~ msgstr "Hiển thị"
+
+#~ msgid "Cancel change"
+#~ msgstr "Hủy thay đổi"
+
+#~ msgid "Cancel installation"
+#~ msgstr "Hủy cài đặt"
+
+#~ msgid "Icon"
+#~ msgstr "Biểu tượng"
+
+#~ msgid "Description"
+#~ msgstr "Mô tả"
+
+#~ msgid "These popular applications can be installed on your system:"
+#~ msgstr "Bạn có thể cài đặt các ứng dụng phổ biến này vào hệ thống:"
+
+#~ msgid "Application"
+#~ msgstr "Ứng dụng"
+
+#~ msgid "Featured applications"
+#~ msgstr "Các ứng dụng khuyên dùng"
+
+#~ msgid "GB"
+#~ msgstr "GB"
+
+#~ msgid "KB"
+#~ msgstr "KB"
+
+#~ msgid "B"
+#~ msgstr "B"
+
+#~ msgid "Size"
+#~ msgstr "Độ lớn"
+
+#~ msgid "Cancel removal"
+#~ msgstr "Hủy gỡ bỏ"
+
+#~ msgid "Description:"
+#~ msgstr "Mô tả:"
+
+#~ msgid "The changes are complete"
+#~ msgstr "Các thay đổi đã hoàn tất"
+
+#~ msgid "Package"
+#~ msgstr "Gói"
+
+#~ msgid "Website"
+#~ msgstr "Trang web"
+
+#~ msgid "License:"
+#~ msgstr "Giấy phép:"
+
+#~ msgid "Available version"
+#~ msgstr "Bản hiện hữu"
+
+#~ msgid "Installed version"
+#~ msgstr "Bản đã cài"
+
+#~ msgid "Repository"
+#~ msgstr "Kho"
+
+#~ msgid "Portal URL"
+#~ msgstr "URL Cổng"
+
+#~ msgid "Show:"
+#~ msgstr "Hiển thị:"
+
+#~ msgid "Quick search:"
+#~ msgstr "Tìm nhanh:"
+
+#~ msgid "More info"
+#~ msgstr "Thông tin thêm"
+
+#~ msgid "Category"
+#~ msgstr "Thể loại"
+
+#~ msgid "Average rating"
+#~ msgstr "Đánh giá chung"
+
+#, python-format
+#~ msgid ""
+#~ "%(applications)d applications listed, %(install)d to install, %(remove)d to "
+#~ "remove"
+#~ msgstr ""
+#~ "Có %(applications)d ứng dụng trong danh sách, sẽ cài đặt %(install)d ứng "
+#~ "dụng, sẽ gỡ bỏ  %(remove)d ứng dụng"
+
+#~ msgid "Installed software"
+#~ msgstr "Phần mềm đã cài đặt"
+
+#~ msgid "Your changes"
+#~ msgstr "Các thay đổi của bạn"
+
+#~ msgid "All software"
+#~ msgstr "Mọi phần mềm"
+
+#~ msgid "Available software"
+#~ msgstr "Phần mềm hiện hữu"
+
+#~ msgid "Views"
+#~ msgstr "Khung xem"
+
+#~ msgid "Added"
+#~ msgstr "Đã thêm"
+
+#~ msgid "Quit"
+#~ msgstr "Thoát"
+
+#~ msgid "_File"
+#~ msgstr "_Tập tin"
+
+#~ msgid "Reviewer"
+#~ msgstr "Người nhận xét"
+
+#~ msgid "Score"
+#~ msgstr "Điểm"
+
+#~ msgid "Review"
+#~ msgstr "Nhận xét"
+
+#~ msgid "Rating"
+#~ msgstr "Đánh giá"
+
+#~ msgid "Status"
+#~ msgstr "Trạng thái"
+
+#~ msgid "Software manager"
+#~ msgstr "Trình Quản lý phần mềm"
+
+#, python-format
+#~ msgid "%d categories loaded"
+#~ msgstr "Đã nạp %d thể loại"
+
+#, python-format
+#~ msgid "%d applications loaded"
+#~ msgstr "Đã nạp %d ứng dụng"
+
+#~ msgid "Please refresh maunainstall by clicking on the Refresh button"
+#~ msgstr "Vui lòng nhấp nút Làm mới để làm mới maunainstall"
+
+#, python-format
+#~ msgid "Downloading data for %s"
+#~ msgstr "Đang tải xuống dữ liệu của %s"
+
+#~ msgid ""
+#~ "The data used by maunainstall is corrupted or out of date. Click on refresh "
+#~ "to fix the problem :"
+#~ msgstr ""
+#~ "Dữ liệu maunainstall dùng đã bị lỗi hoặc lỗii thời. Nhấp Làm mới để khắc phục "
+#~ "vấn đề :"
+
+#~ msgid "Cancel all changes"
+#~ msgstr "Hủy mọi thay đổi"
+
+#~ msgid "_Edit"
+#~ msgstr "_Hiệu chỉnh"
+
+#, python-format
+#~ msgid "%d screenshots loaded"
+#~ msgstr "Đã nạp %d ảnh chụp màn hình"
+
+#, python-format
+#~ msgid "%d reviews loaded"
+#~ msgstr "Đã nạp %d lời nhận xét"
+
+#~ msgid "First person shooters"
+#~ msgstr "Bắn súng góc nhìn thứ nhất (FPS)"
+
+#~ msgid "Real time strategy"
+#~ msgstr "Chiến thuật thời gian thực"
+
+#~ msgid "Simulation & racing"
+#~ msgstr "Mô phỏng & Đua xe"
+
+#~ msgid "All applications"
+#~ msgstr "Mọi ứng dụng"
+
+#~ msgid "Text editors"
+#~ msgstr "Trình soạn thảo văn bản"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Âm thanh và Phim ảnh"
+
+#~ msgid "Audio players"
+#~ msgstr "Trình phát nhạc"
+
+#~ msgid "Video players"
+#~ msgstr "Trình phát phim"
+
+#~ msgid "Burning tools"
+#~ msgstr "Công cụ ghi đĩa"
+
+#~ msgid "Collection managers"
+#~ msgstr "Trình quản lý bộ sưu tập"
+
+#~ msgid "Office suites"
+#~ msgstr "Bộ ứng dụng văn phòng"
+
+#~ msgid "Photo"
+#~ msgstr "Ảnh chụp"
+
+#~ msgid "Web browsers"
+#~ msgstr "Trình duyệt web"
+
+#~ msgid "Word processors"
+#~ msgstr "Trình xử lý văn bản"
+
+#~ msgid "Scanning tools"
+#~ msgstr "Công cụ quét ảnh"
+
+#~ msgid "Tools"
+#~ msgstr "Công cụ"
+
+#~ msgid "Finance"
+#~ msgstr "Tài chính"
+
+#~ msgid "Document viewers"
+#~ msgstr "Trình xem tài liệu"
+
+#~ msgid "2D"
+#~ msgstr "2 chiều"
+
+#~ msgid "Spreadsheets"
+#~ msgstr "Bảng tính"
+
+#~ msgid "Graph and flowcharts"
+#~ msgstr "Biểu đồ và lưu đồ"
+
+#~ msgid "Databases"
+#~ msgstr "Cơ sở dữ liệu"
+
+#~ msgid "Internet Relay Chat"
+#~ msgstr "Tán gẫu giao thức IRC"
+
+#~ msgid "Instant messengers"
+#~ msgstr "Trình tán gẫu"
+
+#~ msgid "Mind mapping"
+#~ msgstr "Sơ đồ tư duy"
+
+#~ msgid "System Tools"
+#~ msgstr "Công cụ Hệ thống"
+
+#~ msgid "Firewall"
+#~ msgstr "Tường lửa"
+
+#~ msgid "Drivers"
+#~ msgstr "Trình điều khiển"
+
+#~ msgid "Upstream"
+#~ msgstr "Ngược dòng"
+
+#, python-format
+#~ msgid "Remove %s?"
+#~ msgstr "Gỡ bỏ %s ?"
+
+#~ msgid "P2P and torrent"
+#~ msgstr "P2P và torrent"
+
+#~ msgid "Package management"
+#~ msgstr "Quản lý gói"
+
+#~ msgid "Desktop components"
+#~ msgstr "Các thành phần Desktop"
+
+#~ msgid "FTP"
+#~ msgstr "FTP"
+
+#~ msgid "The following packages will be removed:"
+#~ msgstr "Các gói sau đây sẽ bị gỡ bỏ:"
+
+#~ msgid "Application removed successfully"
+#~ msgstr "Gỡ bỏ ứng dụng thành công"
+
+#, python-format
+#~ msgid "Could not find package: %s"
+#~ msgstr "Không thể tìm thấy gói: %s"
+
+#~ msgid "No results"
+#~ msgstr "Không tìm thấy"
+
+#~ msgid "Image viewers"
+#~ msgstr "Trình xem hình ảnh"
+
+#~ msgid ""
+#~ "The mint file for this application was not successfully downloaded. Click on "
+#~ "refresh to fix the problem."
+#~ msgstr ""
+#~ "Không thể tải xuống thành công tập tin mint cho ứng dụng này. Nhấp Làm mới để "
+#~ "khắc phục vấn đề."
+
+#~ msgid "The following packages will be upgraded:"
+#~ msgstr "Các gói sau đây sẽ được nâng cấp:"
+
+#~ msgid "Search for a .mint application"
+#~ msgstr "Truy tìm ứng dụng .mint"
+
+#~ msgid "_Help"
+#~ msgstr "Trợ _giúp"
+
+#~ msgid "Search"
+#~ msgstr "Tìm kiếm"
+
+#~ msgid "Go to the Mauna Linux Software Portal"
+#~ msgstr "Đến Cổng thông tin Phần mềm Mauna Linux"
+
+#~ msgid "Go to the GetDeb Portal"
+#~ msgstr "Đến Cổng thông tin GetDeb"
+
+#~ msgid "Please wait, this can take some time"
+#~ msgstr "Xin vui lòng chờ đợi trong giây lát"
+
+#~ msgid "Find Software"
+#~ msgstr "Tìm Phần mềm"
+
+#~ msgid "Search for a .deb package"
+#~ msgstr "Tìm gói dạng .deb"

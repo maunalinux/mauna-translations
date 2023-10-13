@@ -1,0 +1,342 @@
+# Filipino translation for maunalinux
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the maunalinux package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mauna\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2022-11-28 10:57+0000\n"
+"PO-Revision-Date: 2023-10-12 19:32-0300\n"
+"Last-Translator: Launchpad Translations Administrators <Unknown>\n"
+"Language-Team: Filipino <fil@li.org>\n"
+"Language: fil\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2023-07-07 12:52+0000\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: usr/lib/mauna/maunawelcome/maunawelcome.py:129
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:1
+msgid "Welcome"
+msgstr "Maligayang pagdating"
+
+#: usr/lib/mauna/maunawelcome/maunawelcome.py:134
+msgid "First Steps"
+msgstr "Mga Unang Hakbang"
+
+#: usr/lib/mauna/maunawelcome/maunawelcome.py:139
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:5
+msgid "Documentation"
+msgstr "Dokumentasyon"
+
+#: usr/lib/mauna/maunawelcome/maunawelcome.py:143
+msgid "Help"
+msgstr "Tulong"
+
+#: usr/lib/mauna/maunawelcome/maunawelcome.py:147
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:2
+msgid "Contribute"
+msgstr "Mag-ambag"
+
+#: usr/lib/mauna/maunawelcome/maunawelcome.py:154
+msgid "Show this dialog at startup"
+msgstr "Ipakita ng dyalogo sa simula"
+
+#: generate_desktop_files:24 generate_desktop_files:37
+msgid "Welcome Screen"
+msgstr "Screen ng Pagbati"
+
+#: generate_desktop_files:24 generate_desktop_files:37
+msgid "Introduction to Mauna Linux"
+msgstr "Panimula sa Mauna Linux"
+
+#: generate_desktop_files:49
+msgid "Install Multimedia Codecs"
+msgstr "I-install ang Multimedia Codecs"
+
+#: generate_desktop_files:49
+msgid "Add all the missing multimedia codecs"
+msgstr "Idagdag ang mga nawawalang multimedia codecs"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:3
+msgid ""
+"Mauna Linux is a great project. It is open to anyone who wants to "
+"participate. There are many ways to help. Click the button below to see how "
+"you can get involved."
+msgstr ""
+"Ang Mauna Linux ay isang mahusay na proyekto. Bukas ito sa sinumang gustong "
+"lumahok. Maraming paraan para makatulong. I-click ang button sa ibaba upang "
+"makita kung paano ka makakasali."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:4
+msgid "Launch"
+msgstr "Ilunsad ang"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:6
+msgid ""
+"The Mauna Linux documentation consists of a collection of guides, available "
+"in PDF, ePUB and HTML and available in many languages. Click the button below "
+"to see which guides are available."
+msgstr ""
+"Ang dokumentasyon ng Mauna Linux ay binubuo ng isang koleksyon ng mga gabay, "
+"na makukuha sa PDF, ePUB at HTML at available sa maraming wika. I-click ang "
+"button sa ibaba para makita kung aling mga gabay ang available."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:7
+msgid "New Features"
+msgstr "Mga bagong katangian"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:8
+msgid ""
+"Click the button below to discover the new features introduced in this "
+"version of Mauna Linux."
+msgstr ""
+"I-click ang button sa ibaba upang matuklasan ang mga bagong feature na "
+"ipinakilala sa bersyong ito ng Mauna Linux."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:9
+msgid "Release Notes"
+msgstr "Mga Tala sa Paglabas"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:10
+msgid ""
+"Click the button below to read about known bugs, limitations and workarounds "
+"for this version of Mauna Linux."
+msgstr ""
+"I-click ang button sa ibaba para basahin ang tungkol sa mga kilalang bug, "
+"limitasyon at solusyon para sa bersyong ito ng Mauna Linux."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:11
+msgid "Desktop Colors"
+msgstr "Mga Kulay ng Desktop"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:12
+msgid ""
+"First, make yourself at home. Choose your favorite color and whether you "
+"prefer a light or a dark desktop theme."
+msgstr ""
+"Una, gawin ang iyong sarili sa bahay. Piliin ang iyong paboritong kulay at "
+"kung mas gusto mo ang isang maliwanag o madilim na tema ng desktop."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:13
+msgid "Panel Layout"
+msgstr "Layout ng Panel"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:14
+msgid "Choose your favorite layout."
+msgstr "Piliin ang iyong paboritong layout."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:15
+msgid "Modern"
+msgstr "Moderno"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:16
+msgid "A large panel with grouped windows and a small system tray."
+msgstr ""
+"Isang malaking panel na may mga nakapangkat na bintana at isang maliit na "
+"system tray."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:17
+msgid "Traditional"
+msgstr "Tradisyonal"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:18
+msgid "A small panel and a traditional window list."
+msgstr "Isang maliit na panel at isang tradisyunal na listahan ng window."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:19
+msgid ""
+"Note: Cinnamon will restart after you choose a new layout. Any customization "
+"you made to the panel will be lost."
+msgstr ""
+"Tandaan: Magre-restart ang Cinnamon pagkatapos mong pumili ng bagong layout. "
+"Mawawala ang anumang pag-customize na ginawa mo sa panel."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:20
+msgid "System Snapshots"
+msgstr "Mga Snapshot ng Sistema"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:21
+msgid ""
+"Next, let's set automatic system snapshots. A minimum of two daily and two "
+"boot snapshots are recommended. If anything breaks, you can then restore your "
+"computer to its previous working state."
+msgstr ""
+"Susunod, itakda natin ang mga awtomatikong snapshot ng sistema. "
+"Inirerekomenda ang hindi bababa sa dalawang araw-araw at dalawang boot "
+"snapshot. Kung may masira, maaari mong ibalik ang iyong computer sa dati "
+"nitong katayuan sa pagtatrabaho."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:22
+msgid "Driver Manager"
+msgstr "Tagapamahala ng Driver"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:23
+msgid ""
+"Check the Driver Manager to see if it recommends any additional drivers for "
+"your computer. Most hardware components are recognized by the Linux kernel "
+"and work automatically without the need to install drivers. Some however "
+"require proprietary drivers to be recognized or to work better."
+msgstr ""
+"Suriin ang Tagapamahala ng Driver upang makita kung nagrerekomenda ito ng "
+"anumang karagdagang mga driver para sa iyong computer. Karamihan sa mga "
+"bahagi ng hardware ay kinikilala ng kernel ng Linux at awtomatikong gumagana "
+"nang hindi kinakailangang mag-install ng mga driver. Gayunpaman, ang ilan ay "
+"nangangailangan ng pagmamay-ari na mga driver na kilalanin o upang gumana "
+"nang mas mahusay."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:24
+msgid "Multimedia Codecs"
+msgstr "Mga Multimedia Codec"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:25
+msgid ""
+"Additional multimedia codecs are required to support some formats and to play "
+"popular audio, video and web content. Click the button below to install them."
+msgstr ""
+"Ang mga karagdagang multimedia codec ay kinakailangan upang suportahan ang "
+"ilang mga format at upang i-play ang sikat na audio, video at nilalaman sa "
+"web. I-click ang button sa ibaba para i-install ang mga ito."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:26
+msgid "Update Manager"
+msgstr "Update Manager"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:27
+msgid ""
+"The little shield icon in your system tray is your Update Manager. It "
+"provides software updates, security updates and kernel updates to fix bugs, "
+"keep your computer safe and support newer hardware components."
+msgstr ""
+"Ang maliit na icon ng kalasag sa iyong system tray ay ang iyong Update "
+"Manager. Nagbibigay ito ng mga update sa software, mga update sa seguridad at "
+"mga update sa kernel upang ayusin ang mga bug, panatilihing ligtas ang iyong "
+"computer at suportahan ang mga mas bagong bahagi ng hardware."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:28
+msgid "System Settings"
+msgstr "Mga Setting ng Sistema"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:29
+msgid ""
+"Have a look at the system settings and configure your operating system the "
+"way you like. Don't hesitate to customize it and make it feel like home."
+msgstr ""
+"Tingnan ang mga setting ng sistema at i-configure ang iyong operating system "
+"sa paraang gusto mo. Huwag mag-atubiling i-customize ito at gawin itong "
+"parang bahay."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:30
+msgid "Software Manager"
+msgstr "Tagapamahala ng Software"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:31
+msgid ""
+"There are about 60,000 applications available. Mauna Linux comes with the "
+"bare minimum to get you started. The Software Manager is there if you're "
+"looking for more."
+msgstr ""
+"Mayroong humigit-kumulang 60,000 mga aplikasyon na magagamit. Ang Mauna Linux "
+"ay may pinakamababang halaga para makapagsimula ka. Nandiyan ang Software "
+"Manager kung naghahanap ka ng higit pa."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:32
+msgid "Firewall"
+msgstr "Firewall"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:33
+msgid "Control and monitor network traffic by enabling the firewall."
+msgstr ""
+"Kontrolin at subaybayan ang trapiko ng network sa pamamagitan ng pagpapagana "
+"sa firewall."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:34
+msgid "Web Forums"
+msgstr "Mga Web Forum"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:35
+msgid ""
+"The Mauna Linux forums are the best place to find help. Join thousands of "
+"users, search topics and threads and find solutions to your problems."
+msgstr ""
+"Ang mga forum ng Mauna Linux ay ang pinakamagandang lugar para humanap ng "
+"tulong. Sumali sa libu-libong user, maghanap ng mga paksa at thread at "
+"maghanap ng mga solusyon sa iyong mga problema."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:36
+msgid "IRC Chat Room"
+msgstr "IRC Chat Room"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:37
+msgid ""
+"You can also connect to the IRC chat room and chat with users who are "
+"currently online. Ask a question, maybe someone there knows the solution?"
+msgstr ""
+"Maaari ka ring kumonekta sa IRC chat room at makipag-chat sa mga user na "
+"kasalukuyang online. Magtanong ka, baka may nakakaalam ng solusyon?"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:38
+msgid ""
+"Mauna Linux has a great community. Many users will welcome you with open arms "
+"and be delighted to help you. Make sure to be patient and respectful with "
+"them. Keep a happy and positive attitude and provide accurate information "
+"when someone helps you."
+msgstr ""
+"Ang Mauna Linux ay may mahusay na komunidad. Malugod kang tatanggapin ng "
+"maraming user at malugod na tulungan ka. Siguraduhing maging matiyaga at "
+"magalang sa kanila. Panatilihin ang isang masaya at positibong saloobin at "
+"magbigay ng tumpak na impormasyon kapag may tumulong sa iyo."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:39
+msgid ""
+"If you have a bad experience with another user, try to solve it responsibly "
+"or contact the moderation team. Although we can't guarantee everyone will "
+"behave nicely, our project promotes help, respect, tolerance, ideas and "
+"constructive discussions."
+msgstr ""
+"Kung mayroon kang masamang karanasan sa ibang user, subukang lutasin ito nang "
+"responsable o makipag-ugnayan sa team ng moderation. Bagama't hindi namin "
+"magagarantiya na ang lahat ay magiging maganda ang pag-uugali, ang aming "
+"proyekto ay nagtataguyod ng tulong, paggalang, pagpaparaya, mga ideya at mga "
+"nakabubuong talakayan."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:40
+msgid "Welcome to Mauna Linux"
+msgstr "Maligayang pagdating sa Mauna Linux"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:41
+msgid "Welcome to your new operating system!"
+msgstr "Maligayang pagdating sa iyong bagong nagpapatakbo sistema!"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:42
+msgid ""
+"This welcome screen will guide you through your first steps, show you how to "
+"find help and where to get more information about Mauna Linux."
+msgstr ""
+"Gagabayan ka ng welcome screen na ito sa iyong mga unang hakbang, ipapakita "
+"sa iyo kung paano maghanap ng tulong at kung saan makakakuha ng higit pang "
+"impormasyon tungkol sa Mauna Linux."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:43
+msgid ""
+"On behalf of the development team and everyone involved in the project, we'd "
+"like to thank you for choosing Mauna Linux. We hope you'll enjoy using it as "
+"much as we enjoy working on it."
+msgstr ""
+"Sa ngalan ng development team at lahat ng kasangkot sa proyekto, nais naming "
+"pasalamatan ka sa pagpili sa Mauna Linux. Umaasa kaming masisiyahan ka sa "
+"paggamit nito gaya ng pag-e-enjoy namin sa paggawa nito."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:44
+msgid "Have a great time and don't hesitate to send us your feedback."
+msgstr "Magsaya at huwag mag-atubiling ipadala sa amin ang iyong feedback."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:45
+msgid "Let's go!"
+msgstr "Tara na!"
+
+#~ msgid "Get involved"
+#~ msgstr "Makibahagi"

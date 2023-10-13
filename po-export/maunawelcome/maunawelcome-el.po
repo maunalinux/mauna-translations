@@ -1,0 +1,379 @@
+# Greek translation for maunalinux
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the maunalinux package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mauna\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2022-11-28 10:57+0000\n"
+"PO-Revision-Date: 2023-10-08 17:42-0300\n"
+"Last-Translator: Aster Bandis <Unknown>\n"
+"Language-Team: Greek <el@li.org>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2023-07-07 12:52+0000\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: usr/lib/mauna/maunawelcome/maunawelcome.py:129
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:1
+msgid "Welcome"
+msgstr "Καλώς ήρθατε"
+
+#: usr/lib/mauna/maunawelcome/maunawelcome.py:134
+msgid "First Steps"
+msgstr "Πρώτα Βήματα"
+
+#: usr/lib/mauna/maunawelcome/maunawelcome.py:139
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:5
+msgid "Documentation"
+msgstr "Τεκμηρίωση"
+
+#: usr/lib/mauna/maunawelcome/maunawelcome.py:143
+msgid "Help"
+msgstr "Βοήθεια"
+
+#: usr/lib/mauna/maunawelcome/maunawelcome.py:147
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:2
+msgid "Contribute"
+msgstr "Συνεισφέρετε"
+
+#: usr/lib/mauna/maunawelcome/maunawelcome.py:154
+msgid "Show this dialog at startup"
+msgstr "Εμφάνιση αυτού του διαλόγου κατά την εκκίνηση"
+
+#: generate_desktop_files:24 generate_desktop_files:37
+msgid "Welcome Screen"
+msgstr "Οθόνη Καλωσορίσματος"
+
+#: generate_desktop_files:24 generate_desktop_files:37
+msgid "Introduction to Mauna Linux"
+msgstr "Εισαγωγή στο Mauna Linux"
+
+#: generate_desktop_files:49
+msgid "Install Multimedia Codecs"
+msgstr "Εγκατάσταση αποκωδικοποιητών πολυμέσων"
+
+#: generate_desktop_files:49
+msgid "Add all the missing multimedia codecs"
+msgstr "Προσθήκη όλων των ελλειπόντων αποκωδικοποιητών πολυμέσων"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:3
+msgid ""
+"Mauna Linux is a great project. It is open to anyone who wants to participate. "
+"There are many ways to help. Click the button below to see how you can get "
+"involved."
+msgstr ""
+"Το Mauna Linux είναι ένα μεγάλο έργο. Είναι ανοιχτό σε όποιον θέλει να "
+"συμμετάσχει. Υπάρχουν πολλοί τρόποι για να βοηθήσετε. Κάντε κλικ στο παρακάτω "
+"κουμπί για να δείτε πώς μπορείτε να εμπλακείτε."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:4
+msgid "Launch"
+msgstr "Εκκίνηση"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:6
+msgid ""
+"The Mauna Linux documentation consists of a collection of guides, available in "
+"PDF, ePUB and HTML and available in many languages. Click the button below to "
+"see which guides are available."
+msgstr ""
+"Η τεκμηρίωση του Mauna Linux αποτελείται από μια συλλογή οδηγών, διαθέσιμη σε "
+"PDF, ePUB και HTML και διατίθεται σε πολλές γλώσσες. Κάντε κλικ στο παρακάτω "
+"κουμπί για να δείτε ποιοι οδηγοί είναι διαθέσιμοι."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:7
+msgid "New Features"
+msgstr "Νέα Χαρακτηριστικά"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:8
+msgid ""
+"Click the button below to discover the new features introduced in this version "
+"of Mauna Linux."
+msgstr ""
+"Κάντε κλικ στο παρακάτω κουμπί για να ανακαλύψετε τα νέα χαρακτηριστικά που "
+"παρουσιάζονται σε αυτή την έκδοση του Mauna Linux."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:9
+msgid "Release Notes"
+msgstr "Σημειώσεις έκδοσης"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:10
+msgid ""
+"Click the button below to read about known bugs, limitations and workarounds for "
+"this version of Mauna Linux."
+msgstr ""
+"Κάντε κλικ στο παρακάτω κουμπί για να διαβάσετε σχετικά με τα γνωστά σφάλματα, "
+"τους περιορισμούς και τους τρόπους αντιμετώπισης αυτής της έκδοσης Mauna Linux."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:11
+msgid "Desktop Colors"
+msgstr "Χρώματα Επιφάνειας Εργασίας"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:12
+msgid ""
+"First, make yourself at home. Choose your favorite color and whether you prefer "
+"a light or a dark desktop theme."
+msgstr ""
+"Πρώτα, βολευτείτε. Διαλέξτε το αγαπημένο σας χρώμα και αν προτιμάτε ένα φωτεινό "
+"ή ένα σκοτεινό θέμα επιφάνειας εργασίας."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:13
+msgid "Panel Layout"
+msgstr "Διαμόρφωση πίνακα"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:14
+msgid "Choose your favorite layout."
+msgstr "Επιλέξτε την αγαπημένη σας διάταξη."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:15
+msgid "Modern"
+msgstr "Μοντέρνο"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:16
+msgid "A large panel with grouped windows and a small system tray."
+msgstr "Ένα μεγάλο πάνελ με ομαδοποιημένα παράθυρα και ένα μικρό δίσκο συστήματος."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:17
+msgid "Traditional"
+msgstr "Παραδοσιακό"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:18
+msgid "A small panel and a traditional window list."
+msgstr "Ένα μικρό πάνελ και μια παραδοσιακή λίστα παραθύρων."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:19
+msgid ""
+"Note: Cinnamon will restart after you choose a new layout. Any customization you "
+"made to the panel will be lost."
+msgstr ""
+"Σημείωση: Το Cinnamon θα κάνει επανεκκίνηση αφού διαλέξετε καινούργια διάταξη. "
+"Οποιαδήποτε προσαρμογή κάνετε στο πάνελ θα χαθεί."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:20
+msgid "System Snapshots"
+msgstr "Στιγμιότυπα Συστήματος"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:21
+msgid ""
+"Next, let's set automatic system snapshots. A minimum of two daily and two boot "
+"snapshots are recommended. If anything breaks, you can then restore your "
+"computer to its previous working state."
+msgstr ""
+"Επομένως, ας ρυθμίσουμε τις αυτόματες εικόνες συστήματος. Προτείνονται "
+"τουλάχιστον 2 ημερήσιες και 2 εικόνες κατά την εκκίνηση. Αν χαλάσει κάτι, "
+"μπορείτε να επαναφέρετε τον υπολογιστή σας στη προηγούμενη λειτουργική κατάστασή "
+"του."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:22
+msgid "Driver Manager"
+msgstr "Διαχειριστής Οδηγών"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:23
+msgid ""
+"Check the Driver Manager to see if it recommends any additional drivers for your "
+"computer. Most hardware components are recognized by the Linux kernel and work "
+"automatically without the need to install drivers. Some however require "
+"proprietary drivers to be recognized or to work better."
+msgstr ""
+"Ελέγξτε τον διαχειριστή οδηγών για να δείτε αν συνιστά πρόσθετα προγράμματα "
+"οδήγησης για τον υπολογιστή σας. Τα περισσότερα εξαρτήματα υλικού αναγνωρίζονται "
+"από τον πυρήνα του Linux και λειτουργούν αυτόματα χωρίς την ανάγκη εγκατάστασης "
+"προγραμμάτων οδήγησης. Μερικά, όμως, απαιτούν ιδιόκτητους οδηγούς για να "
+"αναγνωριστούν ή να λειτουργήσουν καλύτερα."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:24
+msgid "Multimedia Codecs"
+msgstr "Αποκωδικοποιητές πολυμέσων"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:25
+msgid ""
+"Additional multimedia codecs are required to support some formats and to play "
+"popular audio, video and web content. Click the button below to install them."
+msgstr ""
+"Επιπλέον αποκωδικοποιητές πολυμέσων απαιτούνται για την υποστήριξη ορισμένων "
+"μορφών και για την αναπαραγωγή δημοφιλών περιεχομένων ήχου, βίντεο και "
+"περιεχομένου ιστού. Κάντε κλικ στο παρακάτω κουμπί για να τα εγκαταστήσετε."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:26
+msgid "Update Manager"
+msgstr "Διαχειριστής Ενημερώσεων"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:27
+msgid ""
+"The little shield icon in your system tray is your Update Manager. It provides "
+"software updates, security updates and kernel updates to fix bugs, keep your "
+"computer safe and support newer hardware components."
+msgstr ""
+"Το εικονίδιο της μικρής ασπίδας στα εικονίδια του συστήματός σας είναι ο "
+"Διαχειριστής ενημερώσεων. Παρέχει ενημερώσεις λογισμικού, ενημερώσεις ασφαλείας "
+"και ενημερώσεις πυρήνα για τη διόρθωση σφαλμάτων, την ασφάλεια του υπολογιστή "
+"σας, και την υποστήριξη νεότερων συσκευών."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:28
+msgid "System Settings"
+msgstr "Ρυθμίσεις Συστήματος"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:29
+msgid ""
+"Have a look at the system settings and configure your operating system the way "
+"you like. Don't hesitate to customize it and make it feel like home."
+msgstr ""
+"Ρίξτε μια ματιά στις ρυθμίσεις του συστήματος και διαμορφώστε το λειτουργικό σας "
+"σύστημα όπως σας αρέσει. Μη διστάσετε να το προσαρμόσετε και να νιώσετε σαν στο "
+"σπίτι σας."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:30
+msgid "Software Manager"
+msgstr "Διαχειριστής Λογισμικού"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:31
+msgid ""
+"There are about 60,000 applications available. Mauna Linux comes with the bare "
+"minimum to get you started. The Software Manager is there if you're looking for "
+"more."
+msgstr ""
+"Υπάρχουν περίπου 60.000 διαθέσιμες εφαρμογές. Το Mauna Linux έρχεται με το "
+"ελάχιστο δυνατό για να ξεκινήσετε. Ο διαχειριστής λογισμικού είναι εκεί αν "
+"ψάχνετε για περισσότερα."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:32
+msgid "Firewall"
+msgstr "Τείχος Προστασίας"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:33
+msgid "Control and monitor network traffic by enabling the firewall."
+msgstr ""
+"Ελέγξτε και παρακολουθήστε την κίνηση δικτύου ενεργοποιώντας το τείχος "
+"προστασίας."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:34
+msgid "Web Forums"
+msgstr "Φόρουμ Ιστού"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:35
+msgid ""
+"The Mauna Linux forums are the best place to find help. Join thousands of users, "
+"search topics and threads and find solutions to your problems."
+msgstr ""
+"Τα φόρουμ του Mauna Linux είναι το καλύτερο μέρος για να βρείτε βοήθεια. "
+"Συμμετάσχετε σε χιλιάδες χρήστες, αναζητήστε θέματα και νήματα, και βρείτε "
+"λύσεις στα προβλήματά σας."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:36
+msgid "IRC Chat Room"
+msgstr "Δωμάτιο συνομιλιών IRC"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:37
+msgid ""
+"You can also connect to the IRC chat room and chat with users who are currently "
+"online. Ask a question, maybe someone there knows the solution?"
+msgstr ""
+"Μπορείτε επίσης να συνδεθείτε στο chat room του IRC και να συνομιλήσετε με "
+"συνδεδεμένους χρήστες. Κάντε μια ερώτηση, ίσως κάποιος εκεί να γνωρίζει τη λύση;"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:38
+msgid ""
+"Mauna Linux has a great community. Many users will welcome you with open arms "
+"and be delighted to help you. Make sure to be patient and respectful with them. "
+"Keep a happy and positive attitude and provide accurate information when someone "
+"helps you."
+msgstr ""
+"Το Mauna Linux έχει μια μεγάλη κοινότητα. Πολλοί χρήστες θα σας καλωσορίσουν με "
+"ανοιχτές αγκάλες και θα χαρούν να σας βοηθήσουν. Βεβαιωθείτε ότι έχετε υπομονή "
+"και σεβασμό με αυτούς. Διατηρήστε μια ευτυχισμένη και θετική στάση και δώστε "
+"ακριβείς πληροφορίες όταν κάποιος σας βοηθά."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:39
+msgid ""
+"If you have a bad experience with another user, try to solve it responsibly or "
+"contact the moderation team. Although we can't guarantee everyone will behave "
+"nicely, our project promotes help, respect, tolerance, ideas and constructive "
+"discussions."
+msgstr ""
+"Αν έχετε κακή εμπειρία με κάποιο χρήστη, προσπαθήστε να το επιλύσετε υπεύθυνα ή "
+"επικοινωνήστε με την ομάδα συντονισμού. Παρόλο που δεν μπορούμε να εγγυηθούμε "
+"ότι όλοι θα συμπεριφέρονται όμορφα, το έργο μας προωθεί τη βοήθεια, το σεβασμό, "
+"την ανεκτικότητα, τις ιδέες και τις εποικοδομητικές συζητήσεις."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:40
+msgid "Welcome to Mauna Linux"
+msgstr "Καλώς ορίσατε στο Mauna Linux"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:41
+msgid "Welcome to your new operating system!"
+msgstr "Καλώς ορίσατε στο νέο σας λειτουργικό σύστημα!"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:42
+msgid ""
+"This welcome screen will guide you through your first steps, show you how to "
+"find help and where to get more information about Mauna Linux."
+msgstr ""
+"Αυτή η οθόνη υποδοχής θα σας καθοδηγήσει στα πρώτα σας βήματα, θα σας δείξει πώς "
+"να βρείτε βοήθεια και πού θα βρείτε περισσότερες πληροφορίες σχετικά με το Mauna "
+"Linux."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:43
+msgid ""
+"On behalf of the development team and everyone involved in the project, we'd "
+"like to thank you for choosing Mauna Linux. We hope you'll enjoy using it as "
+"much as we enjoy working on it."
+msgstr ""
+"Εκ μέρους της ομάδας ανάπτυξης και όλων όσων συμμετέχουν στο έργο, θα θέλαμε να "
+"σας ευχαριστήσουμε που επιλέξατε το Mauna Linux. Ελπίζουμε ότι θα απολαύσετε τη "
+"χρήση του όσο εμάς μας αρέσει να εργαζόμαστε σε αυτό."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:44
+msgid "Have a great time and don't hesitate to send us your feedback."
+msgstr "Να περνάτε καλά και μη διστάσετε να μας στείλετε τα σχόλιά σας."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:45
+msgid "Let's go!"
+msgstr "Ας ξεκινήσουμε!"
+
+#~ msgid "Visit the forums"
+#~ msgstr "Επισκευθείτε τη λίστα συζητήσεων"
+
+#~ msgid "Make a donation"
+#~ msgstr "Κάντε μια δωρεά"
+
+#~ msgid "Become a sponsor"
+#~ msgstr "Γίνετε χορηγός"
+
+#~ msgid "Read the release notes"
+#~ msgstr "Διαβάστε τις σημειώσεις της έκδοσης"
+
+#, python-format
+#~ msgid "Discover %s"
+#~ msgstr "Εξερευνήστε %s"
+
+#~ msgid "Find help"
+#~ msgstr "Εύρεση βοήθειας"
+
+#~ msgid "Contribute to Mauna Linux"
+#~ msgstr "Συνεισφέρετε στο Mauna Linux"
+
+#~ msgid "Browse the list of new features"
+#~ msgstr "Περιηγηθείτε στη λίστα με τα νέα χαρακτηριστικά"
+
+#~ msgid "Connect to the chat room"
+#~ msgstr "Συνδεθείτε με το δωμάτιο συνομιλίας"
+
+#~ msgid "Get involved"
+#~ msgstr "Συμμετέχετε"
+
+#~ msgid ""
+#~ "Welcome and thank you for choosing Mauna Linux. We hope you'll enjoy using it "
+#~ "as much as we did making it. Please make yourself familiar with the new "
+#~ "features and the documentation and don't hesitate to send us your feedback."
+#~ msgstr ""
+#~ "Καλωσορίσατε και ευχαριστούμε που επιλέξατε το Mauna Linux. Ελπίζουμε να "
+#~ "απολαύσετε τη χρήση του όσο εμείς απολαύσαμε τη δημιουργία του. Παρακαλώ "
+#~ "εξοικειωθείτε με τα νέα χαρακτηριστικά και την τεκμηρίωση και μην διστάσετε "
+#~ "να μας στείλετε τα σχόλιά σας."
+
+#~ msgid "Download the user guide (PDF)"
+#~ msgstr "Μεταφορτώστε τις οδηγίες χρήσης (PDF)"
