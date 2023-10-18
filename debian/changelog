@@ -1,3 +1,10 @@
+mauna-translations (2023.10.18) mauna; urgency=medium
+
+  * New upstream release
+  * l10n: Add new translations for MaunaInstall, MaunaCommon and MaunaWelcome
+
+ -- Mauna Linux <dev@maunalinux.top>  Wed, 18 Oct 2023 18:40:52 -0300
+
 mauna-translations (2023.08.15) mauna; urgency=medium
 
   * Test
