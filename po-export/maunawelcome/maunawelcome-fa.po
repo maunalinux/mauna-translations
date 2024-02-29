@@ -1,0 +1,295 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-17 18:34-0300\n"
+"PO-Revision-Date: 2024-01-09 18:51-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: usr/lib/mauna/maunawelcome/maunawelcome.py:121
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:1
+msgid "Welcome"
+msgstr "خوش آمدی"
+
+#: usr/lib/mauna/maunawelcome/maunawelcome.py:126
+msgid "First Steps"
+msgstr "مراحل اول"
+
+#: usr/lib/mauna/maunawelcome/maunawelcome.py:131
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:5
+msgid "Documentation"
+msgstr "مستندات"
+
+#: usr/lib/mauna/maunawelcome/maunawelcome.py:135
+msgid "Help"
+msgstr "کمک"
+
+#: usr/lib/mauna/maunawelcome/maunawelcome.py:139
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:2
+msgid "Contribute"
+msgstr "مشارکت"
+
+#: usr/lib/mauna/maunawelcome/maunawelcome.py:146
+msgid "Show this dialog at startup"
+msgstr "این گفتگو را هنگام راه اندازی نشان دهید"
+
+#: generate_desktop_files:24 generate_desktop_files:37
+msgid "Welcome Screen"
+msgstr "صفحه خوش آمدید"
+
+#: generate_desktop_files:24 generate_desktop_files:37
+msgid "Introduction to Mauna Linux"
+msgstr "مقدمه ای بر لینوکس ماونا"
+
+#: generate_desktop_files:49
+msgid "Install Multimedia Codecs"
+msgstr "کدک های چند رسانه ای را نصب کنید"
+
+#: generate_desktop_files:49
+msgid "Add all the missing multimedia codecs"
+msgstr "همه کدک های چند رسانه ای گم شده را اضافه کنید"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:3
+msgid ""
+"Mauna Linux is a great project. It is open to anyone who wants to "
+"participate. There are many ways to help. Click the button below to see how "
+"you can get involved."
+msgstr ""
+"لینوکس ماونا یک پروژه عالی است. برای هر کسی که بخواهد شرکت کند آزاد است. راه "
+"های زیادی برای کمک وجود دارد. روی دکمه زیر کلیک کنید تا ببینید چگونه می "
+"توانید درگیر شوید."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:4
+msgid "Launch"
+msgstr "راه اندازی"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:6
+msgid ""
+"The Mauna Linux documentation consists of a collection of guides, available "
+"in PDF, ePUB and HTML and available in many languages. Click the button "
+"below to see which guides are available."
+msgstr ""
+"مستندات لینوکس Mauna شامل مجموعه ای از راهنماها است که به صورت PDF، ePUB و "
+"HTML موجود است و به بسیاری از زبان ها موجود است. روی دکمه زیر کلیک کنید تا "
+"ببینید کدام راهنماها در دسترس هستند."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:7
+msgid "New Features"
+msgstr "ویژگی های جدید"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:8
+msgid ""
+"Click the button below to discover the new features introduced in this "
+"version of Mauna Linux."
+msgstr ""
+"برای کشف ویژگی های جدید معرفی شده در این نسخه از لینوکس Mauna روی دکمه زیر "
+"کلیک کنید."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:9
+msgid "Release Notes"
+msgstr "یادداشت های انتشار"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:10
+msgid ""
+"Click the button below to read about known bugs, limitations and workarounds "
+"for this version of Mauna Linux."
+msgstr ""
+"روی دکمه زیر کلیک کنید تا در مورد اشکالات شناخته شده، محدودیت ها و راه حل "
+"های این نسخه از Mauna Linux مطالعه کنید."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:11
+msgid "Desktop Colors"
+msgstr "رنگ های دسکتاپ"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:12
+msgid ""
+"First, make yourself at home. Choose your favorite color and whether you "
+"prefer a light or a dark desktop theme."
+msgstr ""
+"ابتدا خودتان را در خانه بسازید. رنگ مورد علاقه خود را انتخاب کنید و اینکه "
+"آیا تم دسکتاپ روشن یا تیره را ترجیح می دهید."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:13
+msgid "System Snapshots"
+msgstr "عکس های فوری سیستم"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:14
+msgid ""
+"Next, let's set automatic system snapshots. A minimum of two daily and two "
+"boot snapshots are recommended. If anything breaks, you can then restore "
+"your computer to its previous working state."
+msgstr ""
+"در مرحله بعد، بیایید عکس های فوری سیستم را تنظیم کنیم. حداقل دو عکس در روز و "
+"دو عکس فوری از بوت توصیه می شود. اگر چیزی خراب شد، سپس می توانید رایانه خود "
+"را به حالت کار قبلی خود بازگردانید."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:15
+msgid "Driver Manager"
+msgstr "مدیر راننده"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:16
+msgid ""
+"Check the Driver Manager to see if it recommends any additional drivers for "
+"your computer. Most hardware components are recognized by the Linux kernel "
+"and work automatically without the need to install drivers. Some however "
+"require proprietary drivers to be recognized or to work better."
+msgstr ""
+"مدیر راننده را بررسی کنید تا ببینید آیا درایورهای اضافی را برای رایانه شما "
+"توصیه می کند یا خیر. اکثر اجزای سخت افزاری توسط هسته لینوکس شناسایی می شوند "
+"و بدون نیاز به نصب درایورها به طور خودکار کار می کنند. با این حال، برخی نیاز "
+"به درایورهای اختصاصی دارند تا شناخته شوند یا بهتر کار کنند."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:17
+msgid "Multimedia Codecs"
+msgstr "کدک های چند رسانه ای"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:18
+msgid ""
+"Additional multimedia codecs are required to support some formats and to "
+"play popular audio, video and web content. Click the button below to install "
+"them."
+msgstr ""
+"کدک های چند رسانه ای اضافی برای پشتیبانی از برخی فرمت ها و پخش محتوای محبوب "
+"صوتی، تصویری و وب مورد نیاز است. برای نصب آنها روی دکمه زیر کلیک کنید."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:19
+msgid "Update Manager"
+msgstr "مدیر به روز رسانی"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:20
+msgid ""
+"The little shield icon in your system tray is your Update Manager. It "
+"provides software updates, security updates and kernel updates to fix bugs, "
+"keep your computer safe and support newer hardware components."
+msgstr ""
+"نماد سپر کوچک در سینی سیستم شما مدیر به روز رسانی شما است. به‌روزرسانی‌های "
+"نرم‌افزار، به‌روزرسانی‌های امنیتی و به‌روزرسانی‌های هسته را برای رفع اشکال‌ها، "
+"ایمن نگه‌داشتن رایانه و پشتیبانی از اجزای سخت‌افزاری جدیدتر ارائه می‌کند."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:21
+msgid "System Settings"
+msgstr "تنظیمات سیستم"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:22
+msgid ""
+"Have a look at the system settings and configure your operating system the "
+"way you like. Don't hesitate to customize it and make it feel like home."
+msgstr ""
+"به تنظیمات سیستم نگاهی بیندازید و سیستم عامل خود را به روشی که دوست دارید "
+"پیکربندی کنید. در سفارشی کردن آن و ایجاد حسی مانند خانه دریغ نکنید."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:23
+msgid "Software Manager"
+msgstr "مدیر نرم افزار"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:24
+msgid ""
+"There are about 60,000 applications available. Mauna Linux comes with the "
+"bare minimum to get you started. The Software Manager is there if you're "
+"looking for more."
+msgstr ""
+"حدود 60000 اپلیکیشن موجود است. لینوکس Mauna حداقل برای شروع شما ارائه می "
+"شود. اگر به دنبال موارد بیشتری هستید، مدیر نرم افزار وجود دارد."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:25
+msgid "Firewall"
+msgstr "دیواره آتش"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:26
+msgid "Control and monitor network traffic by enabling the firewall."
+msgstr "با فعال کردن فایروال، ترافیک شبکه را کنترل و نظارت کنید."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:27
+msgid "Web Forums"
+msgstr "انجمن های وب"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:28
+msgid ""
+"The Mauna Linux forums are the best place to find help. Join thousands of "
+"users, search topics and threads and find solutions to your problems."
+msgstr ""
+"انجمن های لینوکس Mauna بهترین مکان برای یافتن کمک هستند. به هزاران کاربر "
+"بپیوندید، موضوعات و موضوعات را جستجو کنید و راه حل هایی برای مشکلات خود "
+"بیابید."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:29
+msgid "IRC Chat Room"
+msgstr "اتاق چت IRC"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:30
+msgid ""
+"You can also connect to the IRC chat room and chat with users who are "
+"currently online. Ask a question, maybe someone there knows the solution?"
+msgstr ""
+"همچنین می توانید به اتاق گفتگوی IRC متصل شوید و با کاربرانی که در حال حاضر "
+"آنلاین هستند چت کنید. یک سوال بپرسید، شاید کسی آنجا راه حل را بداند؟"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:31
+msgid ""
+"Mauna Linux has a great community. Many users will welcome you with open "
+"arms and be delighted to help you. Make sure to be patient and respectful "
+"with them. Keep a happy and positive attitude and provide accurate "
+"information when someone helps you."
+msgstr ""
+"لینوکس ماونا یک جامعه عالی دارد. بسیاری از کاربران با آغوش باز از شما "
+"استقبال خواهند کرد و از کمک به شما خوشحال خواهند شد. حتما با آنها صبور و "
+"محترمانه رفتار کنید. نگرش شاد و مثبت داشته باشید و زمانی که کسی به شما کمک "
+"می کند اطلاعات دقیقی ارائه دهید."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:32
+msgid ""
+"If you have a bad experience with another user, try to solve it responsibly "
+"or contact the moderation team. Although we can't guarantee everyone will "
+"behave nicely, our project promotes help, respect, tolerance, ideas and "
+"constructive discussions."
+msgstr ""
+"اگر تجربه بدی با کاربر دیگری دارید، سعی کنید آن را مسئولانه حل کنید یا با "
+"تیم نظارت تماس بگیرید. اگرچه نمی‌توانیم تضمین کنیم که همه رفتار خوبی خواهند "
+"داشت، پروژه ما کمک، احترام، مدارا، ایده‌ها و بحث‌های سازنده را ترویج می‌کند."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:33
+msgid "Welcome to Mauna Linux"
+msgstr "به Mauna Linux خوش آمدید"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:34
+msgid "Welcome to your new operating system!"
+msgstr "به سیستم عامل جدید خود خوش آمدید!"
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:35
+msgid ""
+"This welcome screen will guide you through your first steps, show you how to "
+"find help and where to get more information about Mauna Linux."
+msgstr ""
+"این صفحه خوش آمدگویی شما را در اولین قدم‌هایتان راهنمایی می‌کند، به شما نشان "
+"می‌دهد چگونه راهنمایی پیدا کنید و از کجا اطلاعات بیشتری در مورد Mauna Linux "
+"دریافت کنید."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:36
+msgid ""
+"On behalf of the development team and everyone involved in the project, we'd "
+"like to thank you for choosing Mauna Linux. We hope you'll enjoy using it as "
+"much as we enjoy working on it."
+msgstr ""
+"از طرف تیم توسعه و همه کسانی که در پروژه مشارکت دارند، مایلیم از شما برای "
+"انتخاب Mauna Linux تشکر کنیم. امیدواریم از استفاده از آن به همان اندازه که "
+"ما از کار روی آن لذت می بریم لذت ببرید."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:37
+msgid "Have a great time and don't hesitate to send us your feedback."
+msgstr "اوقات خوبی داشته باشید و در ارسال نظرات خود برای ما دریغ نکنید."
+
+#: usr/share/mauna/maunawelcome/maunawelcome.ui.h:38
+msgid "Let's go!"
+msgstr "بیا بریم!"
