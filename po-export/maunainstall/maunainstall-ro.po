@@ -6,9 +6,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: mauna\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2023-05-16 16:08+0100\n"
-"PO-Revision-Date: 2023-10-08 21:38-0300\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-09 16:21-0300\n"
+"PO-Revision-Date: 2024-06-22 18:25-0300\n"
 "Last-Translator: Vladm <Unknown>\n"
 "Language-Team: Romanian <ro@li.org>\n"
 "Language: ro\n"
@@ -18,49 +18,39 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n!=1 && n%100>=1 && "
 "n%100<=19) ? 1 : 2);\n"
 "X-Launchpad-Export-Date: 2023-07-07 12:53+0000\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:98
-#: usr/lib/mauna/maunainstall/maunainstall.py:100
+#: usr/lib/mauna/maunainstall/maunainstall.py:97
+#: usr/lib/mauna/maunainstall/maunainstall.py:99
 msgid "Multimedia Codecs"
 msgstr "Codecuri multimedia"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:99
+#: usr/lib/mauna/maunainstall/maunainstall.py:98
 msgid "Multimedia Codecs for KDE"
 msgstr "Codecuri multimedia pentru KDE"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:475
+#: usr/lib/mauna/maunainstall/maunainstall.py:510
 msgid "Add"
 msgstr "Adaugă"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:481
-#: usr/lib/mauna/maunainstall/maunainstall.py:3020
+#: usr/lib/mauna/maunainstall/maunainstall.py:516
+#: usr/lib/mauna/maunainstall/maunainstall.py:3108
 msgid "Remove"
 msgstr "Elimină"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:500
+#: usr/lib/mauna/maunainstall/maunainstall.py:535
 msgid "Unavailable"
 msgstr "Indisponibil"
 
-#. TRANSLATORS: showing specific number of reviews in the list view and the header of the package details.
-#: usr/lib/mauna/maunainstall/maunainstall.py:732
-#: usr/lib/mauna/maunainstall/maunainstall.py:2876
-#, python-format
-msgid "%d Review"
-msgid_plural "%d Reviews"
-msgstr[0] "%d recenzii"
-msgstr[1] "%d recenzie"
-msgstr[2] "%d recenzii"
-
-#: usr/lib/mauna/maunainstall/maunainstall.py:793
+#: usr/lib/mauna/maunainstall/maunainstall.py:779
 msgid "This package is a Flatpak"
 msgstr "Acest pachet este un Flatpak"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:886
+#: usr/lib/mauna/maunainstall/maunainstall.py:883
 msgid "All"
 msgstr "Toate"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1038
+#: usr/lib/mauna/maunainstall/maunainstall.py:1045
 msgid ""
 "Cannot process this file while there are active operations.\n"
 "Please try again after they finish."
@@ -68,71 +58,67 @@ msgstr ""
 "Acest fișier nu poate fi procesat cât timp alte operații sunt active.\n"
 "Te rog încearcați din nou după terminarea lor."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1059
+#: usr/lib/mauna/maunainstall/maunainstall.py:1065
 msgid "The Flatpak repo you are trying to add already exists."
 msgstr "Repertoriul Flatpak pe care încercați să îl adăugați există deja."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1067
+#: usr/lib/mauna/maunainstall/maunainstall.py:1073
 msgid "An error occurred attempting to add the Flatpak repo."
 msgstr "A intervenit o eroare încercând să se adauge repertoriul Flatpak."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1075
+#: usr/lib/mauna/maunainstall/maunainstall.py:1081
 msgid "Flatpak support is not currently available. Try installing flatpak."
 msgstr ""
 "Suportul Flatpak nu este disponibil momentan. Încearcă să instalezi flatpak."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1094
+#: usr/lib/mauna/maunainstall/maunainstall.py:1100
 msgid ""
-"Flatpak support is not currently available. Try installing flatpak and gir1.2-"
-"flatpak-1.0."
-msgstr ""
-"Suportul Flatpak nu este disponibil momentan. Încercăi să instalezi flatpak și "
+"Flatpak support is not currently available. Try installing flatpak and "
 "gir1.2-flatpak-1.0."
+msgstr ""
+"Suportul Flatpak nu este disponibil momentan. Încercăi să instalezi flatpak "
+"și gir1.2-flatpak-1.0."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1134
-#: usr/lib/mauna/maunainstall/maunainstall.py:1135
-#: usr/lib/mauna/maunainstall/maunainstall.py:1945 generate_desktop_files:24
-#: generate_desktop_files:35
+#: usr/lib/mauna/maunainstall/maunainstall.py:1140
+#: usr/lib/mauna/maunainstall/maunainstall.py:1141
+#: usr/lib/mauna/maunainstall/maunainstall.py:1998 generate_desktop_files:25
+#: generate_desktop_files:36
 msgid "Software Manager"
 msgstr "Administrator software"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1185
+#: usr/lib/mauna/maunainstall/maunainstall.py:1192
 msgid "Show installed applications"
 msgstr "Arată aplicațiile instalate"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1194
-msgid "Search in packages summary (slower search)"
-msgstr "Caută în sumarul pachetelor (căutare mai lentă)"
-
-#: usr/lib/mauna/maunainstall/maunainstall.py:1200
-msgid "Search in packages description (even slower search)"
-msgstr "Caută în descrierea pachetelor (căutare și mai lentă)"
-
-#: usr/lib/mauna/maunainstall/maunainstall.py:1210
+#: usr/lib/mauna/maunainstall/maunainstall.py:1201
 msgid "Refresh the list of packages"
 msgstr "Actualizează lista de pachete"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1220
-#: usr/lib/mauna/maunainstall/maunainstall.py:1943
+#: usr/lib/mauna/maunainstall/maunainstall.py:1207
+msgid "Preferences"
+msgstr "Preferințe"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:1217
+#: usr/lib/mauna/maunainstall/maunainstall.py:1996
 msgid "About"
 msgstr "Despre"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1445
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:4
+#: usr/lib/mauna/maunainstall/maunainstall.py:1475
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:8
 msgid "Top Rated"
 msgstr "Cele mai apreciate"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1490
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:2
+#: usr/lib/mauna/maunainstall/maunainstall.py:1523
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:6
 msgid "Featured"
 msgstr "Recomandate"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1550
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:3
+#: usr/lib/mauna/maunainstall/maunainstall.py:1584
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:7
 msgid "Categories"
 msgstr "Categorii"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1604
+#: usr/lib/mauna/maunainstall/maunainstall.py:1649
 #, python-format
 msgid "%d task running"
 msgid_plural "%d tasks running"
@@ -140,11 +126,11 @@ msgstr[0] "%d task rulează"
 msgstr[1] "%d task-uri rulează"
 msgstr[2] "%d task-uri rulează"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1747
+#: usr/lib/mauna/maunainstall/maunainstall.py:1792
 msgid "No screenshots available"
 msgstr "Nu există imagini"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2033
+#: usr/lib/mauna/maunainstall/maunainstall.py:2086
 msgid ""
 "There are currently active operations.\n"
 "Are you sure you want to quit?"
@@ -152,172 +138,172 @@ msgstr ""
 "Sunt acum operații în derulare.\n"
 "Ești sigur că vrei să renunți?"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2091
+#: usr/lib/mauna/maunainstall/maunainstall.py:2144
 msgid "Installed Applications"
 msgstr "Aplicații instalate"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2094
+#: usr/lib/mauna/maunainstall/maunainstall.py:2147
 msgid "Currently working on the following packages"
 msgstr "Se lucrează la următoarele pachete"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2099
-msgid "All Applications"
-msgstr "Toate aplicaţiile"
-
-#: usr/lib/mauna/maunainstall/maunainstall.py:2107
+#: usr/lib/mauna/maunainstall/maunainstall.py:2152
 msgid "Internet"
 msgstr "Internet"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2109
+#: usr/lib/mauna/maunainstall/maunainstall.py:2154
 msgid "Web"
 msgstr "Web"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2114
+#: usr/lib/mauna/maunainstall/maunainstall.py:2159
 msgid "Email"
 msgstr "E-mail"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2118
+#: usr/lib/mauna/maunainstall/maunainstall.py:2163
 msgid "Chat"
 msgstr "Chat"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2121
+#: usr/lib/mauna/maunainstall/maunainstall.py:2166
 msgid "File sharing"
 msgstr "Partajare fișiere"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2127
+#: usr/lib/mauna/maunainstall/maunainstall.py:2172
 msgid "Sound and video"
 msgstr "Audio și video"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2129
+#: usr/lib/mauna/maunainstall/maunainstall.py:2174
 msgid "Sound"
 msgstr "Sunet"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2131
+#: usr/lib/mauna/maunainstall/maunainstall.py:2176
 msgid "Video"
 msgstr "Video"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2136
+#: usr/lib/mauna/maunainstall/maunainstall.py:2181
 msgid "Graphics"
 msgstr "Grafică"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2140
+#: usr/lib/mauna/maunainstall/maunainstall.py:2185
 msgid "3D"
 msgstr "3D"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2142
+#: usr/lib/mauna/maunainstall/maunainstall.py:2187
 msgid "Drawing"
 msgstr "Desen"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2144
+#: usr/lib/mauna/maunainstall/maunainstall.py:2189
 msgid "Photography"
 msgstr "Fotografie"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2146
+#: usr/lib/mauna/maunainstall/maunainstall.py:2191
 msgid "Publishing"
 msgstr "Editare de publicații"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2148
+#: usr/lib/mauna/maunainstall/maunainstall.py:2193
 msgid "Scanning"
 msgstr "Scanare"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2150
+#: usr/lib/mauna/maunainstall/maunainstall.py:2195
 msgid "Viewers"
 msgstr "Vizualizatoare"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2155
+#: usr/lib/mauna/maunainstall/maunainstall.py:2200
 msgid "Office"
 msgstr "Aplicații de birou"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2161
+#: usr/lib/mauna/maunainstall/maunainstall.py:2206
 msgid "Games"
 msgstr "Jocuri"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2165
+#: usr/lib/mauna/maunainstall/maunainstall.py:2210
 msgid "Board games"
 msgstr "Jocuri pe tablă"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2167
+#: usr/lib/mauna/maunainstall/maunainstall.py:2212
 msgid "First-person"
 msgstr "Persoana întâi"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2169
+#: usr/lib/mauna/maunainstall/maunainstall.py:2214
 msgid "Real-time strategy"
 msgstr "Strategie în timp real"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2171
+#: usr/lib/mauna/maunainstall/maunainstall.py:2216
 msgid "Turn-based strategy"
 msgstr "Strategie cu rândul"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2173
+#: usr/lib/mauna/maunainstall/maunainstall.py:2218
 msgid "Emulators"
 msgstr "Emulatoare"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2175
+#: usr/lib/mauna/maunainstall/maunainstall.py:2220
 msgid "Simulation and racing"
 msgstr "Simulare și curse"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2180
+#: usr/lib/mauna/maunainstall/maunainstall.py:2225
 msgid "Accessories"
 msgstr "Accesorii"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2186
+#: usr/lib/mauna/maunainstall/maunainstall.py:2231
 msgid "System tools"
 msgstr "Instrumente de sistem"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2193
+#: usr/lib/mauna/maunainstall/maunainstall.py:2238
 msgid "Fonts"
 msgstr "Fonturi"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2199
+#: usr/lib/mauna/maunainstall/maunainstall.py:2244
 msgid "Science and Education"
 msgstr "Știință și educație"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2200
+#: usr/lib/mauna/maunainstall/maunainstall.py:2245
 msgid "Science"
 msgstr "Știință"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2202
+#: usr/lib/mauna/maunainstall/maunainstall.py:2247
 msgid "Maths"
 msgstr "Matematică"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2204
+#: usr/lib/mauna/maunainstall/maunainstall.py:2249
 msgid "Education"
 msgstr "Educație"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2206
+#: usr/lib/mauna/maunainstall/maunainstall.py:2251
 msgid "Electronics"
 msgstr "Electronică"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2212
+#: usr/lib/mauna/maunainstall/maunainstall.py:2257
 msgid "Programming"
 msgstr "Programare"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2214
+#: usr/lib/mauna/maunainstall/maunainstall.py:2259
 msgid "Java"
 msgstr "Java"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2216
+#: usr/lib/mauna/maunainstall/maunainstall.py:2261
 msgid "PHP"
 msgstr "PHP"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2218
+#: usr/lib/mauna/maunainstall/maunainstall.py:2263
 msgid "Python"
 msgstr "Python"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2220
+#: usr/lib/mauna/maunainstall/maunainstall.py:2265
 msgid "Essentials"
 msgstr "Esențiale"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2644
+#: usr/lib/mauna/maunainstall/maunainstall.py:2270
+msgid "All Applications"
+msgstr "Toate aplicaţiile"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2701
 msgid "All operations complete"
 msgstr "Toate operațiile sunt complete"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2648
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:5
+#: usr/lib/mauna/maunainstall/maunainstall.py:2705
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:9
 msgid "No matching packages found"
 msgstr "Nu s-au găsit pachetele căutate"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2651
+#: usr/lib/mauna/maunainstall/maunainstall.py:2708
 msgid ""
 "No packages to show.\n"
 "This may indicate a problem - try refreshing the cache."
@@ -325,179 +311,233 @@ msgstr ""
 "Nu există pachete de afișat.\n"
 "Acest lucru poate indica o problemă - încercă să actualizezi memoria cache."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2780
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:9
+#: usr/lib/mauna/maunainstall/maunainstall.py:2840
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:14
 msgid "System Package"
 msgstr "Pachet de sistem"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2780
+#: usr/lib/mauna/maunainstall/maunainstall.py:2840
 msgid "Your system's package manager"
 msgstr "Managerul de pachete al sistemului tău"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2792
+#: usr/lib/mauna/maunainstall/maunainstall.py:2852
 #, python-format
 msgid "Flatpak (%s)"
 msgstr "Flatpak (%s)"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2833
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:15
+#: usr/lib/mauna/maunainstall/maunainstall.py:2879
+msgid "Unknown maintainer"
+msgstr "Menținător necunoscut"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2889
+#, python-format
+msgid "by %s"
+msgstr "de %s"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2913
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:20
 msgid "Homepage"
 msgstr "Pagină principală"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2842
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:16
+#: usr/lib/mauna/maunainstall/maunainstall.py:2922
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:21
 msgid "Documentation"
 msgstr "Documentaţie"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2944
+#. TRANSLATORS: showing specific number of reviews in the list view and the header of the package details.
+#: usr/lib/mauna/maunainstall/maunainstall.py:2962
+#, python-format
+msgid "%d Review"
+msgid_plural "%d Reviews"
+msgstr[0] "%d recenzii"
+msgstr[1] "%d recenzie"
+msgstr[2] "%d recenzii"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:3025
 #, python-format
 msgid "Click <a href='%s'>here</a> to add your own review."
 msgstr "Clic <a href='%s'>aici</a> pentru a adăuga propria evaluare."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2991
+#: usr/lib/mauna/maunainstall/maunainstall.py:3079
 msgid ""
-"Unable to communicate with servers. Check your Internet connection and try again."
+"Unable to communicate with servers. Check your Internet connection and try "
+"again."
 msgstr ""
 "Nu se poate comunica cu serverul. Verifică-ți conexiunea la internet și apoi "
 "încearcă din nou."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3024
+#: usr/lib/mauna/maunainstall/maunainstall.py:3112
 msgid "Installed"
 msgstr "Instalat"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3026
+#: usr/lib/mauna/maunainstall/maunainstall.py:3114
 msgid "Removing"
 msgstr "Se elimină"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3028
+#: usr/lib/mauna/maunainstall/maunainstall.py:3116
 msgid "Install"
 msgstr "Instalează"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3036
+#: usr/lib/mauna/maunainstall/maunainstall.py:3124
 msgid "Not installed"
 msgstr "Neinstalat"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3038
+#: usr/lib/mauna/maunainstall/maunainstall.py:3126
 msgid "Installing"
 msgstr "Se instalează"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3042
+#: usr/lib/mauna/maunainstall/maunainstall.py:3130
 msgid "Cannot remove"
 msgstr "Nu se poate elimina"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3043
+#: usr/lib/mauna/maunainstall/maunainstall.py:3131
 msgid "Removing this package could cause irreparable damage to your system."
 msgstr ""
 "Eliminarea acestui pachet ar putea provoca daune ireparabile sistemului tău."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3045
+#: usr/lib/mauna/maunainstall/maunainstall.py:3133
 msgid "Cannot install"
 msgstr "Nu se poate instala"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3046
+#: usr/lib/mauna/maunainstall/maunainstall.py:3134
 msgid "Installing this package could cause irreparable damage to your system."
 msgstr ""
 "Instalarea acestui pachet ar putea provoca daune ireparabile sistemului tău."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3054
+#: usr/lib/mauna/maunainstall/maunainstall.py:3142
 msgid "Not available"
 msgstr "Indisponibil"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3058
+#: usr/lib/mauna/maunainstall/maunainstall.py:3146
 msgid "Please use apt-get to install this package."
 msgstr "Utilizați apt-get pentru instalarea acestui pachet."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3060
+#: usr/lib/mauna/maunainstall/maunainstall.py:3148
 msgid "Use apt-get to remove this package."
 msgstr "Folosește apt-get pentru a elimina acest pachet."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3064
+#: usr/lib/mauna/maunainstall/maunainstall.py:3152
 msgid "Try again"
 msgstr "Încearcă din nou"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3067
+#: usr/lib/mauna/maunainstall/maunainstall.py:3155
 msgid "Something went wrong. Click to try again."
 msgstr "Ceva neașteptat s-a întâmplat. Apasă pentru a încerca din nou."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3091
-#, python-format
-msgid "%(localSize)s of disk space freed"
-msgstr "%(localSize)s eliberați din spațiul pe disc"
-
-#: usr/lib/mauna/maunainstall/maunainstall.py:3094
+#: usr/lib/mauna/maunainstall/maunainstall.py:3181
 #, python-format
 msgid "%(localSize)s of disk space required"
 msgstr "%(localSize)s necesar din spațiul pe disc"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3098
+#: usr/lib/mauna/maunainstall/maunainstall.py:3185
 #, python-format
 msgid "%(downloadSize)s to download, %(localSize)s of disk space freed"
-msgstr "%(downloadSize)s de descărcat, %(localSize)s eliberat din spațiul pe disc"
+msgstr ""
+"%(downloadSize)s de descărcat, %(localSize)s eliberat din spațiul pe disc"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3101
+#: usr/lib/mauna/maunainstall/maunainstall.py:3188
 #, python-format
 msgid "%(downloadSize)s to download, %(localSize)s of disk space required"
-msgstr "%(downloadSize)s de descărcat, %(localSize)s necesari din spațiul pe disc"
+msgstr ""
+"%(downloadSize)s de descărcat, %(localSize)s necesari din spațiul pe disc"
 
-#: generate_desktop_files:24 generate_desktop_files:35
+#: generate_desktop_files:25 generate_desktop_files:36
 msgid "Install new applications"
 msgstr "Instalează aplicații noi"
 
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:1
+msgid "Unverified Flatpaks represent a huge security risk"
+msgstr "Flatpak-urile neverificate reprezintă un risc uriaș de securitate"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:2
+msgid ""
+"They are not officially approved by the developer of the application and "
+"could be maintained by anyone."
+msgstr ""
+"Ele nu sunt aprobate oficial de către dezvoltatorul aplicației și ar putea "
+"fi întreținute de oricine."
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:3
+msgid ""
+"To avoid any potential malware, Mauna Linux strongly recommends against "
+"unverified Flatpaks."
+msgstr ""
+"Pentru a evita orice potențial malware, Mauna Linux recomandă cu tărie "
+"împotriva Flatpak-urilor neverificate."
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:4
+msgid "Loading, please wait"
+msgstr "Încărcare va rugam asteptati"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:5
 msgid "Generating cache, one moment"
 msgstr "Se generează cache-ul, un moment"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:6
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:10
 msgid "Refresh"
 msgstr "Reîmprospătează"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:7
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:11
+msgid "Unverified Flatpak"
+msgstr "Flatpak neverificat"
+
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:12
 msgid "Launch"
 msgstr "Lansează"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:8
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:13
 msgid "Please be patient. This can take some time..."
 msgstr "Te rog să ai răbdare. Acest lucru poate dura ceva timp..."
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:10
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:15
 msgid "Name:"
 msgstr "Nume:"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:11
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:16
 msgid "Version:"
 msgstr "Versiune:"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:12
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:17
 msgid "Size:"
 msgstr "Dimensiune:"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:13
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:18
 msgid "Branch:"
 msgstr "Ramură:"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:14
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:19
 msgid "Remote:"
 msgstr "Sursă:"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:17
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:22
 msgid "Details"
 msgstr "Detalii"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:18
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:23
 msgid "Reviews"
 msgstr "Recenzii"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:19
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:24
 msgid "Optional components"
 msgstr "Componente opționale"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:20
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:25
 msgid "Searching software repositories, one moment"
 msgstr "Se caută depozite de software, un moment"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:21
+#: usr/share/mauna/maunainstall/maunainstall.glade.h:26
 msgid "Limit search to current listing"
 msgstr "Limitează căutarea la listările curente"
+
+#~ msgid "Search in packages summary (slower search)"
+#~ msgstr "Caută în sumarul pachetelor (căutare mai lentă)"
+
+#~ msgid "Search in packages description (even slower search)"
+#~ msgstr "Caută în descrierea pachetelor (căutare și mai lentă)"
+
+#, python-format
+#~ msgid "%(localSize)s of disk space freed"
+#~ msgstr "%(localSize)s eliberați din spațiul pe disc"
 
 #~ msgid "Installation is complete"
 #~ msgstr "Instalarea este completă"
@@ -562,11 +602,11 @@ msgstr "Limitează căutarea la listările curente"
 #~ msgstr "Pictogramă"
 
 #~ msgid ""
-#~ "The mint file for this application was not successfully downloaded. Click on "
-#~ "refresh to fix the problem."
+#~ "The mint file for this application was not successfully downloaded. Click "
+#~ "on refresh to fix the problem."
 #~ msgstr ""
-#~ "Fișierul Mint necesar acestei aplicații nu a fost descărcat. Apăsați butonul "
-#~ "de reîmprospătare pentru a remedia problema."
+#~ "Fișierul Mint necesar acestei aplicații nu a fost descărcat. Apăsați "
+#~ "butonul de reîmprospătare pentru a remedia problema."
 
 #~ msgid "Quick search:"
 #~ msgstr "Căutare rapidă:"
@@ -606,8 +646,8 @@ msgstr "Limitează căutarea la listările curente"
 #~ msgstr "Se descarcă datele pentru %s"
 
 #~ msgid ""
-#~ "The data used by maunainstall is corrupted or out of date. Click on refresh "
-#~ "to fix the problem :"
+#~ "The data used by maunainstall is corrupted or out of date. Click on "
+#~ "refresh to fix the problem :"
 #~ msgstr ""
 #~ "Datele folosite de maunainstall sunt deteriorate sau învechite. Apăsați "
 #~ "butonul de reîmprospătare pentru a remedia problema:"
@@ -792,11 +832,11 @@ msgstr "Limitează căutarea la listările curente"
 #~ msgstr "Sursele APT au fost defecte."
 
 #~ msgid ""
-#~ "Your APT sources were not correctly restored after you last ran maunainstall. "
-#~ "They now have been restored."
+#~ "Your APT sources were not correctly restored after you last ran "
+#~ "maunainstall. They now have been restored."
 #~ msgstr ""
-#~ "Sursele APT nu au fost restabilite corect după ultima rulare a maunainstall. "
-#~ "Au fost restabilite acum."
+#~ "Sursele APT nu au fost restabilite corect după ultima rulare a "
+#~ "maunainstall. Au fost restabilite acum."
 
 #~ msgid "The following packages will be removed:"
 #~ msgstr "Următoarele pachete vor fi eliminate:"
@@ -856,11 +896,11 @@ msgstr "Limitează căutarea la listările curente"
 
 #, python-format
 #~ msgid ""
-#~ "%(applications)d applications listed, %(install)d to install, %(remove)d to "
-#~ "remove"
+#~ "%(applications)d applications listed, %(install)d to install, %(remove)d "
+#~ "to remove"
 #~ msgstr ""
-#~ "%(applications)d aplicații listate, %(install)d de instalat, %(remove)d de "
-#~ "eliminat"
+#~ "%(applications)d aplicații listate, %(install)d de instalat, %(remove)d "
+#~ "de eliminat"
 
 #~ msgid "Installed software"
 #~ msgstr "Aplicații instalate"
