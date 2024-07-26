@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mauna\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-09 16:21-0300\n"
-"PO-Revision-Date: 2024-05-09 18:58-0300\n"
+"POT-Creation-Date: 2024-07-06 19:02-0300\n"
+"PO-Revision-Date: 2024-07-07 17:59-0300\n"
 "Last-Translator: أنس <Unknown>\n"
 "Language-Team: anwar AL_iskandrany <anwareleskndrany13@gmail.com >\n"
 "Language: ar_EG\n"
@@ -13,39 +13,39 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n % 100 >= "
 "3 && n % 100 <= 10 ? 3 : n % 100 >= 11 && n % 100 <= 99 ? 4 : 5;\n"
 "X-Launchpad-Export-Date: 2023-07-07 12:52+0000\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:97
-#: usr/lib/mauna/maunainstall/maunainstall.py:99
+#: usr/lib/mauna/maunainstall/maunainstall.py:100
+#: usr/lib/mauna/maunainstall/maunainstall.py:102
 msgid "Multimedia Codecs"
 msgstr "برامج ترميز الوسائط المتعددة"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:98
+#: usr/lib/mauna/maunainstall/maunainstall.py:101
 msgid "Multimedia Codecs for KDE"
 msgstr "برامج ترميز الوسائط المتعددة لـKDE"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:510
+#: usr/lib/mauna/maunainstall/maunainstall.py:511
 msgid "Add"
 msgstr "يضيف"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:516
-#: usr/lib/mauna/maunainstall/maunainstall.py:3108
+#: usr/lib/mauna/maunainstall/maunainstall.py:517
+#: usr/lib/mauna/maunainstall/maunainstall.py:3194
 msgid "Remove"
 msgstr "إزالة"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:535
+#: usr/lib/mauna/maunainstall/maunainstall.py:536
 msgid "Unavailable"
 msgstr "غير متوفره"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:779
+#: usr/lib/mauna/maunainstall/maunainstall.py:781
 msgid "This package is a Flatpak"
 msgstr "هذه الحزمة عبارة عن فلاتباك"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:883
+#: usr/lib/mauna/maunainstall/maunainstall.py:885
 msgid "All"
 msgstr "الكل"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1045
+#: usr/lib/mauna/maunainstall/maunainstall.py:1047
 msgid ""
 "Cannot process this file while there are active operations.\n"
 "Please try again after they finish."
@@ -53,64 +53,64 @@ msgstr ""
 "لا يمكن معالجة هذا الملف أثناء وجود عمليات نشطة.\n"
 "برجاء المحاولة لاحقا بعد انتهائها."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1065
+#: usr/lib/mauna/maunainstall/maunainstall.py:1067
 msgid "The Flatpak repo you are trying to add already exists."
 msgstr "Flatpak repo الذي تحاول إضافته موجود بالفعل."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1073
+#: usr/lib/mauna/maunainstall/maunainstall.py:1075
 msgid "An error occurred attempting to add the Flatpak repo."
 msgstr "حدث خطأ أثناء محاولة إضافة Flatpak repo."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1081
+#: usr/lib/mauna/maunainstall/maunainstall.py:1083
 msgid "Flatpak support is not currently available. Try installing flatpak."
 msgstr "دعم Flatpak غير متوفر حاليا. حاول تثبيت Flatpak."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1100
+#: usr/lib/mauna/maunainstall/maunainstall.py:1102
 msgid ""
 "Flatpak support is not currently available. Try installing flatpak and "
 "gir1.2-flatpak-1.0."
 msgstr "دعم Flatpak غير متوفر حاليا. حاول تثبيت Flatpak و gir1.2-flatpak-1.0."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1140
-#: usr/lib/mauna/maunainstall/maunainstall.py:1141
-#: usr/lib/mauna/maunainstall/maunainstall.py:1998 generate_desktop_files:25
+#: usr/lib/mauna/maunainstall/maunainstall.py:1142
+#: usr/lib/mauna/maunainstall/maunainstall.py:1143
+#: usr/lib/mauna/maunainstall/maunainstall.py:2083 generate_desktop_files:25
 #: generate_desktop_files:36
 msgid "Software Manager"
 msgstr "مدير البرامج"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1192
+#: usr/lib/mauna/maunainstall/maunainstall.py:1194
 msgid "Show installed applications"
 msgstr "عرض التطبيقات المثبتة"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1201
+#: usr/lib/mauna/maunainstall/maunainstall.py:1203
 msgid "Refresh the list of packages"
 msgstr "حدّث قائمة الحزم"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1207
+#: usr/lib/mauna/maunainstall/maunainstall.py:1209
 msgid "Preferences"
 msgstr "التفضيلات"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1217
-#: usr/lib/mauna/maunainstall/maunainstall.py:1996
+#: usr/lib/mauna/maunainstall/maunainstall.py:1219
+#: usr/lib/mauna/maunainstall/maunainstall.py:2081
 msgid "About"
 msgstr "حول"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1475
+#: usr/lib/mauna/maunainstall/maunainstall.py:1559
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:8
 msgid "Top Rated"
 msgstr "أعلى التقييمات"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1523
+#: usr/lib/mauna/maunainstall/maunainstall.py:1607
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:6
 msgid "Featured"
 msgstr "متميز"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1584
+#: usr/lib/mauna/maunainstall/maunainstall.py:1668
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:7
 msgid "Categories"
 msgstr "فئات"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1649
+#: usr/lib/mauna/maunainstall/maunainstall.py:1733
 #, python-format
 msgid "%d task running"
 msgid_plural "%d tasks running"
@@ -121,11 +121,11 @@ msgstr[3] "%d مهمات تعمل حاليا"
 msgstr[4] "%d مهمات تعمل حاليا"
 msgstr[5] "%d مهمات تعمل حاليا"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1792
+#: usr/lib/mauna/maunainstall/maunainstall.py:1876
 msgid "No screenshots available"
 msgstr "لا توجد لقطات الشاشة المتاحة"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2086
+#: usr/lib/mauna/maunainstall/maunainstall.py:2171
 msgid ""
 "There are currently active operations.\n"
 "Are you sure you want to quit?"
@@ -133,172 +133,172 @@ msgstr ""
 "هناك عمليات نشطة حاليا.\n"
 "هل أنت متأكد من أنك تريد الخروج؟"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2144
+#: usr/lib/mauna/maunainstall/maunainstall.py:2229
 msgid "Installed Applications"
 msgstr "التطبيقات المثبتة"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2147
+#: usr/lib/mauna/maunainstall/maunainstall.py:2232
 msgid "Currently working on the following packages"
 msgstr "يتم العمل حاليا على الحزم التالية"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2152
+#: usr/lib/mauna/maunainstall/maunainstall.py:2237
 msgid "Internet"
 msgstr "الإنترنت"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2154
+#: usr/lib/mauna/maunainstall/maunainstall.py:2239
 msgid "Web"
 msgstr "الويب"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2159
+#: usr/lib/mauna/maunainstall/maunainstall.py:2244
 msgid "Email"
 msgstr "البريد الإلكتروني"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2163
+#: usr/lib/mauna/maunainstall/maunainstall.py:2248
 msgid "Chat"
 msgstr "الدردشة"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2166
+#: usr/lib/mauna/maunainstall/maunainstall.py:2251
 msgid "File sharing"
 msgstr "مشاركة الملفات"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2172
+#: usr/lib/mauna/maunainstall/maunainstall.py:2257
 msgid "Sound and video"
 msgstr "الصوت والفيديو"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2174
+#: usr/lib/mauna/maunainstall/maunainstall.py:2259
 msgid "Sound"
 msgstr "الصوت"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2176
+#: usr/lib/mauna/maunainstall/maunainstall.py:2261
 msgid "Video"
 msgstr "الفيديو"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2181
+#: usr/lib/mauna/maunainstall/maunainstall.py:2266
 msgid "Graphics"
 msgstr "الرسومات"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2185
+#: usr/lib/mauna/maunainstall/maunainstall.py:2270
 msgid "3D"
 msgstr "3D"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2187
+#: usr/lib/mauna/maunainstall/maunainstall.py:2272
 msgid "Drawing"
 msgstr "الرسم"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2189
+#: usr/lib/mauna/maunainstall/maunainstall.py:2274
 msgid "Photography"
 msgstr "الصور الفوتوغرافيه"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2191
+#: usr/lib/mauna/maunainstall/maunainstall.py:2276
 msgid "Publishing"
 msgstr "النشر"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2193
+#: usr/lib/mauna/maunainstall/maunainstall.py:2278
 msgid "Scanning"
 msgstr "الفحص"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2195
+#: usr/lib/mauna/maunainstall/maunainstall.py:2280
 msgid "Viewers"
 msgstr "المشاهدين"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2200
+#: usr/lib/mauna/maunainstall/maunainstall.py:2285
 msgid "Office"
 msgstr "أوفيس"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2206
+#: usr/lib/mauna/maunainstall/maunainstall.py:2291
 msgid "Games"
 msgstr "الألعاب"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2210
+#: usr/lib/mauna/maunainstall/maunainstall.py:2295
 msgid "Board games"
 msgstr "ألعاب الطاولة"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2212
+#: usr/lib/mauna/maunainstall/maunainstall.py:2297
 msgid "First-person"
 msgstr "أول شخص"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2214
+#: usr/lib/mauna/maunainstall/maunainstall.py:2299
 msgid "Real-time strategy"
 msgstr "استراتيجية الوقت الحقيقي"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2216
+#: usr/lib/mauna/maunainstall/maunainstall.py:2301
 msgid "Turn-based strategy"
 msgstr "الاستراتيجية القائمة علي التشغيل"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2218
+#: usr/lib/mauna/maunainstall/maunainstall.py:2303
 msgid "Emulators"
 msgstr "المحاكيات"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2220
+#: usr/lib/mauna/maunainstall/maunainstall.py:2305
 msgid "Simulation and racing"
 msgstr "المحاكاة والسباق"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2225
+#: usr/lib/mauna/maunainstall/maunainstall.py:2310
 msgid "Accessories"
 msgstr "الملحقات"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2231
+#: usr/lib/mauna/maunainstall/maunainstall.py:2316
 msgid "System tools"
 msgstr "ادوات النظام"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2238
+#: usr/lib/mauna/maunainstall/maunainstall.py:2323
 msgid "Fonts"
 msgstr "الخطوط"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2244
+#: usr/lib/mauna/maunainstall/maunainstall.py:2329
 msgid "Science and Education"
 msgstr "العلوم والتعليم"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2245
+#: usr/lib/mauna/maunainstall/maunainstall.py:2330
 msgid "Science"
 msgstr "العلوم"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2247
+#: usr/lib/mauna/maunainstall/maunainstall.py:2332
 msgid "Maths"
 msgstr "الرياضيات"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2249
+#: usr/lib/mauna/maunainstall/maunainstall.py:2334
 msgid "Education"
 msgstr "التعليم"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2251
+#: usr/lib/mauna/maunainstall/maunainstall.py:2336
 msgid "Electronics"
 msgstr "الإلكترونيات"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2257
+#: usr/lib/mauna/maunainstall/maunainstall.py:2342
 msgid "Programming"
 msgstr "البرمجة"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2259
+#: usr/lib/mauna/maunainstall/maunainstall.py:2344
 msgid "Java"
 msgstr "جافا"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2261
+#: usr/lib/mauna/maunainstall/maunainstall.py:2345
 msgid "PHP"
 msgstr "PHP"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2263
+#: usr/lib/mauna/maunainstall/maunainstall.py:2348
 msgid "Python"
 msgstr "Python"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2265
+#: usr/lib/mauna/maunainstall/maunainstall.py:2350
 msgid "Essentials"
 msgstr "الأساسيات"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2270
+#: usr/lib/mauna/maunainstall/maunainstall.py:2355
 msgid "All Applications"
 msgstr "كل التطبيقات"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2701
+#: usr/lib/mauna/maunainstall/maunainstall.py:2791
 msgid "All operations complete"
 msgstr "تم الإنتهاء من كل العمليات"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2705
+#: usr/lib/mauna/maunainstall/maunainstall.py:2795
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:9
 msgid "No matching packages found"
 msgstr "لم يتم العثور على حزم مطابقة"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2708
+#: usr/lib/mauna/maunainstall/maunainstall.py:2798
 msgid ""
 "No packages to show.\n"
 "This may indicate a problem - try refreshing the cache."
@@ -306,41 +306,41 @@ msgstr ""
 "لا توجد حزم لعرضها.\n"
 "قد يدل ذلك على وجود مشكلة - حالو تحديث ذاكرة التخزين المؤقتة."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2840
+#: usr/lib/mauna/maunainstall/maunainstall.py:2931
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:14
 msgid "System Package"
 msgstr "حزمة النظام"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2840
+#: usr/lib/mauna/maunainstall/maunainstall.py:2931
 msgid "Your system's package manager"
 msgstr "مدير الحزم الخاص بنظامك"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2852
+#: usr/lib/mauna/maunainstall/maunainstall.py:2943
 #, python-format
 msgid "Flatpak (%s)"
 msgstr "Flatpak (%s)"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2879
+#: usr/lib/mauna/maunainstall/maunainstall.py:2970
 msgid "Unknown maintainer"
 msgstr "مشرف غير معروف"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2889
+#: usr/lib/mauna/maunainstall/maunainstall.py:2974
 #, python-format
 msgid "by %s"
 msgstr "بواسطة %s"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2913
+#: usr/lib/mauna/maunainstall/maunainstall.py:2998
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:20
 msgid "Homepage"
 msgstr "الصفحة الرئيسية"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2922
+#: usr/lib/mauna/maunainstall/maunainstall.py:3007
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:21
 msgid "Documentation"
 msgstr "توثيق"
 
 #. TRANSLATORS: showing specific number of reviews in the list view and the header of the package details.
-#: usr/lib/mauna/maunainstall/maunainstall.py:2962
+#: usr/lib/mauna/maunainstall/maunainstall.py:3047
 #, python-format
 msgid "%d Review"
 msgid_plural "%d Reviews"
@@ -351,88 +351,125 @@ msgstr[3] "%d من المراجعات"
 msgstr[4] "%d من المراجعات"
 msgstr[5] "%d من المراجعات"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3025
+#: usr/lib/mauna/maunainstall/maunainstall.py:3110
 #, python-format
 msgid "Click <a href='%s'>here</a> to add your own review."
 msgstr "اضغط <a href='%s'>هنا</a> لإضافة مراجعتك الخاص."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3079
+#: usr/lib/mauna/maunainstall/maunainstall.py:3165
 msgid ""
 "Unable to communicate with servers. Check your Internet connection and try "
 "again."
 msgstr ""
 "غير قادر على التواصل مع الخوادم. تحقق من اتصالك بالإنترنت وحاول مرة أخرى."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3112
+#: usr/lib/mauna/maunainstall/maunainstall.py:3198
 msgid "Installed"
 msgstr "مثبت"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3114
+#: usr/lib/mauna/maunainstall/maunainstall.py:3200
+#: usr/lib/mauna/maunainstall/maunainstall-remove-app.py:64
 msgid "Removing"
 msgstr "جاري الإزالة"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3116
+#: usr/lib/mauna/maunainstall/maunainstall.py:3202
 msgid "Install"
 msgstr "تثبيت"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3124
+#: usr/lib/mauna/maunainstall/maunainstall.py:3210
 msgid "Not installed"
 msgstr "فير مثبت"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3126
+#: usr/lib/mauna/maunainstall/maunainstall.py:3212
 msgid "Installing"
 msgstr "جاري التثبيت"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3130
+#: usr/lib/mauna/maunainstall/maunainstall.py:3216
 msgid "Cannot remove"
 msgstr "لا يمكن إزالته"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3131
+#: usr/lib/mauna/maunainstall/maunainstall.py:3217
 msgid "Removing this package could cause irreparable damage to your system."
 msgstr "قد يؤدي إزالة هذه الحزمة إلى تلف لا يمكن إصلاحه في نظامك."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3133
+#: usr/lib/mauna/maunainstall/maunainstall.py:3219
 msgid "Cannot install"
 msgstr "لا يمكن تثبيته"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3134
+#: usr/lib/mauna/maunainstall/maunainstall.py:3220
 msgid "Installing this package could cause irreparable damage to your system."
 msgstr "قد يؤدي تثبيت هذه الحزمة إلى تلف لا يمكن إصلاحه في نظامك."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3142
+#: usr/lib/mauna/maunainstall/maunainstall.py:3228
 msgid "Not available"
 msgstr "غير متوفر"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3146
+#: usr/lib/mauna/maunainstall/maunainstall.py:3232
 msgid "Please use apt-get to install this package."
 msgstr "الرجاء استخدام apt-get لتثبيت هذه الحزمة."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3148
+#: usr/lib/mauna/maunainstall/maunainstall.py:3234
 msgid "Use apt-get to remove this package."
 msgstr "استخدم apt-get لإزالة هذه الحزمة."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3152
+#: usr/lib/mauna/maunainstall/maunainstall.py:3238
 msgid "Try again"
 msgstr "حاول ثانية"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3155
+#: usr/lib/mauna/maunainstall/maunainstall.py:3241
 msgid "Something went wrong. Click to try again."
 msgstr "هناك خطأ ما. انقر للمحاول مجددا."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3181
+#: usr/lib/mauna/maunainstall/maunainstall.py:3267
 #, python-format
 msgid "%(localSize)s of disk space required"
 msgstr "مطلوب %(localSize)s من مساحة القرص"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3185
+#: usr/lib/mauna/maunainstall/maunainstall.py:3271
 #, python-format
 msgid "%(downloadSize)s to download, %(localSize)s of disk space freed"
 msgstr "للتنزيل %(downloadSize)s، تم تحرير %(localSize)s من مساحة القرص"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3188
+#: usr/lib/mauna/maunainstall/maunainstall.py:3274
 #, python-format
 msgid "%(downloadSize)s to download, %(localSize)s of disk space required"
 msgstr "للتنزيل %(downloadSize)s، مطلوب %(localSize)s من مساحة القرص"
+
+#: usr/lib/mauna/maunainstall/prefs.py:39
+msgid "General search options"
+msgstr "خيارات البحث العامة"
+
+#: usr/lib/mauna/maunainstall/prefs.py:41
+msgid "Search in packages summary (slower search)"
+msgstr "البحث في ملخص الحزم (بحث أبطأ)"
+
+#: usr/lib/mauna/maunainstall/prefs.py:43
+msgid "Search in packages description (even slower search)"
+msgstr "البحث في وصف الحزم (حتى البحث الأبطأ)"
+
+#: usr/lib/mauna/maunainstall/prefs.py:46
+msgid "Flatpaks"
+msgstr "Flatpaks"
+
+#: usr/lib/mauna/maunainstall/prefs.py:49
+msgid "Show unverified Flatpaks (not recommended)"
+msgstr "إظهار Flatpaks التي لم يتم التحقق منها (غير مستحسن)"
+
+#: usr/lib/mauna/maunainstall/prefs.py:55
+msgid "List all types"
+msgstr "قائمة بجميع الأنواع"
+
+#: usr/lib/mauna/maunainstall/prefs.py:56
+msgid "Only list the Flatpak"
+msgstr "قم بإدراج Flatpak فقط"
+
+#: usr/lib/mauna/maunainstall/prefs.py:57
+msgid "Only list the system package"
+msgstr "قم بإدراج حزمة النظام فقط"
+
+#: usr/lib/mauna/maunainstall/prefs.py:61
+msgid "When an app has multiple formats:"
+msgstr "عندما يحتوي التطبيق على تنسيقات متعددة:"
 
 #: generate_desktop_files:25 generate_desktop_files:36
 msgid "Install new applications"
@@ -520,12 +557,6 @@ msgstr "يبحث في مستودعات البرمجيات، انتظر دقيق�
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:26
 msgid "Limit search to current listing"
 msgstr "تحديد  البحث على القائمة الحالية"
-
-#~ msgid "Search in packages summary (slower search)"
-#~ msgstr "البحث في ملخص الحزم (بحث أبطأ)"
-
-#~ msgid "Search in packages description (even slower search)"
-#~ msgstr "البحث في وصف الحزم (حتى البحث الأبطأ)"
 
 #, python-format
 #~ msgid "%(localSize)s of disk space freed"

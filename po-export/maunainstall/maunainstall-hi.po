@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mauna\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-09 16:21-0300\n"
-"PO-Revision-Date: 2024-06-20 19:46-0300\n"
+"POT-Creation-Date: 2024-07-06 19:02-0300\n"
+"PO-Revision-Date: 2024-07-07 19:48-0300\n"
 "Last-Translator: Panwar <Unknown>\n"
 "Language-Team: Hindi <hi@li.org>\n"
 "Language: hi\n"
@@ -19,36 +19,37 @@ msgstr ""
 "X-Launchpad-Export-Date: 2023-07-07 12:53+0000\n"
 "X-Generator: Poedit 3.4.4\n"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:97 usr/lib/mauna/maunainstall/maunainstall.py:99
+#: usr/lib/mauna/maunainstall/maunainstall.py:100
+#: usr/lib/mauna/maunainstall/maunainstall.py:102
 msgid "Multimedia Codecs"
 msgstr "मल्टीमीडिया कोडेक्स"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:98
+#: usr/lib/mauna/maunainstall/maunainstall.py:101
 msgid "Multimedia Codecs for KDE"
 msgstr "KDE के लिए मल्टीमीडिया कोडेक्स"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:510
+#: usr/lib/mauna/maunainstall/maunainstall.py:511
 msgid "Add"
 msgstr "जोड़ना"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:516
-#: usr/lib/mauna/maunainstall/maunainstall.py:3108
+#: usr/lib/mauna/maunainstall/maunainstall.py:517
+#: usr/lib/mauna/maunainstall/maunainstall.py:3194
 msgid "Remove"
 msgstr "हटाएँ"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:535
+#: usr/lib/mauna/maunainstall/maunainstall.py:536
 msgid "Unavailable"
 msgstr "अनुपलब्ध"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:779
+#: usr/lib/mauna/maunainstall/maunainstall.py:781
 msgid "This package is a Flatpak"
 msgstr "यह पैकेज एक फ़्लैटपैक है"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:883
+#: usr/lib/mauna/maunainstall/maunainstall.py:885
 msgid "All"
 msgstr "सभी"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1045
+#: usr/lib/mauna/maunainstall/maunainstall.py:1047
 msgid ""
 "Cannot process this file while there are active operations.\n"
 "Please try again after they finish."
@@ -56,74 +57,74 @@ msgstr ""
 "सक्रिय प्रक्रियाओं के दौरान यह फ़ाइल संसाधित नहीं की जा सकती है।\n"
 "उनके पूर्ण होने पर पुनः प्रयास करें।"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1065
+#: usr/lib/mauna/maunainstall/maunainstall.py:1067
 msgid "The Flatpak repo you are trying to add already exists."
 msgstr "आप जिस Flatpak पैकेज-संग्रह को जोड़ रहे हैं, वह पहले से मौजूद है ।"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1073
+#: usr/lib/mauna/maunainstall/maunainstall.py:1075
 msgid "An error occurred attempting to add the Flatpak repo."
 msgstr "Flatpak पैकेज-संग्रह को जोड़ते समय त्रुटि हुई।"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1081
+#: usr/lib/mauna/maunainstall/maunainstall.py:1083
 msgid "Flatpak support is not currently available. Try installing flatpak."
 msgstr "फ्लैटपैक हेतु समर्थन वर्तमान में उपलब्ध नहीं है। फ्लैटपैक इनस्टॉल करें।"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1100
+#: usr/lib/mauna/maunainstall/maunainstall.py:1102
 msgid ""
 "Flatpak support is not currently available. Try installing flatpak and gir1.2-flatpak-1.0."
 msgstr "फ्लैटपैक हेतु समर्थन वर्तमान में उपलब्ध नहीं है। फ्लैटपैक व gir1.2-flatpak-1.0 इनस्टॉल करें।"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1140
-#: usr/lib/mauna/maunainstall/maunainstall.py:1141
-#: usr/lib/mauna/maunainstall/maunainstall.py:1998 generate_desktop_files:25
+#: usr/lib/mauna/maunainstall/maunainstall.py:1142
+#: usr/lib/mauna/maunainstall/maunainstall.py:1143
+#: usr/lib/mauna/maunainstall/maunainstall.py:2083 generate_desktop_files:25
 #: generate_desktop_files:36
 msgid "Software Manager"
 msgstr "सॉफ्टवेयर प्रबंधक"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1192
+#: usr/lib/mauna/maunainstall/maunainstall.py:1194
 msgid "Show installed applications"
 msgstr "इंस्टॉल हो चुके अनुप्रयोग दिखाएँ"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1201
+#: usr/lib/mauna/maunainstall/maunainstall.py:1203
 msgid "Refresh the list of packages"
 msgstr "पैकेज सूची को रिफ्रेश करें"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1207
+#: usr/lib/mauna/maunainstall/maunainstall.py:1209
 msgid "Preferences"
 msgstr "पसंद"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1217
-#: usr/lib/mauna/maunainstall/maunainstall.py:1996
+#: usr/lib/mauna/maunainstall/maunainstall.py:1219
+#: usr/lib/mauna/maunainstall/maunainstall.py:2081
 msgid "About"
 msgstr "विवरण"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1475
+#: usr/lib/mauna/maunainstall/maunainstall.py:1559
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:8
 msgid "Top Rated"
 msgstr "टॉप रेटेड"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1523
+#: usr/lib/mauna/maunainstall/maunainstall.py:1607
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:6
 msgid "Featured"
 msgstr "प्रदर्शित"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1584
+#: usr/lib/mauna/maunainstall/maunainstall.py:1668
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:7
 msgid "Categories"
 msgstr "श्रेणियाँ"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1649
+#: usr/lib/mauna/maunainstall/maunainstall.py:1733
 #, python-format
 msgid "%d task running"
 msgid_plural "%d tasks running"
 msgstr[0] "%d कार्य जारी है"
 msgstr[1] "%d कार्य जारी हैं"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1792
+#: usr/lib/mauna/maunainstall/maunainstall.py:1876
 msgid "No screenshots available"
 msgstr "कोई स्क्रीनशॉट उपलब्ध नहीं है"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2086
+#: usr/lib/mauna/maunainstall/maunainstall.py:2171
 msgid ""
 "There are currently active operations.\n"
 "Are you sure you want to quit?"
@@ -131,172 +132,172 @@ msgstr ""
 "वर्तमान में कुछ कार्य सक्रिय हैं।\n"
 "क्या आप वाकई छोड़ना चाहते हैं?"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2144
+#: usr/lib/mauna/maunainstall/maunainstall.py:2229
 msgid "Installed Applications"
 msgstr "इंस्टॉल हो चुके अनुप्रयोग"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2147
+#: usr/lib/mauna/maunainstall/maunainstall.py:2232
 msgid "Currently working on the following packages"
 msgstr "वर्तमान में सिस्टम निम्नलिखित पैकेजों पर कार्यरत है"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2152
+#: usr/lib/mauna/maunainstall/maunainstall.py:2237
 msgid "Internet"
 msgstr "इंटरनेट"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2154
+#: usr/lib/mauna/maunainstall/maunainstall.py:2239
 msgid "Web"
 msgstr "वेब"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2159
+#: usr/lib/mauna/maunainstall/maunainstall.py:2244
 msgid "Email"
 msgstr "ईमेल"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2163
+#: usr/lib/mauna/maunainstall/maunainstall.py:2248
 msgid "Chat"
 msgstr "चैट"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2166
+#: usr/lib/mauna/maunainstall/maunainstall.py:2251
 msgid "File sharing"
 msgstr "फ़ाइल साझा करें"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2172
+#: usr/lib/mauna/maunainstall/maunainstall.py:2257
 msgid "Sound and video"
 msgstr "ध्वनि व वीडियो"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2174
+#: usr/lib/mauna/maunainstall/maunainstall.py:2259
 msgid "Sound"
 msgstr "ध्वनि"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2176
+#: usr/lib/mauna/maunainstall/maunainstall.py:2261
 msgid "Video"
 msgstr "वीडियो"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2181
+#: usr/lib/mauna/maunainstall/maunainstall.py:2266
 msgid "Graphics"
 msgstr "ग्राफिक्स"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2185
+#: usr/lib/mauna/maunainstall/maunainstall.py:2270
 msgid "3D"
 msgstr "3D"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2187
+#: usr/lib/mauna/maunainstall/maunainstall.py:2272
 msgid "Drawing"
 msgstr "चित्रण"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2189
+#: usr/lib/mauna/maunainstall/maunainstall.py:2274
 msgid "Photography"
 msgstr "छायाचित्रण"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2191
+#: usr/lib/mauna/maunainstall/maunainstall.py:2276
 msgid "Publishing"
 msgstr "प्रकाशन"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2193
+#: usr/lib/mauna/maunainstall/maunainstall.py:2278
 msgid "Scanning"
 msgstr "क्रमवीक्षण (स्कैन)"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2195
+#: usr/lib/mauna/maunainstall/maunainstall.py:2280
 msgid "Viewers"
 msgstr "दर्शक"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2200
+#: usr/lib/mauna/maunainstall/maunainstall.py:2285
 msgid "Office"
 msgstr "ऑफिस"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2206
+#: usr/lib/mauna/maunainstall/maunainstall.py:2291
 msgid "Games"
 msgstr "खेल"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2210
+#: usr/lib/mauna/maunainstall/maunainstall.py:2295
 msgid "Board games"
 msgstr "बोर्ड आधारित खेल"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2212
+#: usr/lib/mauna/maunainstall/maunainstall.py:2297
 msgid "First-person"
 msgstr "प्रथम-व्यक्ति"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2214
+#: usr/lib/mauna/maunainstall/maunainstall.py:2299
 msgid "Real-time strategy"
 msgstr "वास्तविक समय कार्यनीति"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2216
+#: usr/lib/mauna/maunainstall/maunainstall.py:2301
 msgid "Turn-based strategy"
 msgstr "बारी-आधारित रणनीति"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2218
+#: usr/lib/mauna/maunainstall/maunainstall.py:2303
 msgid "Emulators"
 msgstr "एमुलेटर"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2220
+#: usr/lib/mauna/maunainstall/maunainstall.py:2305
 msgid "Simulation and racing"
 msgstr "अनुकार व दौड़"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2225
+#: usr/lib/mauna/maunainstall/maunainstall.py:2310
 msgid "Accessories"
 msgstr "सहायक अनुप्रयोग"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2231
+#: usr/lib/mauna/maunainstall/maunainstall.py:2316
 msgid "System tools"
 msgstr "सिस्टम संबंधित साधन"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2238
+#: usr/lib/mauna/maunainstall/maunainstall.py:2323
 msgid "Fonts"
 msgstr "मुद्रलिपियाँ"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2244
+#: usr/lib/mauna/maunainstall/maunainstall.py:2329
 msgid "Science and Education"
 msgstr "विज्ञान व शिक्षा"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2245
+#: usr/lib/mauna/maunainstall/maunainstall.py:2330
 msgid "Science"
 msgstr "विज्ञान"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2247
+#: usr/lib/mauna/maunainstall/maunainstall.py:2332
 msgid "Maths"
 msgstr "गणित"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2249
+#: usr/lib/mauna/maunainstall/maunainstall.py:2334
 msgid "Education"
 msgstr "शिक्षा"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2251
+#: usr/lib/mauna/maunainstall/maunainstall.py:2336
 msgid "Electronics"
 msgstr "इलेक्ट्रानिक्स"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2257
+#: usr/lib/mauna/maunainstall/maunainstall.py:2342
 msgid "Programming"
 msgstr "प्रोग्रामिंग"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2259
+#: usr/lib/mauna/maunainstall/maunainstall.py:2344
 msgid "Java"
 msgstr "जावा"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2261
+#: usr/lib/mauna/maunainstall/maunainstall.py:2345
 msgid "PHP"
 msgstr "PHP"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2263
+#: usr/lib/mauna/maunainstall/maunainstall.py:2348
 msgid "Python"
 msgstr "Python"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2265
+#: usr/lib/mauna/maunainstall/maunainstall.py:2350
 msgid "Essentials"
 msgstr "आवश्यक अनुप्रयोग"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2270
+#: usr/lib/mauna/maunainstall/maunainstall.py:2355
 msgid "All Applications"
 msgstr "सभी अनुप्रयोग"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2701
+#: usr/lib/mauna/maunainstall/maunainstall.py:2791
 msgid "All operations complete"
 msgstr "सभी कार्यवाही पूर्ण"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2705
+#: usr/lib/mauna/maunainstall/maunainstall.py:2795
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:9
 msgid "No matching packages found"
 msgstr "कोई पैकेज नहीं मिला, जो मेल खाता हो"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2708
+#: usr/lib/mauna/maunainstall/maunainstall.py:2798
 msgid ""
 "No packages to show.\n"
 "This may indicate a problem - try refreshing the cache."
@@ -304,126 +305,163 @@ msgstr ""
 "प्रदर्शित करने हेतु कोई पैकेज नहीं है।\n"
 "यह एक समस्या का संकेत हो सकता है - कैश रिफ्रेश कर पुनः प्रयास करें।"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2840
+#: usr/lib/mauna/maunainstall/maunainstall.py:2931
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:14
 msgid "System Package"
 msgstr "सिस्टम पैकेज"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2840
+#: usr/lib/mauna/maunainstall/maunainstall.py:2931
 msgid "Your system's package manager"
 msgstr "आपके सिस्टम का पैकेज मैनेजर"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2852
+#: usr/lib/mauna/maunainstall/maunainstall.py:2943
 #, python-format
 msgid "Flatpak (%s)"
 msgstr "फ़्लैटपैक (%s)"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2879
+#: usr/lib/mauna/maunainstall/maunainstall.py:2970
 msgid "Unknown maintainer"
 msgstr "अज्ञात अनुरक्षक"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2889
+#: usr/lib/mauna/maunainstall/maunainstall.py:2974
 #, python-format
 msgid "by %s"
 msgstr "%s द्वारा"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2913
+#: usr/lib/mauna/maunainstall/maunainstall.py:2998
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:20
 msgid "Homepage"
 msgstr "मुखपृष्ठ"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2922
+#: usr/lib/mauna/maunainstall/maunainstall.py:3007
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:21
 msgid "Documentation"
 msgstr "प्रलेखन"
 
 #. TRANSLATORS: showing specific number of reviews in the list view and the header of the package details.
-#: usr/lib/mauna/maunainstall/maunainstall.py:2962
+#: usr/lib/mauna/maunainstall/maunainstall.py:3047
 #, python-format
 msgid "%d Review"
 msgid_plural "%d Reviews"
 msgstr[0] "%d समीक्षाएँ"
 msgstr[1] "%d समीक्षा"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3025
+#: usr/lib/mauna/maunainstall/maunainstall.py:3110
 #, python-format
 msgid "Click <a href='%s'>here</a> to add your own review."
 msgstr "<a href='%s'>here</a> पर क्लिक कर अपनी समीक्षा जोड़ें."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3079
+#: usr/lib/mauna/maunainstall/maunainstall.py:3165
 msgid "Unable to communicate with servers. Check your Internet connection and try again."
 msgstr "सर्वर से संचार करने में असमर्थ. अपना इंटरनेट कनेक्शन जांचें और पुनः प्रयास करें।"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3112
+#: usr/lib/mauna/maunainstall/maunainstall.py:3198
 msgid "Installed"
 msgstr "इंस्टॉल हैं"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3114
+#: usr/lib/mauna/maunainstall/maunainstall.py:3200
+#: usr/lib/mauna/maunainstall/maunainstall-remove-app.py:64
 msgid "Removing"
 msgstr "हटाएँ जा रहे हैं"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3116
+#: usr/lib/mauna/maunainstall/maunainstall.py:3202
 msgid "Install"
 msgstr "इंस्‍टॉल करें"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3124
+#: usr/lib/mauna/maunainstall/maunainstall.py:3210
 msgid "Not installed"
 msgstr "इंस्‍टॉल नहीं है"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3126
+#: usr/lib/mauna/maunainstall/maunainstall.py:3212
 msgid "Installing"
 msgstr "इंस्‍टॉल हो रहा है"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3130
+#: usr/lib/mauna/maunainstall/maunainstall.py:3216
 msgid "Cannot remove"
 msgstr "हटाया नहीं जा सकता"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3131
+#: usr/lib/mauna/maunainstall/maunainstall.py:3217
 msgid "Removing this package could cause irreparable damage to your system."
 msgstr "इस पैकेज को हटाने से आपके सिस्टम को अपरिवर्तनीय क्षति हो सकती है।"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3133
+#: usr/lib/mauna/maunainstall/maunainstall.py:3219
 msgid "Cannot install"
 msgstr "इंस्टॉल नहीं किया जा सकता"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3134
+#: usr/lib/mauna/maunainstall/maunainstall.py:3220
 msgid "Installing this package could cause irreparable damage to your system."
 msgstr "इस पैकेज को इंस्टॉल करने से आपके सिस्टम को अपरिवर्तनीय क्षति हो सकती है।"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3142
+#: usr/lib/mauna/maunainstall/maunainstall.py:3228
 msgid "Not available"
 msgstr "उपलब्ध नहीं है"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3146
+#: usr/lib/mauna/maunainstall/maunainstall.py:3232
 msgid "Please use apt-get to install this package."
 msgstr "इस पैकेज को इंस्टॉल करने के लिए apt-get कमांड उपयोग करें।"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3148
+#: usr/lib/mauna/maunainstall/maunainstall.py:3234
 msgid "Use apt-get to remove this package."
 msgstr "इस पैकेज को हटाने के लिए apt-get का उपयोग करें।"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3152
+#: usr/lib/mauna/maunainstall/maunainstall.py:3238
 msgid "Try again"
 msgstr "पुनः प्रयास करें"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3155
+#: usr/lib/mauna/maunainstall/maunainstall.py:3241
 msgid "Something went wrong. Click to try again."
 msgstr "कुछ गलत हो गया। पुनः प्रयास करने के लिए क्लिक करें."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3181
+#: usr/lib/mauna/maunainstall/maunainstall.py:3267
 #, python-format
 msgid "%(localSize)s of disk space required"
 msgstr "%(localSize)s डिस्क स्पेस की आवश्यकता"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3185
+#: usr/lib/mauna/maunainstall/maunainstall.py:3271
 #, python-format
 msgid "%(downloadSize)s to download, %(localSize)s of disk space freed"
 msgstr "%(downloadSize)s का डाउनलोड, %(localSize)s डिस्क स्पेस मुक्त"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3188
+#: usr/lib/mauna/maunainstall/maunainstall.py:3274
 #, python-format
 msgid "%(downloadSize)s to download, %(localSize)s of disk space required"
 msgstr "%(downloadSize)s का डाउनलोड, %(localSize)s डिस्क स्पेस की आवश्यकता"
+
+#: usr/lib/mauna/maunainstall/prefs.py:39
+msgid "General search options"
+msgstr "सामान्य खोज विकल्प"
+
+#: usr/lib/mauna/maunainstall/prefs.py:41
+msgid "Search in packages summary (slower search)"
+msgstr "पैकेज के सार में ढूँढे (धीमा)"
+
+#: usr/lib/mauna/maunainstall/prefs.py:43
+msgid "Search in packages description (even slower search)"
+msgstr "पैकेज के वर्णन में ढूँढे (और भी धीमा)"
+
+#: usr/lib/mauna/maunainstall/prefs.py:46
+msgid "Flatpaks"
+msgstr "फ्लैटपैक्स"
+
+#: usr/lib/mauna/maunainstall/prefs.py:49
+msgid "Show unverified Flatpaks (not recommended)"
+msgstr "असत्यापित फ़्लैटपैक दिखाएँ (अनुशंसित नहीं)"
+
+#: usr/lib/mauna/maunainstall/prefs.py:55
+msgid "List all types"
+msgstr "सभी प्रकार की सूची बनाएं"
+
+#: usr/lib/mauna/maunainstall/prefs.py:56
+msgid "Only list the Flatpak"
+msgstr "केवल फ्लैटपैक को सूचीबद्ध करें"
+
+#: usr/lib/mauna/maunainstall/prefs.py:57
+msgid "Only list the system package"
+msgstr "केवल सिस्टम पैकेज सूचीबद्ध करें"
+
+#: usr/lib/mauna/maunainstall/prefs.py:61
+msgid "When an app has multiple formats:"
+msgstr "जब किसी ऐप में एक से ज़्यादा फ़ॉर्मेट हों:"
 
 #: generate_desktop_files:25 generate_desktop_files:36
 msgid "Install new applications"
@@ -510,12 +548,6 @@ msgstr "सॉफ्टवेयर पैकेज-संग्रह खोज
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:26
 msgid "Limit search to current listing"
 msgstr "खोज को वर्तमान सूची तक ही सिमित करें"
-
-#~ msgid "Search in packages summary (slower search)"
-#~ msgstr "पैकेज के सार में ढूँढे (धीमा)"
-
-#~ msgid "Search in packages description (even slower search)"
-#~ msgstr "पैकेज के वर्णन में ढूँढे (और भी धीमा)"
 
 #, python-format
 #~ msgid "%(localSize)s of disk space freed"

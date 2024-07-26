@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mauna\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-09 16:21-0300\n"
-"PO-Revision-Date: 2024-06-22 18:43-0300\n"
+"POT-Creation-Date: 2024-07-06 19:02-0300\n"
+"PO-Revision-Date: 2024-07-23 21:45-0300\n"
 "Last-Translator: 鄭凱鴻 <Unknown>\n"
 "Language-Team: Traditional Chinese <zh_TW@li.org>\n"
 "Language: zh_TW\n"
@@ -19,37 +19,37 @@ msgstr ""
 "X-Launchpad-Export-Date: 2023-07-07 12:53+0000\n"
 "X-Generator: Poedit 3.4.4\n"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:97
-#: usr/lib/mauna/maunainstall/maunainstall.py:99
+#: usr/lib/mauna/maunainstall/maunainstall.py:100
+#: usr/lib/mauna/maunainstall/maunainstall.py:102
 msgid "Multimedia Codecs"
 msgstr "多媒體編解碼器"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:98
+#: usr/lib/mauna/maunainstall/maunainstall.py:101
 msgid "Multimedia Codecs for KDE"
 msgstr "適合 KDE 的多媒體編解碼器"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:510
+#: usr/lib/mauna/maunainstall/maunainstall.py:511
 msgid "Add"
 msgstr "添加"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:516
-#: usr/lib/mauna/maunainstall/maunainstall.py:3108
+#: usr/lib/mauna/maunainstall/maunainstall.py:517
+#: usr/lib/mauna/maunainstall/maunainstall.py:3194
 msgid "Remove"
 msgstr "移除"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:535
+#: usr/lib/mauna/maunainstall/maunainstall.py:536
 msgid "Unavailable"
 msgstr "不可用"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:779
+#: usr/lib/mauna/maunainstall/maunainstall.py:781
 msgid "This package is a Flatpak"
 msgstr "這個包是一個Flatpak"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:883
+#: usr/lib/mauna/maunainstall/maunainstall.py:885
 msgid "All"
 msgstr "全部"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1045
+#: usr/lib/mauna/maunainstall/maunainstall.py:1047
 msgid ""
 "Cannot process this file while there are active operations.\n"
 "Please try again after they finish."
@@ -57,74 +57,74 @@ msgstr ""
 "當這個檔案還有進行中的操作時無法處理。\n"
 "請在它們結束後再試一次。"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1065
+#: usr/lib/mauna/maunainstall/maunainstall.py:1067
 msgid "The Flatpak repo you are trying to add already exists."
 msgstr "您嘗試加入的 Flatpak 軟體庫已存在。"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1073
+#: usr/lib/mauna/maunainstall/maunainstall.py:1075
 msgid "An error occurred attempting to add the Flatpak repo."
 msgstr "嘗試加入 Flatpak 軟體庫時發生錯誤。"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1081
+#: usr/lib/mauna/maunainstall/maunainstall.py:1083
 msgid "Flatpak support is not currently available. Try installing flatpak."
 msgstr "Flatpak 支援目前無法使用。嘗試安裝 flatpak。"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1100
+#: usr/lib/mauna/maunainstall/maunainstall.py:1102
 msgid ""
 "Flatpak support is not currently available. Try installing flatpak and "
 "gir1.2-flatpak-1.0."
 msgstr "Flatpak 支援目前無法使用。嘗試安裝 flatpak 和 gir1.2-flatpak-1.0。"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1140
-#: usr/lib/mauna/maunainstall/maunainstall.py:1141
-#: usr/lib/mauna/maunainstall/maunainstall.py:1998 generate_desktop_files:25
+#: usr/lib/mauna/maunainstall/maunainstall.py:1142
+#: usr/lib/mauna/maunainstall/maunainstall.py:1143
+#: usr/lib/mauna/maunainstall/maunainstall.py:2083 generate_desktop_files:25
 #: generate_desktop_files:36
 msgid "Software Manager"
 msgstr "軟體管理員"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1192
+#: usr/lib/mauna/maunainstall/maunainstall.py:1194
 msgid "Show installed applications"
 msgstr "顯示安裝的應用程式"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1201
+#: usr/lib/mauna/maunainstall/maunainstall.py:1203
 msgid "Refresh the list of packages"
 msgstr "重新整理軟體包列表"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1207
+#: usr/lib/mauna/maunainstall/maunainstall.py:1209
 msgid "Preferences"
 msgstr "優先"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1217
-#: usr/lib/mauna/maunainstall/maunainstall.py:1996
+#: usr/lib/mauna/maunainstall/maunainstall.py:1219
+#: usr/lib/mauna/maunainstall/maunainstall.py:2081
 msgid "About"
 msgstr "關於"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1475
+#: usr/lib/mauna/maunainstall/maunainstall.py:1559
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:8
 msgid "Top Rated"
 msgstr "最受好評"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1523
+#: usr/lib/mauna/maunainstall/maunainstall.py:1607
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:6
 msgid "Featured"
 msgstr "精選"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1584
+#: usr/lib/mauna/maunainstall/maunainstall.py:1668
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:7
 msgid "Categories"
 msgstr "類別"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1649
+#: usr/lib/mauna/maunainstall/maunainstall.py:1733
 #, python-format
 msgid "%d task running"
 msgid_plural "%d tasks running"
 msgstr[0] "%d 項工作正在執行"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1792
+#: usr/lib/mauna/maunainstall/maunainstall.py:1876
 msgid "No screenshots available"
 msgstr "沒有可用的螢幕截圖"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2086
+#: usr/lib/mauna/maunainstall/maunainstall.py:2171
 msgid ""
 "There are currently active operations.\n"
 "Are you sure you want to quit?"
@@ -132,172 +132,172 @@ msgstr ""
 "這裡目前還有進行中的操作。\n"
 "您確定要結束？"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2144
+#: usr/lib/mauna/maunainstall/maunainstall.py:2229
 msgid "Installed Applications"
 msgstr "安裝的應用程式"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2147
+#: usr/lib/mauna/maunainstall/maunainstall.py:2232
 msgid "Currently working on the following packages"
 msgstr "目前正在處理下列軟體包"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2152
+#: usr/lib/mauna/maunainstall/maunainstall.py:2237
 msgid "Internet"
 msgstr "網際網路"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2154
+#: usr/lib/mauna/maunainstall/maunainstall.py:2239
 msgid "Web"
 msgstr "網路"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2159
+#: usr/lib/mauna/maunainstall/maunainstall.py:2244
 msgid "Email"
 msgstr "Email"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2163
+#: usr/lib/mauna/maunainstall/maunainstall.py:2248
 msgid "Chat"
 msgstr "聊天"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2166
+#: usr/lib/mauna/maunainstall/maunainstall.py:2251
 msgid "File sharing"
 msgstr "檔案共用"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2172
+#: usr/lib/mauna/maunainstall/maunainstall.py:2257
 msgid "Sound and video"
 msgstr "影音"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2174
+#: usr/lib/mauna/maunainstall/maunainstall.py:2259
 msgid "Sound"
 msgstr "音訊"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2176
+#: usr/lib/mauna/maunainstall/maunainstall.py:2261
 msgid "Video"
 msgstr "影片"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2181
+#: usr/lib/mauna/maunainstall/maunainstall.py:2266
 msgid "Graphics"
 msgstr "繪圖"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2185
+#: usr/lib/mauna/maunainstall/maunainstall.py:2270
 msgid "3D"
 msgstr "3D"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2187
+#: usr/lib/mauna/maunainstall/maunainstall.py:2272
 msgid "Drawing"
 msgstr "繪圖"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2189
+#: usr/lib/mauna/maunainstall/maunainstall.py:2274
 msgid "Photography"
 msgstr "攝影"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2191
+#: usr/lib/mauna/maunainstall/maunainstall.py:2276
 msgid "Publishing"
 msgstr "出版"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2193
+#: usr/lib/mauna/maunainstall/maunainstall.py:2278
 msgid "Scanning"
 msgstr "掃描"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2195
+#: usr/lib/mauna/maunainstall/maunainstall.py:2280
 msgid "Viewers"
 msgstr "檢視器"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2200
+#: usr/lib/mauna/maunainstall/maunainstall.py:2285
 msgid "Office"
 msgstr "辦公軟體"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2206
+#: usr/lib/mauna/maunainstall/maunainstall.py:2291
 msgid "Games"
 msgstr "遊戲"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2210
+#: usr/lib/mauna/maunainstall/maunainstall.py:2295
 msgid "Board games"
 msgstr "桌上遊戲"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2212
+#: usr/lib/mauna/maunainstall/maunainstall.py:2297
 msgid "First-person"
 msgstr "第一人稱"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2214
+#: usr/lib/mauna/maunainstall/maunainstall.py:2299
 msgid "Real-time strategy"
 msgstr "即時戰略"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2216
+#: usr/lib/mauna/maunainstall/maunainstall.py:2301
 msgid "Turn-based strategy"
 msgstr "回合制戰略"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2218
+#: usr/lib/mauna/maunainstall/maunainstall.py:2303
 msgid "Emulators"
 msgstr "模擬器"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2220
+#: usr/lib/mauna/maunainstall/maunainstall.py:2305
 msgid "Simulation and racing"
 msgstr "模擬與競速"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2225
+#: usr/lib/mauna/maunainstall/maunainstall.py:2310
 msgid "Accessories"
 msgstr "附屬應用程式"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2231
+#: usr/lib/mauna/maunainstall/maunainstall.py:2316
 msgid "System tools"
 msgstr "系統工具"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2238
+#: usr/lib/mauna/maunainstall/maunainstall.py:2323
 msgid "Fonts"
 msgstr "字型"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2244
+#: usr/lib/mauna/maunainstall/maunainstall.py:2329
 msgid "Science and Education"
 msgstr "科學與教育"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2245
+#: usr/lib/mauna/maunainstall/maunainstall.py:2330
 msgid "Science"
 msgstr "科學"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2247
+#: usr/lib/mauna/maunainstall/maunainstall.py:2332
 msgid "Maths"
 msgstr "數學"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2249
+#: usr/lib/mauna/maunainstall/maunainstall.py:2334
 msgid "Education"
 msgstr "教育"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2251
+#: usr/lib/mauna/maunainstall/maunainstall.py:2336
 msgid "Electronics"
 msgstr "電子"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2257
+#: usr/lib/mauna/maunainstall/maunainstall.py:2342
 msgid "Programming"
 msgstr "程式設計"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2259
+#: usr/lib/mauna/maunainstall/maunainstall.py:2344
 msgid "Java"
 msgstr "Java"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2261
+#: usr/lib/mauna/maunainstall/maunainstall.py:2345
 msgid "PHP"
 msgstr "PHP"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2263
+#: usr/lib/mauna/maunainstall/maunainstall.py:2348
 msgid "Python"
 msgstr "Python"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2265
+#: usr/lib/mauna/maunainstall/maunainstall.py:2350
 msgid "Essentials"
 msgstr "精選"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2270
+#: usr/lib/mauna/maunainstall/maunainstall.py:2355
 msgid "All Applications"
 msgstr "所有應用程式"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2701
+#: usr/lib/mauna/maunainstall/maunainstall.py:2791
 msgid "All operations complete"
 msgstr "所有操作完成"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2705
+#: usr/lib/mauna/maunainstall/maunainstall.py:2795
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:9
 msgid "No matching packages found"
 msgstr "找不到符合的軟體包"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2708
+#: usr/lib/mauna/maunainstall/maunainstall.py:2798
 msgid ""
 "No packages to show.\n"
 "This may indicate a problem - try refreshing the cache."
@@ -305,127 +305,164 @@ msgstr ""
 "沒有軟體包可顯示。\n"
 "這可能代表有問題 - 請試試重新整理快取。"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2840
+#: usr/lib/mauna/maunainstall/maunainstall.py:2931
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:14
 msgid "System Package"
 msgstr "系統套件"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2840
+#: usr/lib/mauna/maunainstall/maunainstall.py:2931
 msgid "Your system's package manager"
 msgstr "您系統的套件管理器"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2852
+#: usr/lib/mauna/maunainstall/maunainstall.py:2943
 #, python-format
 msgid "Flatpak (%s)"
 msgstr "Flatpak (%s)"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2879
+#: usr/lib/mauna/maunainstall/maunainstall.py:2970
 msgid "Unknown maintainer"
 msgstr "未知的維護者"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2889
+#: usr/lib/mauna/maunainstall/maunainstall.py:2974
 #, python-format
 msgid "by %s"
 msgstr "由 %s 提供"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2913
+#: usr/lib/mauna/maunainstall/maunainstall.py:2998
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:20
 msgid "Homepage"
 msgstr "首頁"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2922
+#: usr/lib/mauna/maunainstall/maunainstall.py:3007
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:21
 msgid "Documentation"
 msgstr "文件"
 
 #. TRANSLATORS: showing specific number of reviews in the list view and the header of the package details.
-#: usr/lib/mauna/maunainstall/maunainstall.py:2962
+#: usr/lib/mauna/maunainstall/maunainstall.py:3047
 #, python-format
 msgid "%d Review"
 msgid_plural "%d Reviews"
 msgstr[0] "%d 則評論"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3025
+#: usr/lib/mauna/maunainstall/maunainstall.py:3110
 #, python-format
 msgid "Click <a href='%s'>here</a> to add your own review."
 msgstr "點按<a href='%s'>這裡</a>加入您自己的評論。"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3079
+#: usr/lib/mauna/maunainstall/maunainstall.py:3165
 msgid ""
 "Unable to communicate with servers. Check your Internet connection and try "
 "again."
 msgstr "無法與伺服器通訊。 檢查您的網路連接，然後再試一次。"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3112
+#: usr/lib/mauna/maunainstall/maunainstall.py:3198
 msgid "Installed"
 msgstr "已安裝"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3114
+#: usr/lib/mauna/maunainstall/maunainstall.py:3200
+#: usr/lib/mauna/maunainstall/maunainstall-remove-app.py:64
 msgid "Removing"
 msgstr "正在移除"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3116
+#: usr/lib/mauna/maunainstall/maunainstall.py:3202
 msgid "Install"
 msgstr "安裝"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3124
+#: usr/lib/mauna/maunainstall/maunainstall.py:3210
 msgid "Not installed"
 msgstr "未安裝"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3126
+#: usr/lib/mauna/maunainstall/maunainstall.py:3212
 msgid "Installing"
 msgstr "正在安裝"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3130
+#: usr/lib/mauna/maunainstall/maunainstall.py:3216
 msgid "Cannot remove"
 msgstr "無法移除"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3131
+#: usr/lib/mauna/maunainstall/maunainstall.py:3217
 msgid "Removing this package could cause irreparable damage to your system."
 msgstr "移除這個軟體包可能會對系統造成無法修復的傷害。"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3133
+#: usr/lib/mauna/maunainstall/maunainstall.py:3219
 msgid "Cannot install"
 msgstr "無法安裝"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3134
+#: usr/lib/mauna/maunainstall/maunainstall.py:3220
 msgid "Installing this package could cause irreparable damage to your system."
 msgstr "安裝這個軟體包可能會造成系統無法修復的傷害。"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3142
+#: usr/lib/mauna/maunainstall/maunainstall.py:3228
 msgid "Not available"
 msgstr "無法使用"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3146
+#: usr/lib/mauna/maunainstall/maunainstall.py:3232
 msgid "Please use apt-get to install this package."
 msgstr "請使用 apt-get 指令以安裝此軟體包。"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3148
+#: usr/lib/mauna/maunainstall/maunainstall.py:3234
 msgid "Use apt-get to remove this package."
 msgstr "使用 apt-get 刪除此軟體包。"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3152
+#: usr/lib/mauna/maunainstall/maunainstall.py:3238
 msgid "Try again"
 msgstr "再試一次"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3155
+#: usr/lib/mauna/maunainstall/maunainstall.py:3241
 msgid "Something went wrong. Click to try again."
 msgstr "出了些問題。 單擊重試。"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3181
+#: usr/lib/mauna/maunainstall/maunainstall.py:3267
 #, python-format
 msgid "%(localSize)s of disk space required"
 msgstr "需要 %(localSize)s 磁碟空間"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3185
+#: usr/lib/mauna/maunainstall/maunainstall.py:3271
 #, python-format
 msgid "%(downloadSize)s to download, %(localSize)s of disk space freed"
 msgstr "將下載 %(downloadSize)s，釋放 %(localSize)s 磁碟空間"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3188
+#: usr/lib/mauna/maunainstall/maunainstall.py:3274
 #, python-format
 msgid "%(downloadSize)s to download, %(localSize)s of disk space required"
 msgstr "將下載 %(downloadSize)s，需要 %(localSize)s 磁碟空間"
+
+#: usr/lib/mauna/maunainstall/prefs.py:39
+msgid "General search options"
+msgstr "一般搜尋選項"
+
+#: usr/lib/mauna/maunainstall/prefs.py:41
+msgid "Search in packages summary (slower search)"
+msgstr "在軟體包摘要中搜尋（搜尋速度較慢）"
+
+#: usr/lib/mauna/maunainstall/prefs.py:43
+msgid "Search in packages description (even slower search)"
+msgstr "在軟體包描述中搜尋（搜尋速度更慢）"
+
+#: usr/lib/mauna/maunainstall/prefs.py:46
+msgid "Flatpaks"
+msgstr "Flatpaks"
+
+#: usr/lib/mauna/maunainstall/prefs.py:49
+msgid "Show unverified Flatpaks (not recommended)"
+msgstr "顯示未經驗證的 Flatpak（不建議）"
+
+#: usr/lib/mauna/maunainstall/prefs.py:55
+msgid "List all types"
+msgstr "列出所有類型"
+
+#: usr/lib/mauna/maunainstall/prefs.py:56
+msgid "Only list the Flatpak"
+msgstr "只列出 Flatpak"
+
+#: usr/lib/mauna/maunainstall/prefs.py:57
+msgid "Only list the system package"
+msgstr "只列出系統包"
+
+#: usr/lib/mauna/maunainstall/prefs.py:61
+msgid "When an app has multiple formats:"
+msgstr "當應用程式有多種格式時："
 
 #: generate_desktop_files:25 generate_desktop_files:36
 msgid "Install new applications"
@@ -511,12 +548,6 @@ msgstr "正在搜尋軟體倉庫，請稍待"
 #: usr/share/mauna/maunainstall/maunainstall.glade.h:26
 msgid "Limit search to current listing"
 msgstr "限制搜尋於目前的列表"
-
-#~ msgid "Search in packages summary (slower search)"
-#~ msgstr "在軟體包摘要中搜尋（搜尋速度較慢）"
-
-#~ msgid "Search in packages description (even slower search)"
-#~ msgstr "在軟體包描述中搜尋（搜尋速度更慢）"
 
 #, python-format
 #~ msgid "%(localSize)s of disk space freed"
