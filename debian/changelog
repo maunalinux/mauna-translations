@@ -1,3 +1,11 @@
+mauna-translations (2024.07.26) mauna; urgency=medium
+
+  * New upstream release
+  * l10n: Update POT
+  * l10n: Update translations
+
+ -- Mauna Linux <dev@maunalinux.top>  Fri, 26 Jul 2024 18:06:14 -0300
+
 mauna-translations (2024.06.22) mauna; urgency=medium
 
   * New upstream release
