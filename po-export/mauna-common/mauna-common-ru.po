@@ -6,9 +6,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: mauna\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2022-11-29 14:37+0000\n"
-"PO-Revision-Date: 2023-10-09 19:01-0300\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-06 18:54-0300\n"
+"PO-Revision-Date: 2025-01-08 21:42-0300\n"
 "Last-Translator: Темак <artemkotlubai@yandex.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
 "Language: ru\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2023-07-07 12:53+0000\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #: usr/bin/cinnamon-remove-application:33 usr/bin/mauna-remove-application:33
 msgid ""
@@ -26,23 +26,27 @@ msgstr ""
 "Данный пункт меню не связан ни с одним пакетом. Всё равно удалить его из "
 "меню?"
 
-#: usr/bin/cinnamon-remove-application:74 usr/bin/mauna-remove-application:74
+#: usr/bin/cinnamon-remove-application:78 usr/bin/mauna-remove-application:78
 msgid "The following packages will be removed:"
 msgstr "Следующие пакеты будут удалены:"
 
-#: usr/bin/cinnamon-remove-application:81 usr/bin/mauna-remove-application:81
+#: usr/bin/cinnamon-remove-application:85 usr/bin/mauna-remove-application:85
 msgid "Packages to be removed"
 msgstr "Пакеты, которые будут удалены"
 
-#: usr/bin/cinnamon-remove-application:143 usr/bin/mauna-remove-application:143
+#: usr/bin/cinnamon-remove-application:146 usr/bin/mauna-remove-application:146
 #, python-format
-msgid "Cannot remove package %s as it is required by other packages."
-msgstr "Невозможно удалить пакет %s, так как он требуется другим пакетам."
+msgid "Cannot remove package %s as it is required by a system package."
+msgstr "Невозможно удалить пакет %s, так как он требуется системному пакету."
 
-#: usr/bin/cinnamon-remove-application:149 usr/bin/mauna-remove-application:149
+#: usr/bin/cinnamon-remove-application:152 usr/bin/mauna-remove-application:152
 #, python-format
 msgid "Package %s is a dependency of the following packages:"
 msgstr "От пакета %s зависят следующие пакеты:"
+
+#: usr/bin/mauna-remove-flatpak:59
+msgid "Removing"
+msgstr "Удаление"
 
 #: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:39
 #: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:110
@@ -142,7 +146,7 @@ msgstr "«Плоские пакеты»"
 msgid "Flatpak"
 msgstr "«Плоский пакет»"
 
-#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:332
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:324
 msgid "An error occurred"
 msgstr "Произошла ошибка"
 

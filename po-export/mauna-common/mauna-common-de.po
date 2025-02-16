@@ -6,16 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: linuxmint\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2022-11-29 14:37+0000\n"
-"PO-Revision-Date: 2022-11-29 18:15+0000\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-06 18:54-0300\n"
+"PO-Revision-Date: 2025-01-08 19:21-0300\n"
 "Last-Translator: Tobias Bannert <tobannert@gmail.com>\n"
 "Language-Team: German <de@li.org>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2023-07-07 12:53+0000\n"
-"X-Generator: Launchpad (build 2ac9e3bf4ab511504f8fc651371e24a6a047ba12)\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #: usr/bin/cinnamon-remove-application:33 usr/bin/mauna-remove-application:33
 msgid ""
@@ -25,24 +26,29 @@ msgstr ""
 "Dieser Menüpunkt ist keinem Paket zugeordnet. Wollen Sie ihn aus dem Menü "
 "entfernen?"
 
-#: usr/bin/cinnamon-remove-application:74 usr/bin/mauna-remove-application:74
+#: usr/bin/cinnamon-remove-application:78 usr/bin/mauna-remove-application:78
 msgid "The following packages will be removed:"
 msgstr "Folgende Pakete werden entfernt:"
 
-#: usr/bin/cinnamon-remove-application:81 usr/bin/mauna-remove-application:81
+#: usr/bin/cinnamon-remove-application:85 usr/bin/mauna-remove-application:85
 msgid "Packages to be removed"
 msgstr "Zu entfernende Pakete"
 
-#: usr/bin/cinnamon-remove-application:143 usr/bin/mauna-remove-application:143
+#: usr/bin/cinnamon-remove-application:146 usr/bin/mauna-remove-application:146
 #, python-format
-msgid "Cannot remove package %s as it is required by other packages."
+msgid "Cannot remove package %s as it is required by a system package."
 msgstr ""
-"Paket %s kann nicht entfernt werden, da es von anderen Paketen benötigt wird."
+"Paket %s kann nicht entfernt werden, da es von einem Systempaket benötigt "
+"wird."
 
-#: usr/bin/cinnamon-remove-application:149 usr/bin/mauna-remove-application:149
+#: usr/bin/cinnamon-remove-application:152 usr/bin/mauna-remove-application:152
 #, python-format
 msgid "Package %s is a dependency of the following packages:"
 msgstr "Das Paket %s ist von den folgenden Paketen abhängig:"
+
+#: usr/bin/mauna-remove-flatpak:59
+msgid "Removing"
+msgstr "Entfernen"
 
 #: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:39
 #: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:110
@@ -142,7 +148,7 @@ msgstr "Flatpaks"
 msgid "Flatpak"
 msgstr "Flatpak"
 
-#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:332
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:324
 msgid "An error occurred"
 msgstr "Ein Fehler ist aufgetreten"
 

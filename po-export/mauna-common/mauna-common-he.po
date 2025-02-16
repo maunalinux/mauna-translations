@@ -6,9 +6,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: mauna\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2022-11-29 14:37+0000\n"
-"PO-Revision-Date: 2023-10-09 18:09-0300\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-06 18:54-0300\n"
+"PO-Revision-Date: 2025-01-08 19:56-0300\n"
 "Last-Translator: Avi Markovitz <avi.markovitz@gmail.com>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "Language: he\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2023-07-07 12:53+0000\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #: usr/bin/cinnamon-remove-application:33 usr/bin/mauna-remove-application:33
 msgid ""
@@ -24,23 +24,27 @@ msgid ""
 "from the menu anyway?"
 msgstr "פריט תפריט זה לא קשור לחבילה כל שהיא. האם להסירו מהתפריט בכל מקרה?"
 
-#: usr/bin/cinnamon-remove-application:74 usr/bin/mauna-remove-application:74
+#: usr/bin/cinnamon-remove-application:78 usr/bin/mauna-remove-application:78
 msgid "The following packages will be removed:"
 msgstr "החבילות הבאות יוסרו:"
 
-#: usr/bin/cinnamon-remove-application:81 usr/bin/mauna-remove-application:81
+#: usr/bin/cinnamon-remove-application:85 usr/bin/mauna-remove-application:85
 msgid "Packages to be removed"
 msgstr "חבילות להסרה"
 
-#: usr/bin/cinnamon-remove-application:143 usr/bin/mauna-remove-application:143
+#: usr/bin/cinnamon-remove-application:146 usr/bin/mauna-remove-application:146
 #, python-format
-msgid "Cannot remove package %s as it is required by other packages."
-msgstr "לא ניתן להסיר את החבילה %s בגלל שהיא נחוצה לחבילות אחרות."
+msgid "Cannot remove package %s as it is required by a system package."
+msgstr "לא ניתן להסיר את החבילה %s מכיוון שהיא נדרשת על ידי חבילת מערכת."
 
-#: usr/bin/cinnamon-remove-application:149 usr/bin/mauna-remove-application:149
+#: usr/bin/cinnamon-remove-application:152 usr/bin/mauna-remove-application:152
 #, python-format
 msgid "Package %s is a dependency of the following packages:"
 msgstr "החבילות הבאות תלויות בחבילה %s:"
+
+#: usr/bin/mauna-remove-flatpak:59
+msgid "Removing"
+msgstr "מסיר"
 
 #: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:39
 #: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:110
@@ -140,7 +144,7 @@ msgstr "חבילות Flatpak"
 msgid "Flatpak"
 msgstr "Flatpak"
 
-#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:332
+#: usr/lib/python3/dist-packages/maunacommon/installer/dialogs.py:324
 msgid "An error occurred"
 msgstr "אירעה שגיאה"
 

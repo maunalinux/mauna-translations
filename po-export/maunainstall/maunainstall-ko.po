@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mauna\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-06 19:02-0300\n"
-"PO-Revision-Date: 2024-07-07 20:19-0300\n"
+"POT-Creation-Date: 2025-01-07 21:36-0300\n"
+"PO-Revision-Date: 2025-01-10 20:39-0300\n"
 "Last-Translator: Cryental <Unknown>\n"
 "Language-Team: Korean <ko@li.org>\n"
 "Language: ko\n"
@@ -19,37 +19,37 @@ msgstr ""
 "X-Launchpad-Export-Date: 2023-07-07 12:53+0000\n"
 "X-Generator: Poedit 3.4.4\n"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:100
-#: usr/lib/mauna/maunainstall/maunainstall.py:102
+#: usr/lib/mauna/maunainstall/maunainstall.py:84
+#: usr/lib/mauna/maunainstall/maunainstall.py:86
 msgid "Multimedia Codecs"
 msgstr "멀티미디어 코덱"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:101
+#: usr/lib/mauna/maunainstall/maunainstall.py:85
 msgid "Multimedia Codecs for KDE"
 msgstr "KDE용 멀티미디어 코덱"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:511
+#: usr/lib/mauna/maunainstall/maunainstall.py:220
 msgid "Add"
 msgstr "추가"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:517
-#: usr/lib/mauna/maunainstall/maunainstall.py:3194
+#: usr/lib/mauna/maunainstall/maunainstall.py:226
+#: usr/lib/mauna/maunainstall/maunainstall.py:2918
 msgid "Remove"
 msgstr "제거"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:536
+#: usr/lib/mauna/maunainstall/maunainstall.py:245
 msgid "Unavailable"
 msgstr "사용할 수 없음"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:781
+#: usr/lib/mauna/maunainstall/maunainstall.py:488
 msgid "This package is a Flatpak"
 msgstr "이 패키지는 Flatpak입니다"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:885
+#: usr/lib/mauna/maunainstall/maunainstall.py:592
 msgid "All"
 msgstr "모두"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1047
+#: usr/lib/mauna/maunainstall/maunainstall.py:754
 msgid ""
 "Cannot process this file while there are active operations.\n"
 "Please try again after they finish."
@@ -57,19 +57,19 @@ msgstr ""
 "진행 중인 작업이 있어서 이 파일을 실행할 수 없습니다.\n"
 "작업이 끝난 후에 다시 시도해 보세요."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1067
+#: usr/lib/mauna/maunainstall/maunainstall.py:774
 msgid "The Flatpak repo you are trying to add already exists."
 msgstr "추가하시려는 Flatpak 저장소가 이미 있습니다."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1075
+#: usr/lib/mauna/maunainstall/maunainstall.py:782
 msgid "An error occurred attempting to add the Flatpak repo."
 msgstr "Flatpak 저장소를 추가하는 중에 오류가 생겼습니다."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1083
+#: usr/lib/mauna/maunainstall/maunainstall.py:790
 msgid "Flatpak support is not currently available. Try installing flatpak."
 msgstr "Flatpak 지원을 현재 사용할 수 없습니다. flatpak을 설치해 보세요."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1102
+#: usr/lib/mauna/maunainstall/maunainstall.py:809
 msgid ""
 "Flatpak support is not currently available. Try installing flatpak and "
 "gir1.2-flatpak-1.0."
@@ -77,56 +77,60 @@ msgstr ""
 "Flatpak 지원을 현재 사용할 수 없습니다. flatpak과 gir1.2-flatpak-1.0을 설치"
 "해 보세요."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1142
-#: usr/lib/mauna/maunainstall/maunainstall.py:1143
-#: usr/lib/mauna/maunainstall/maunainstall.py:2083 generate_desktop_files:25
+#: usr/lib/mauna/maunainstall/maunainstall.py:847
+#: usr/lib/mauna/maunainstall/maunainstall.py:848
+#: usr/lib/mauna/maunainstall/maunainstall.py:1798 generate_desktop_files:25
 #: generate_desktop_files:36
 msgid "Software Manager"
 msgstr "소프트웨어 매니저"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1194
+#: usr/lib/mauna/maunainstall/maunainstall.py:887
 msgid "Show installed applications"
 msgstr "설치된 애플리케이션 표시"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1203
+#: usr/lib/mauna/maunainstall/maunainstall.py:896
 msgid "Refresh the list of packages"
 msgstr "패키지 목록 다시 불러오기"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1209
+#: usr/lib/mauna/maunainstall/maunainstall.py:902
+msgid "Software sources"
+msgstr "소프트웨어 소스"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:907
 msgid "Preferences"
 msgstr "환경설정"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1219
-#: usr/lib/mauna/maunainstall/maunainstall.py:2081
+#: usr/lib/mauna/maunainstall/maunainstall.py:917
+#: usr/lib/mauna/maunainstall/maunainstall.py:1796
 msgid "About"
 msgstr "정보"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1559
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:8
+#: usr/lib/mauna/maunainstall/maunainstall.py:1263
+#: resources/maunainstall.glade.h:8
 msgid "Top Rated"
 msgstr "최고 등급"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1607
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:6
+#: usr/lib/mauna/maunainstall/maunainstall.py:1311
+#: resources/maunainstall.glade.h:6
 msgid "Featured"
 msgstr "추천"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1668
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:7
+#: usr/lib/mauna/maunainstall/maunainstall.py:1372
+#: resources/maunainstall.glade.h:7
 msgid "Categories"
 msgstr "카테고리"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1733
+#: usr/lib/mauna/maunainstall/maunainstall.py:1449
 #, python-format
 msgid "%d task running"
 msgid_plural "%d tasks running"
 msgstr[0] "%d개의 작업 실행 중"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:1876
+#: usr/lib/mauna/maunainstall/maunainstall.py:1591
 msgid "No screenshots available"
 msgstr "사용 가능한 스크린샷 없음"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2171
+#: usr/lib/mauna/maunainstall/maunainstall.py:1887
 msgid ""
 "There are currently active operations.\n"
 "Are you sure you want to quit?"
@@ -134,172 +138,172 @@ msgstr ""
 "현재 활성화된 작업이 있습니다.\n"
 "종료하시겠습니까?"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2229
+#: usr/lib/mauna/maunainstall/maunainstall.py:1945
 msgid "Installed Applications"
 msgstr "설치한 애플리케이션"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2232
+#: usr/lib/mauna/maunainstall/maunainstall.py:1948
 msgid "Currently working on the following packages"
 msgstr "현재 다음 패키지에서 작업하고 있습니다"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2237
+#: usr/lib/mauna/maunainstall/maunainstall.py:1953
 msgid "Internet"
 msgstr "인터넷"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2239
+#: usr/lib/mauna/maunainstall/maunainstall.py:1955
 msgid "Web"
 msgstr "웹"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2244
+#: usr/lib/mauna/maunainstall/maunainstall.py:1960
 msgid "Email"
 msgstr "이메일"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2248
+#: usr/lib/mauna/maunainstall/maunainstall.py:1964
 msgid "Chat"
 msgstr "채팅"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2251
+#: usr/lib/mauna/maunainstall/maunainstall.py:1967
 msgid "File sharing"
 msgstr "파일 공유"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2257
+#: usr/lib/mauna/maunainstall/maunainstall.py:1973
 msgid "Sound and video"
 msgstr "소리 / 영상"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2259
+#: usr/lib/mauna/maunainstall/maunainstall.py:1975
 msgid "Sound"
 msgstr "소리"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2261
+#: usr/lib/mauna/maunainstall/maunainstall.py:1977
 msgid "Video"
 msgstr "영상"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2266
+#: usr/lib/mauna/maunainstall/maunainstall.py:1982
 msgid "Graphics"
 msgstr "그래픽"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2270
+#: usr/lib/mauna/maunainstall/maunainstall.py:1986
 msgid "3D"
 msgstr "3D"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2272
+#: usr/lib/mauna/maunainstall/maunainstall.py:1988
 msgid "Drawing"
 msgstr "그림"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2274
+#: usr/lib/mauna/maunainstall/maunainstall.py:1990
 msgid "Photography"
 msgstr "사진"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2276
+#: usr/lib/mauna/maunainstall/maunainstall.py:1992
 msgid "Publishing"
 msgstr "출판"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2278
+#: usr/lib/mauna/maunainstall/maunainstall.py:1994
 msgid "Scanning"
 msgstr "스캔"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2280
+#: usr/lib/mauna/maunainstall/maunainstall.py:1996
 msgid "Viewers"
 msgstr "뷰어"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2285
+#: usr/lib/mauna/maunainstall/maunainstall.py:2001
 msgid "Office"
 msgstr "사무용 도구"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2291
+#: usr/lib/mauna/maunainstall/maunainstall.py:2007
 msgid "Games"
 msgstr "게임"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2295
+#: usr/lib/mauna/maunainstall/maunainstall.py:2011
 msgid "Board games"
 msgstr "보드 게임"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2297
+#: usr/lib/mauna/maunainstall/maunainstall.py:2013
 msgid "First-person"
 msgstr "1인칭 게임"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2299
+#: usr/lib/mauna/maunainstall/maunainstall.py:2015
 msgid "Real-time strategy"
 msgstr "실시간 전략"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2301
+#: usr/lib/mauna/maunainstall/maunainstall.py:2017
 msgid "Turn-based strategy"
 msgstr "턴제 전략"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2303
+#: usr/lib/mauna/maunainstall/maunainstall.py:2019
 msgid "Emulators"
 msgstr "에뮬레이터"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2305
+#: usr/lib/mauna/maunainstall/maunainstall.py:2021
 msgid "Simulation and racing"
 msgstr "시뮬레이션 / 레이싱"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2310
+#: usr/lib/mauna/maunainstall/maunainstall.py:2026
 msgid "Accessories"
 msgstr "보조 프로그램"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2316
+#: usr/lib/mauna/maunainstall/maunainstall.py:2032
 msgid "System tools"
 msgstr "시스템 도구"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2323
+#: usr/lib/mauna/maunainstall/maunainstall.py:2039
 msgid "Fonts"
 msgstr "글꼴"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2329
+#: usr/lib/mauna/maunainstall/maunainstall.py:2045
 msgid "Science and Education"
 msgstr "과학과 교육"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2330
+#: usr/lib/mauna/maunainstall/maunainstall.py:2046
 msgid "Science"
 msgstr "과학"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2332
+#: usr/lib/mauna/maunainstall/maunainstall.py:2048
 msgid "Maths"
 msgstr "수학"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2334
+#: usr/lib/mauna/maunainstall/maunainstall.py:2050
 msgid "Education"
 msgstr "교육"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2336
+#: usr/lib/mauna/maunainstall/maunainstall.py:2052
 msgid "Electronics"
 msgstr "전자공학"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2342
+#: usr/lib/mauna/maunainstall/maunainstall.py:2058
 msgid "Programming"
 msgstr "프로그래밍"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2344
+#: usr/lib/mauna/maunainstall/maunainstall.py:2060
 msgid "Java"
 msgstr "Java"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2345
+#: usr/lib/mauna/maunainstall/maunainstall.py:2062
 msgid "PHP"
 msgstr "PHP"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2348
+#: usr/lib/mauna/maunainstall/maunainstall.py:2064
 msgid "Python"
 msgstr "파이썬"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2350
+#: usr/lib/mauna/maunainstall/maunainstall.py:2066
 msgid "Essentials"
 msgstr "정수"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2355
+#: usr/lib/mauna/maunainstall/maunainstall.py:2071
 msgid "All Applications"
 msgstr "모든 애플리케이션"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2791
+#: usr/lib/mauna/maunainstall/maunainstall.py:2516
 msgid "All operations complete"
 msgstr "모든 작업이 완료되었습니다"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2795
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:9
+#: usr/lib/mauna/maunainstall/maunainstall.py:2520
+#: resources/maunainstall.glade.h:9
 msgid "No matching packages found"
 msgstr "일치하는 패키지가 없습니다."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2798
+#: usr/lib/mauna/maunainstall/maunainstall.py:2523
 msgid ""
 "No packages to show.\n"
 "This may indicate a problem - try refreshing the cache."
@@ -307,127 +311,126 @@ msgstr ""
 "표시할 패키지가 없습니다.\n"
 "문제가 있다고 나타날 수 있습니다 - 캐시를 새로 불러와보세요."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2931
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:14
+#: usr/lib/mauna/maunainstall/maunainstall.py:2656
+#: resources/maunainstall.glade.h:14
 msgid "System Package"
 msgstr "시스템 패키지"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2931
+#: usr/lib/mauna/maunainstall/maunainstall.py:2656
 msgid "Your system's package manager"
 msgstr "시스템의 패키지 관리자"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2943
+#: usr/lib/mauna/maunainstall/maunainstall.py:2668
 #, python-format
 msgid "Flatpak (%s)"
 msgstr "Flatpak (%s)"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2970
-msgid "Unknown maintainer"
-msgstr "알 수 없는 관리자"
-
-#: usr/lib/mauna/maunainstall/maunainstall.py:2974
+#: usr/lib/mauna/maunainstall/maunainstall.py:2697
 #, python-format
 msgid "by %s"
 msgstr "%s 기준"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:2998
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:20
+#: usr/lib/mauna/maunainstall/maunainstall.py:2699
+msgid "Unknown maintainer"
+msgstr "알 수 없는 관리자"
+
+#: usr/lib/mauna/maunainstall/maunainstall.py:2723
+#: resources/maunainstall.glade.h:20
 msgid "Homepage"
 msgstr "홈페이지"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3007
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:21
+#: usr/lib/mauna/maunainstall/maunainstall.py:2732
+#: resources/maunainstall.glade.h:21
 msgid "Documentation"
 msgstr "설명서"
 
 #. TRANSLATORS: showing specific number of reviews in the list view and the header of the package details.
-#: usr/lib/mauna/maunainstall/maunainstall.py:3047
+#: usr/lib/mauna/maunainstall/maunainstall.py:2771
 #, python-format
 msgid "%d Review"
 msgid_plural "%d Reviews"
 msgstr[0] "%d 리뷰"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3110
+#: usr/lib/mauna/maunainstall/maunainstall.py:2834
 #, python-format
 msgid "Click <a href='%s'>here</a> to add your own review."
 msgstr "<a href='%s'>여기</a> 를 눌러서 여러분의 평가를 추가하세요."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3165
+#: usr/lib/mauna/maunainstall/maunainstall.py:2889
 msgid ""
 "Unable to communicate with servers. Check your Internet connection and try "
 "again."
 msgstr "서버와 통신할 수 없습니다. 인터넷 연결을 확인하고 다시 시도하십시오."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3198
+#: usr/lib/mauna/maunainstall/maunainstall.py:2922
 msgid "Installed"
 msgstr "설치됨"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3200
-#: usr/lib/mauna/maunainstall/maunainstall-remove-app.py:64
+#: usr/lib/mauna/maunainstall/maunainstall.py:2924
 msgid "Removing"
 msgstr "제거 중"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3202
+#: usr/lib/mauna/maunainstall/maunainstall.py:2926
 msgid "Install"
 msgstr "설치"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3210
+#: usr/lib/mauna/maunainstall/maunainstall.py:2934
 msgid "Not installed"
 msgstr "설치되지 않음"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3212
+#: usr/lib/mauna/maunainstall/maunainstall.py:2936
 msgid "Installing"
 msgstr "설치 중"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3216
+#: usr/lib/mauna/maunainstall/maunainstall.py:2940
 msgid "Cannot remove"
 msgstr "제거할 수 없습니다"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3217
+#: usr/lib/mauna/maunainstall/maunainstall.py:2941
 msgid "Removing this package could cause irreparable damage to your system."
 msgstr "이 패키지를 지우는 것은 시스템에 되돌릴 수 없는 피해를 줄 수 있습니다."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3219
+#: usr/lib/mauna/maunainstall/maunainstall.py:2943
 msgid "Cannot install"
 msgstr "설치할 수 없습니다"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3220
+#: usr/lib/mauna/maunainstall/maunainstall.py:2944
 msgid "Installing this package could cause irreparable damage to your system."
 msgstr ""
 "이 패키지를 설치하는 것은 시스템에 되돌릴 수 없는 피해를 줄 수 있습니다."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3228
+#: usr/lib/mauna/maunainstall/maunainstall.py:2952
 msgid "Not available"
 msgstr "사용할 수 없음"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3232
+#: usr/lib/mauna/maunainstall/maunainstall.py:2956
 msgid "Please use apt-get to install this package."
 msgstr "이 패키지를 설치하려면 apt-get을 사용하십시오."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3234
+#: usr/lib/mauna/maunainstall/maunainstall.py:2958
 msgid "Use apt-get to remove this package."
 msgstr "이 패키지를 제거하려면 apt-get을 사용하십시오."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3238
+#: usr/lib/mauna/maunainstall/maunainstall.py:2962
 msgid "Try again"
 msgstr "다시 시도"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3241
+#: usr/lib/mauna/maunainstall/maunainstall.py:2965
 msgid "Something went wrong. Click to try again."
 msgstr "문제가 발생했습니다. 다시 시도하려면 클릭하세요."
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3267
+#: usr/lib/mauna/maunainstall/maunainstall.py:2991
 #, python-format
 msgid "%(localSize)s of disk space required"
 msgstr "%(localSize)s 의 공간 필요"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3271
+#: usr/lib/mauna/maunainstall/maunainstall.py:2995
 #, python-format
 msgid "%(downloadSize)s to download, %(localSize)s of disk space freed"
 msgstr ""
 "다운로드 시 %(downloadSize)s 사용, %(localSize)s 의 공간이 사용 가능하게 됨"
 
-#: usr/lib/mauna/maunainstall/maunainstall.py:3274
+#: usr/lib/mauna/maunainstall/maunainstall.py:2998
 #, python-format
 msgid "%(downloadSize)s to download, %(localSize)s of disk space required"
 msgstr "다운로드 시 %(downloadSize)s 사용, %(localSize)s 의 공간이 필요함"
@@ -472,11 +475,11 @@ msgstr "앱에 여러 형식이 있는 경우:"
 msgid "Install new applications"
 msgstr "새로운 소프트웨어를 설치합니다"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:1
+#: resources/maunainstall.glade.h:1
 msgid "Unverified Flatpaks represent a huge security risk"
 msgstr "검증되지 않은 Flatpak은 엄청난 보안 위험을 나타냅니다."
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:2
+#: resources/maunainstall.glade.h:2
 msgid ""
 "They are not officially approved by the developer of the application and "
 "could be maintained by anyone."
@@ -484,7 +487,7 @@ msgstr ""
 "이는 애플리케이션 개발자가 공식적으로 승인하지 않았으며 누구나 유지 관리할 "
 "수 있습니다."
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:3
+#: resources/maunainstall.glade.h:3
 msgid ""
 "To avoid any potential malware, Mauna Linux strongly recommends against "
 "unverified Flatpaks."
@@ -492,67 +495,67 @@ msgstr ""
 "잠재적인 악성 코드를 방지하기 위해 Mauna Linux는 확인되지 않은 Flatpaks를 사"
 "용하지 않을 것을 강력히 권장합니다."
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:4
+#: resources/maunainstall.glade.h:4
 msgid "Loading, please wait"
 msgstr "로딩 중 기다려주세요"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:5
+#: resources/maunainstall.glade.h:5
 msgid "Generating cache, one moment"
 msgstr "캐시 생성 중, 잠시 기다려 주세요"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:10
+#: resources/maunainstall.glade.h:10
 msgid "Refresh"
 msgstr "새로 고침"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:11
+#: resources/maunainstall.glade.h:11
 msgid "Unverified Flatpak"
 msgstr "검증되지 않은 플랫팩"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:12
+#: resources/maunainstall.glade.h:12
 msgid "Launch"
 msgstr "실행"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:13
+#: resources/maunainstall.glade.h:13
 msgid "Please be patient. This can take some time..."
 msgstr "잠시만 기다려 주세요. 시간이 걸릴 수 있습니다..."
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:15
+#: resources/maunainstall.glade.h:15
 msgid "Name:"
 msgstr "이름:"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:16
+#: resources/maunainstall.glade.h:16
 msgid "Version:"
 msgstr "버전:"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:17
+#: resources/maunainstall.glade.h:17
 msgid "Size:"
 msgstr "크기:"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:18
+#: resources/maunainstall.glade.h:18
 msgid "Branch:"
 msgstr "브랜치:"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:19
+#: resources/maunainstall.glade.h:19
 msgid "Remote:"
 msgstr "원격지:"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:22
+#: resources/maunainstall.glade.h:22
 msgid "Details"
 msgstr "자세히"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:23
+#: resources/maunainstall.glade.h:23
 msgid "Reviews"
 msgstr "평가"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:24
+#: resources/maunainstall.glade.h:24
 msgid "Optional components"
 msgstr "선택적 구성요소"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:25
+#: resources/maunainstall.glade.h:25
 msgid "Searching software repositories, one moment"
 msgstr "소프트웨어 저장소를 찾고 있습니다, 잠시만 기다려 주세요"
 
-#: usr/share/mauna/maunainstall/maunainstall.glade.h:26
+#: resources/maunainstall.glade.h:26
 msgid "Limit search to current listing"
 msgstr "현재 목록으로 검색 제한"
 
